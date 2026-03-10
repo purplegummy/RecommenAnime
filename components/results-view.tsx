@@ -56,9 +56,8 @@ export function ResultsView({
   const headline =
     selectedSeeds.length === 0
       ? "Popular right now"
-      : `Because you liked ${selectedSeeds[0]?.titleEnglish ?? selectedSeeds[0]?.title}${
-          selectedSeeds.length > 1 ? ` +${selectedSeeds.length - 1}` : ""
-        }`;
+      : `Because you liked ${selectedSeeds[0]?.titleEnglish ?? selectedSeeds[0]?.title}${selectedSeeds.length > 1 ? ` +${selectedSeeds.length - 1}` : ""
+      }`;
 
   const canPrev = page > 1;
   const totalPages = Math.max(1, Math.ceil(total / pageSize));
@@ -67,28 +66,10 @@ export function ResultsView({
   const rangeEnd = total === 0 ? 0 : Math.min(page * pageSize, total);
 
   return (
-    <div
-      style={{
-        flex: 1,
-        height: "100vh",
-        display: "flex",
-        flexDirection: "column",
-        padding: "40px 36px 64px",
-        minWidth: 0,
-        position: "relative",
-        zIndex: 5,
-      }}
-    >
-      <div
-        style={{
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "space-between",
-          marginBottom: 20,
-          flexShrink: 0,
-        }}
-      >
+    <div className="results-panel">
+      <div className="results-header">
         <div
+          className="results-headline"
           style={{
             fontFamily: "var(--font-display), 'Playfair Display', serif",
             fontStyle: "italic",
@@ -98,7 +79,7 @@ export function ResultsView({
         >
           {headline}
         </div>
-        <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
+        <div className="results-pagination-desktop" style={{ display: "flex", alignItems: "center", gap: 12 }}>
           <div
             style={{
               fontSize: 11,
@@ -168,17 +149,7 @@ export function ResultsView({
       </div>
 
       {loading ? (
-        <div
-          style={{
-            flex: 1,
-            display: "grid",
-            gridTemplateColumns: "repeat(4, minmax(0, 1fr))",
-            gridAutoRows: "auto",
-            alignItems: "stretch",
-            gap: 12,
-            minHeight: 0,
-          }}
-        >
+        <div className="results-grid">
           {Array.from({ length: pageSize }).map((_, index) => (
             <div
               key={index}
@@ -204,23 +175,28 @@ export function ResultsView({
           No results found.
         </div>
       ) : (
-        <div
-          style={{
-            flex: 1,
-            display: "grid",
-            gridTemplateColumns: "repeat(4, minmax(0, 1fr))",
-            gridAutoRows: "auto",
-            alignItems: "stretch",
-            gap: 12,
-            minHeight: 0,
-          }}
-        >
+        <div className="results-grid">
           {results.slice(0, 8).map(({ anime, matchScore, explanation }, index) => (
             <article
               key={anime.id}
               className="card"
               onMouseEnter={() => onHoverAccent(PALETTE[index % PALETTE.length])}
               onMouseLeave={() => onHoverAccent(null)}
+              onClick={() => {
+                setExpandedSynopsis({
+                  title: anime.titleEnglish ?? anime.title,
+                  synopsis: anime.synopsis ?? "",
+                  score: anime.score,
+                  rating: anime.rating,
+                  year: anime.year,
+                  episodes: anime.episodes,
+                  status: anime.status,
+                  genres: anime.genres,
+                  themes: anime.themes,
+                  studios: anime.studios,
+                  trailerUrl: anime.trailerUrl ?? null,
+                });
+              }}
             >
               <div
                 style={{
@@ -309,41 +285,6 @@ export function ResultsView({
                     ? ` · ${[...anime.genres, ...anime.themes].slice(0, 2).join(" · ")}`
                     : ""}
                 </div>
-                {explanation ? (
-                  <div
-                    style={{
-                      marginTop: 6,
-                      fontSize: 11,
-                      lineHeight: 1.5,
-                      color: "rgba(255,255,255,0.82)",
-                      textShadow: "0 1px 3px rgba(0,0,0,0.8)",
-                      display: "-webkit-box",
-                      WebkitLineClamp: 2,
-                      WebkitBoxOrient: "vertical" as const,
-                      overflow: "hidden",
-                    }}
-                  >
-                    {explanation}
-                  </div>
-                ) : null}
-                {anime.synopsis ? (
-                  <div
-                    style={{
-                      marginTop: 6,
-                      fontSize: 10,
-                      lineHeight: 1.4,
-                      color: "rgba(255,255,255,0.88)",
-                      textShadow: "0 1px 3px rgba(0,0,0,0.8)",
-                      maxHeight: 44,
-                      overflow: "hidden",
-                      display: "-webkit-box",
-                      WebkitLineClamp: 2,
-                      WebkitBoxOrient: "vertical" as const,
-                    }}
-                  >
-                    {anime.synopsis}
-                  </div>
-                ) : null}
                 {anime.synopsis ? (
                   <button
                     type="button"
@@ -385,6 +326,72 @@ export function ResultsView({
           ))}
         </div>
       )}
+
+      {/* Mobile bottom pagination */}
+      <div className="results-pagination-mobile">
+        <div style={{ display: "flex", gap: 6, justifyContent: "center" }}>
+          <button
+            type="button"
+            onClick={onPreviousPage}
+            disabled={!canPrev}
+            aria-label="Previous recommendations"
+            style={{
+              minWidth: 76,
+              height: 32,
+              borderRadius: 999,
+              border: "1px solid rgba(255,255,255,0.18)",
+              background: "transparent",
+              color: canPrev ? "rgba(255,255,255,0.7)" : "rgba(255,255,255,0.28)",
+              fontSize: 12,
+              padding: "0 14px",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: 6,
+              cursor: canPrev ? "pointer" : "not-allowed",
+            }}
+          >
+            <span aria-hidden="true">←</span>
+            <span>Prev</span>
+          </button>
+          <button
+            type="button"
+            onClick={onNextPage}
+            disabled={!canNext}
+            aria-label="More recommendations"
+            style={{
+              minWidth: 76,
+              height: 32,
+              borderRadius: 999,
+              border: "1px solid rgba(255,255,255,0.18)",
+              background: "transparent",
+              color: canNext ? "rgba(255,255,255,0.7)" : "rgba(255,255,255,0.28)",
+              fontSize: 12,
+              padding: "0 14px",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: 6,
+              cursor: canNext ? "pointer" : "not-allowed",
+            }}
+          >
+            <span>More</span>
+            <span aria-hidden="true">→</span>
+          </button>
+        </div>
+        <div
+          style={{
+            fontSize: 11,
+            color: "rgba(255,255,255,0.25)",
+            letterSpacing: "0.06em",
+            textAlign: "center",
+            marginTop: 8,
+          }}
+        >
+          {total > 0 ? `${rangeStart}-${rangeEnd} of ${total}` : ""}
+        </div>
+      </div>
+
       {expandedSynopsis ? (
         <div
           role="dialog"

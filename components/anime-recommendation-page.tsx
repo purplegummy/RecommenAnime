@@ -26,6 +26,7 @@ export function AnimeRecommendationPage() {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [feedback, setFeedback] = useState<RecommendationFeedback>(EMPTY_FEEDBACK);
   const [page, setPage] = useState(1);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   const requestBody: RecommendRequest = useMemo(
     () => ({
@@ -123,16 +124,7 @@ export function AnimeRecommendationPage() {
   }
 
   return (
-    <main
-      style={{
-        display: "flex",
-        width: "100vw",
-        height: "100vh",
-        overflow: "hidden",
-        background: "var(--background)",
-        position: "relative",
-      }}
-    >
+    <main className="main-layout">
       <div
         style={{
           position: "fixed",
@@ -146,20 +138,37 @@ export function AnimeRecommendationPage() {
         }}
       />
 
+      {!sidebarOpen && (
+        <button
+          type="button"
+          className="sidebar-toggle"
+          aria-label="Open sidebar"
+          onClick={() => setSidebarOpen(true)}
+        >
+          ☰
+        </button>
+      )}
+
+      <div
+        className={`sidebar-overlay${sidebarOpen ? " visible" : ""}`}
+        onClick={() => setSidebarOpen(false)}
+      />
+
       <TasteSidebar
         selectedSeeds={selectedSeeds}
         onAddSeed={addSeed}
-        onRemoveSeed={(id) =>
-          {
-            setPage(1);
-            setSelectedSeeds((current) =>
-              current.filter((anime) => anime.id !== id),
-            );
-          }
+        onRemoveSeed={(id) => {
+          setPage(1);
+          setSelectedSeeds((current) =>
+            current.filter((anime) => anime.id !== id),
+          );
+        }
         }
         selectedTags={selectedTags}
         onToggleTag={toggleTag}
         onReorderSeeds={moveSeed}
+        isOpen={sidebarOpen}
+        onClose={() => setSidebarOpen(false)}
       />
 
       <ResultsView

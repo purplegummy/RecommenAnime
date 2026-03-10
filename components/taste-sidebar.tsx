@@ -12,6 +12,8 @@ type TasteSidebarProps = {
   selectedTags: string[];
   onToggleTag: (tag: string) => void;
   onReorderSeeds: (fromIndex: number, toIndex: number) => void;
+  isOpen: boolean;
+  onClose: () => void;
 };
 
 export function TasteSidebar({
@@ -21,6 +23,8 @@ export function TasteSidebar({
   selectedTags,
   onToggleTag,
   onReorderSeeds,
+  isOpen,
+  onClose,
 }: TasteSidebarProps) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<SearchAnimeResult[]>([]);
@@ -74,18 +78,7 @@ export function TasteSidebar({
 
   return (
     <div
-      style={{
-        width: 260,
-        minWidth: 260,
-        height: "100vh",
-        padding: "40px 28px",
-        display: "flex",
-        flexDirection: "column",
-        gap: 0,
-        borderRight: "1px solid rgba(255,255,255,0.05)",
-        position: "relative",
-        zIndex: 10,
-      }}
+      className={`sidebar${isOpen ? " sidebar-open" : ""} subtle-scrollbar`}
     >
       <div style={{ marginBottom: 48 }}>
         <div
