@@ -1,0 +1,2030 @@
+{
+  "pagination": {
+    "last_visible_page": 12,
+    "has_next_page": false,
+    "current_page": 12,
+    "items": {
+      "count": 19,
+      "total": 294,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 58599,
+      "url": "https://myanimelist.net/anime/58599/Duel_Masters_Special_Movie__Douka",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1123/142436.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1123/142436t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1123/142436l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1123/142436.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1123/142436t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1123/142436l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Duel Masters Special Movie: Douka"
+        },
+        {
+          "type": "Japanese",
+          "title": "デュエル・マスターズ Special Movie「導火」"
+        }
+      ],
+      "title": "Duel Masters Special Movie: Douka",
+      "title_english": null,
+      "title_japanese": "デュエル・マスターズ Special Movie「導火」",
+      "title_synonyms": [],
+      "type": "PV",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-03-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 31,
+            "month": 3,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 31, 2024"
+      },
+      "duration": "1 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 28859,
+      "members": 85,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "J.C.Staff",
+          "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 11,
+          "type": "anime",
+          "name": "Strategy Game",
+          "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 59692,
+      "url": "https://myanimelist.net/anime/59692/Saba_Ningen",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1053/145147.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1053/145147t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1053/145147l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1053/145147.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1053/145147t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1053/145147l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Apbsg4Z3tsM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Saba Ningen"
+        },
+        {
+          "type": "Japanese",
+          "title": "サバ人間"
+        }
+      ],
+      "title": "Saba Ningen",
+      "title_english": null,
+      "title_japanese": "サバ人間",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2024"
+      },
+      "duration": "17 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 14950,
+      "popularity": 28947,
+      "members": 84,
+      "favorites": 0,
+      "synopsis": "Momo, a postman, receives a letter every time she delivers a package to Sabao's house. One day, while continuing to exchange letters and packages, Momo discovers Sabao running an ice cream stand on the roadside.\n\n(Source: U-NEXT, translated)",
+      "background": "3rd Year Work 2024 by Rintarou Kamikawa, Kobe Design University.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 2565,
+          "type": "anime",
+          "name": "Kobe Design University",
+          "url": "https://myanimelist.net/anime/producer/2565/Kobe_Design_University"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 59795,
+      "url": "https://myanimelist.net/anime/59795/Into_a_Landscape",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1144/145416.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1144/145416t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1144/145416l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1144/145416.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1144/145416t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1144/145416l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Into a Landscape"
+        },
+        {
+          "type": "Japanese",
+          "title": "Into a Landscape"
+        }
+      ],
+      "title": "Into a Landscape",
+      "title_english": null,
+      "title_japanese": "Into a Landscape",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2024"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 20025,
+      "popularity": 28916,
+      "members": 84,
+      "favorites": 0,
+      "synopsis": "Today, somewhere, a landscape is born on paper. Eventually, it will become immobile. But the landscape within us never ceases to flow and expand. The colors and shapes push and pull -- not even a moment of preservation.\n\n(Source: Geidai Animation)",
+      "background": "1st year work 2024 by Chihiro Yamanaka, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1524,
+          "type": "anime",
+          "name": "Geidai Animation",
+          "url": "https://myanimelist.net/anime/producer/1524/Geidai_Animation"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 59896,
+      "url": "https://myanimelist.net/anime/59896/Goyang-iga_Doeeossda",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1300/145675.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1300/145675t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1300/145675l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1300/145675.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1300/145675t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1300/145675l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Goyang-iga Doeeossda"
+        },
+        {
+          "type": "Japanese",
+          "title": "고양이가 되었다"
+        },
+        {
+          "type": "English",
+          "title": "I Became a Cat"
+        }
+      ],
+      "title": "Goyang-iga Doeeossda",
+      "title_english": "I Became a Cat",
+      "title_japanese": "고양이가 되었다",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2024"
+      },
+      "duration": "5 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 19399,
+      "popularity": 29034,
+      "members": 83,
+      "favorites": 0,
+      "synopsis": "A guy, heartbroken from losing his cat, Haru, wakes up one day to find himself transformed into a cat. While navigating this bizarre new life, he stumbles upon the Dog Man and his dog, also named Haru, who surprisingly recognize him in his feline form. \n\n(Source: Official site)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2596,
+          "type": "anime",
+          "name": "Comma Studio",
+          "url": "https://myanimelist.net/anime/producer/2596/Comma_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 60007,
+      "url": "https://myanimelist.net/anime/60007/Kamigami_Rairai",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1271/145850.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1271/145850t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1271/145850l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1271/145850.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1271/145850t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1271/145850l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kamigami Rairai"
+        },
+        {
+          "type": "Japanese",
+          "title": "神々来々"
+        }
+      ],
+      "title": "Kamigami Rairai",
+      "title_english": null,
+      "title_japanese": "神々来々",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2024"
+      },
+      "duration": "10 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 18165,
+      "popularity": 29219,
+      "members": 80,
+      "favorites": 0,
+      "synopsis": "The man who had been walking only on the white lines could no longer move forward. He turned his attention to his smartphone and saw a video titled \"The Gods Come.\" The story began, and he turned around and started walking again.\n\n(Source: Geidai Animation)",
+      "background": "1st year work 2024 by Tsubaki Takeda, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1524,
+          "type": "anime",
+          "name": "Geidai Animation",
+          "url": "https://myanimelist.net/anime/producer/1524/Geidai_Animation"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 59704,
+      "url": "https://myanimelist.net/anime/59704/Imomushi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1493/145173.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1493/145173t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1493/145173l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1493/145173.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1493/145173t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1493/145173l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Imomushi"
+        },
+        {
+          "type": "Japanese",
+          "title": "芋虫"
+        }
+      ],
+      "title": "Imomushi",
+      "title_english": null,
+      "title_japanese": "芋虫",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2024"
+      },
+      "duration": "12 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 20009,
+      "popularity": 29303,
+      "members": 78,
+      "favorites": 0,
+      "synopsis": "Mr. Sunaga, a former army lieutenant who lost his limbs and voice in World War II, lives a secluded life with his wife, Tokiko, in a small villa.\n\n(Source: Tougakusai, translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 62115,
+      "url": "https://myanimelist.net/anime/62115/UR_Chintai_Juutaku_x_Taeko_no_Nichijou__Kurashi_no_College",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1634/151158.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1634/151158t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1634/151158l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1634/151158.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1634/151158t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1634/151158l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "UR Chintai Juutaku x Taeko no Nichijou: Kurashi no College"
+        },
+        {
+          "type": "Japanese",
+          "title": "UR賃貸住宅×耐え子の日常 くらしのカレッジ"
+        }
+      ],
+      "title": "UR Chintai Juutaku x Taeko no Nichijou: Kurashi no College",
+      "title_english": null,
+      "title_japanese": "UR賃貸住宅×耐え子の日常 くらしのカレッジ",
+      "title_synonyms": [],
+      "type": "CM",
+      "source": "Other",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2024-03-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 3,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 29, 2024 to ?"
+      },
+      "duration": "1 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29349,
+      "members": 75,
+      "favorites": 0,
+      "synopsis": "A collaboration between the Japanese Urban Renaissance Agency (UR) and Taeko no Nichijou to provide living tips to new renters.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 276,
+          "type": "anime",
+          "name": "DLE",
+          "url": "https://myanimelist.net/anime/producer/276/DLE"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 62501,
+      "url": "https://myanimelist.net/anime/62501/Chiisana_Jam_to_Goblin_no_Opp",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1045/152069.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1045/152069t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1045/152069l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1045/152069.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1045/152069t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1045/152069l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Chiisana Jam to Goblin no Opp"
+        },
+        {
+          "type": "Synonym",
+          "title": "Xiao Guojiang He Goblin Opp"
+        },
+        {
+          "type": "Synonym",
+          "title": "小果酱和哥布林欧普"
+        },
+        {
+          "type": "Japanese",
+          "title": "小さなジャムとゴブリンのオップ"
+        }
+      ],
+      "title": "Chiisana Jam to Goblin no Opp",
+      "title_english": null,
+      "title_japanese": "小さなジャムとゴブリンのオップ",
+      "title_synonyms": [
+        "Xiao Guojiang He Goblin Opp",
+        "小果酱和哥布林欧普"
+      ],
+      "type": "ONA",
+      "source": "Picture book",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-03-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 18,
+            "month": 3,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 18, 2024"
+      },
+      "duration": "16 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 20909,
+      "popularity": 29389,
+      "members": 73,
+      "favorites": 0,
+      "synopsis": "Animated short film based on a picture book by Yoshiji Kigami. It follows the growth of Jam, an apprentice wizard, through his interactions with Opp, a cynical goblin.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1433,
+          "type": "anime",
+          "name": "Ekura Animal",
+          "url": "https://myanimelist.net/anime/producer/1433/Ekura_Animal"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 60881,
+      "url": "https://myanimelist.net/anime/60881/Xin_Qi_Bao_Long_Zhan_Che_7__Ju_Shou_Zhan_Long",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1859/147807.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1859/147807t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1859/147807l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1859/147807.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1859/147807t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1859/147807l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xin Qi Bao Long Zhan Che 7: Ju Shou Zhan Long"
+        },
+        {
+          "type": "Japanese",
+          "title": "心奇爆龙战车7之巨兽战龙"
+        }
+      ],
+      "title": "Xin Qi Bao Long Zhan Che 7: Ju Shou Zhan Long",
+      "title_english": null,
+      "title_japanese": "心奇爆龙战车7之巨兽战龙",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 30,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 5, 2024 to ?"
+      },
+      "duration": "13 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 17034,
+      "popularity": 29458,
+      "members": 69,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 62057,
+      "url": "https://myanimelist.net/anime/62057/Warmth_in_a_Puddle",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1192/151067.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1192/151067t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1192/151067l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1192/151067.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1192/151067t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1192/151067l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Warmth in a Puddle"
+        },
+        {
+          "type": "Japanese",
+          "title": "Warmth in a Puddle"
+        }
+      ],
+      "title": "Warmth in a Puddle",
+      "title_english": null,
+      "title_japanese": "Warmth in a Puddle",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2024"
+      },
+      "duration": "10 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 16528,
+      "popularity": 29496,
+      "members": 67,
+      "favorites": 0,
+      "synopsis": "In a dimly lit room where only the sound of the ventilation fan echoes, the young man encounters a fish. The fish, distorted in shape, looks somewhat like the young man himself. The fish, which had been lying limp, suddenly jumps up and flies out of the window, floating in the air. The young man stares at the fish as it disappears into a puddle on the street, and becomes transported to a strange space.\n\n(Source: Kodansha Creators' Lab)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 60038,
+      "url": "https://myanimelist.net/anime/60038/Sweet_Singapore_CMs",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1297/152761.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1297/152761t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1297/152761l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1297/152761.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1297/152761t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1297/152761l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Sweet Singapore CMs"
+        },
+        {
+          "type": "Japanese",
+          "title": "스윗 싱가포르"
+        }
+      ],
+      "title": "Sweet Singapore CMs",
+      "title_english": null,
+      "title_japanese": "스윗 싱가포르",
+      "title_synonyms": [],
+      "type": "CM",
+      "source": "Web manga",
+      "episodes": 2,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-03-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 3,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 29, 2024"
+      },
+      "duration": "1 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29570,
+      "members": 61,
+      "favorites": 0,
+      "synopsis": "As part of \"Made in Singapore,\" a global promotional event designed to rekindle passion for travel to Singapore, the Singapore Tourism Board has partnered with Naver Webtoon to present \"Sweet Singapore Season 2,\" a Singapore-themed webtoon.\n\n\"Made in Singapore\" highlights Singapore's iconic tourist attractions and hidden gems, showcasing how ordinary moments in Singapore transform into extraordinary experiences.\n\n\"Sweet Singapore Season 2\" consists of two episodes: \"Nice Singapore Time,\" a sequel to Kim Jin's popular \"Nice Gin Time,\" and \"Singapore Fingers,\" a sequel to Han Gap-gyeong's beloved youth webtoon \"Spirit Fingers.\"\n\n(Source: Official website, Google translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 58481,
+      "url": "https://myanimelist.net/anime/58481/Rad_Rad",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1412/152324.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1412/152324t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1412/152324l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1412/152324.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1412/152324t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1412/152324l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Rad Rad"
+        },
+        {
+          "type": "Japanese",
+          "title": "RAD RAD"
+        }
+      ],
+      "title": "Rad Rad",
+      "title_english": null,
+      "title_japanese": "RAD RAD",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-03-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 3,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 12, 2024"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29593,
+      "members": 59,
+      "favorites": 0,
+      "synopsis": "Music video for the song RAD RAD with vocals by BPM15Q, music and lyrics written by TeddyLoid.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 58562,
+      "url": "https://myanimelist.net/anime/58562/Diggy_Diggy",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1258/142349.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1258/142349t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1258/142349l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1258/142349.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1258/142349t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1258/142349l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Diggy Diggy"
+        },
+        {
+          "type": "Japanese",
+          "title": "DIGGY DIGGY"
+        },
+        {
+          "type": "English",
+          "title": "Diggy Diggy"
+        }
+      ],
+      "title": "Diggy Diggy",
+      "title_english": "Diggy Diggy",
+      "title_japanese": "DIGGY DIGGY",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-03-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 15,
+            "month": 3,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 15, 2024"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29599,
+      "members": 59,
+      "favorites": 0,
+      "synopsis": "Music video for the song Diggy Diggy by 3SKM.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 62400,
+      "url": "https://myanimelist.net/anime/62400/Yoru_no_Denpa_wo_Sagashiteru",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1293/151821.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1293/151821t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1293/151821l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1293/151821.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1293/151821t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1293/151821l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yoru no Denpa wo Sagashiteru"
+        },
+        {
+          "type": "Japanese",
+          "title": "夜の電波を探してる"
+        }
+      ],
+      "title": "Yoru no Denpa wo Sagashiteru",
+      "title_english": null,
+      "title_japanese": "夜の電波を探してる",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2024"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 17375,
+      "popularity": 29611,
+      "members": 58,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 59907,
+      "url": "https://myanimelist.net/anime/59907/Sidaeyugam_2024_Remastered_Ver",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1257/152759.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1257/152759t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1257/152759l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1257/152759.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1257/152759t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1257/152759l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Sidaeyugam (2024 Remastered Ver.)"
+        },
+        {
+          "type": "Japanese",
+          "title": "시대유감(時代遺憾) (2024 Remastered Ver.)"
+        },
+        {
+          "type": "English",
+          "title": "Regret of the Times (2024 Remastered Ver.)"
+        }
+      ],
+      "title": "Sidaeyugam (2024 Remastered Ver.)",
+      "title_english": "Regret of the Times (2024 Remastered Ver.)",
+      "title_japanese": "시대유감(時代遺憾) (2024 Remastered Ver.)",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-01-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 1,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 12, 2024"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29653,
+      "members": 54,
+      "favorites": 0,
+      "synopsis": "Seotaiji and Boys' legendary alternative rock song Regret of the Times (1996) was remastered in 2024.\n\n(Source: Official YouTube Channel)",
+      "background": "This song was included as the instrumental song in Seotaiji and Boys' 4th album - Title song: Come Back Home - in October, 1995., and the vocal version was released in July, 1996 in Republic of Korea. This song had a great influence on the abolition of the pre-deliberation system, which was managed by Performance Ethics Committee in Republic of Korea.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 63437,
+      "url": "https://myanimelist.net/anime/63437/Chuldong_Super_Wings_8",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1901/155325.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1901/155325t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1901/155325l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1901/155325.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1901/155325t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1901/155325l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Chuldong! Super Wings 8"
+        },
+        {
+          "type": "Synonym",
+          "title": "Super Wings 8"
+        },
+        {
+          "type": "Japanese",
+          "title": "출동! 슈퍼윙스8"
+        },
+        {
+          "type": "English",
+          "title": "Super Wings: Electric Heroes"
+        }
+      ],
+      "title": "Chuldong! Super Wings 8",
+      "title_english": "Super Wings: Electric Heroes",
+      "title_japanese": "출동! 슈퍼윙스8",
+      "title_synonyms": [
+        "Super Wings 8"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 40,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-02-26T00:00:00+00:00",
+        "to": "2024-07-09T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 26,
+            "month": 2,
+            "year": 2024
+          },
+          "to": {
+            "day": 9,
+            "month": 7,
+            "year": 2024
+          }
+        },
+        "string": "Feb 26, 2024 to Jul 9, 2024"
+      },
+      "duration": "11 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 20990,
+      "popularity": 29654,
+      "members": 53,
+      "favorites": 0,
+      "synopsis": "Eighth season of Chuldong! Super Wings.",
+      "background": "",
+      "season": "winter",
+      "year": 2024,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3167,
+          "type": "anime",
+          "name": "Funny Flux",
+          "url": "https://myanimelist.net/anime/producer/3167/Funny_Flux"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 63447,
+      "url": "https://myanimelist.net/anime/63447/Gan_Gap_Ying_Bin_Tou_Sang_Faat",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1381/155352.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1381/155352t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1381/155352l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1381/155352.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1381/155352t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1381/155352l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Gan Gap Ying Bin Tou Sang Faat"
+        },
+        {
+          "type": "Japanese",
+          "title": "緊急應變逃生法"
+        },
+        {
+          "type": "English",
+          "title": "Emergency"
+        }
+      ],
+      "title": "Gan Gap Ying Bin Tou Sang Faat",
+      "title_english": "Emergency",
+      "title_japanese": "緊急應變逃生法",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-03-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 3,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 4, 2024"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29698,
+      "members": 45,
+      "favorites": 0,
+      "synopsis": "Music video for the song Gan Gap Ying Bin Tou Sang Faat by Pandora.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 58791,
+      "url": "https://myanimelist.net/anime/58791/Hi_Φ_Club",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1692/142853.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1692/142853t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1692/142853l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1692/142853.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1692/142853t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1692/142853l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hi Φ Club"
+        },
+        {
+          "type": "Japanese",
+          "title": "灰Φ倶楽部"
+        }
+      ],
+      "title": "Hi Φ Club",
+      "title_english": null,
+      "title_japanese": "灰Φ倶楽部",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-02-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 2,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 10, 2024"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29720,
+      "members": 42,
+      "favorites": 0,
+      "synopsis": "Music video for the song Hi Φ Club by NILFRUITS, featuring vocals by flower.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+          "mal_id": 40,
+          "type": "anime",
+          "name": "Psychological",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 63393,
+      "url": "https://myanimelist.net/anime/63393/Kyouryuu_Chou_Densetsu_2__Darwin_ga_Kita_Movie",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1965/155185.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1965/155185t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1965/155185l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1965/155185.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1965/155185t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1965/155185l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kyouryuu Chou Densetsu 2: Darwin ga Kita Movie!"
+        },
+        {
+          "type": "Japanese",
+          "title": "恐竜超伝説2 劇場版ダーウィンが来た！"
+        }
+      ],
+      "title": "Kyouryuu Chou Densetsu 2: Darwin ga Kita Movie!",
+      "title_english": null,
+      "title_japanese": "恐竜超伝説2 劇場版ダーウィンが来た！",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-03-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 3,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 8, 2024"
+      },
+      "duration": "1 hr 24 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 20829,
+      "popularity": 29754,
+      "members": 32,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "Educational",
+          "url": "https://myanimelist.net/anime/genre/56/Educational"
+        }
+      ],
+      "demographics": []
+    }
+  ]
+}

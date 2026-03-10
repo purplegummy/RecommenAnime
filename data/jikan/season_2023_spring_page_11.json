@@ -1,0 +1,2843 @@
+{
+  "pagination": {
+    "last_visible_page": 12,
+    "has_next_page": true,
+    "current_page": 11,
+    "items": {
+      "count": 25,
+      "total": 280,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 56541,
+      "url": "https://myanimelist.net/anime/56541/Sayonara_no_Mukou_ni",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1873/138247.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1873/138247t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1873/138247l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1873/138247.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1873/138247t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1873/138247l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Sayonara no Mukou ni"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "さよならの向こうに"
+        }
+      ],
+      "title": "Sayonara no Mukou ni",
+      "title_english": null,
+      "title_japanese": "さよならの向こうに",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-06-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 6,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 1, 2023"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25586,
+      "members": 129,
+      "favorites": 0,
+      "synopsis": "Music video for the song Sayonara no Mukou ni by Kouhei Matsushita that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 56658,
+      "url": "https://myanimelist.net/anime/56658/Toumei_na_Nukumori",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1127/138496.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1127/138496t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1127/138496l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1127/138496.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1127/138496t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1127/138496l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Toumei na Nukumori"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "透明なぬくもり"
+        }
+      ],
+      "title": "Toumei na Nukumori",
+      "title_english": null,
+      "title_japanese": "透明なぬくもり",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-06-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 6,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 1, 2023"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25594,
+      "members": 129,
+      "favorites": 0,
+      "synopsis": "Music video for the song Toumei na Nukumori by tico moon, featuring Risa Nakagawa, that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2818,
+          "type": "anime",
+          "name": "qmotri",
+          "url": "https://myanimelist.net/anime/producer/2818/qmotri"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 56581,
+      "url": "https://myanimelist.net/anime/56581/Kimi_ni",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1076/138330.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1076/138330t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1076/138330l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1076/138330.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1076/138330t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1076/138330l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kimi ni"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "君に"
+        }
+      ],
+      "title": "Kimi ni",
+      "title_english": null,
+      "title_japanese": "君に",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-06-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 6,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 1, 2023"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25687,
+      "members": 127,
+      "favorites": 0,
+      "synopsis": "Music video for the song Kimi ni by Shounan no Kaze that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 56707,
+      "url": "https://myanimelist.net/anime/56707/Hoshi_to_Tanpopo",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1010/138616.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1010/138616t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1010/138616l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1010/138616.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1010/138616t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1010/138616l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hoshi to Tanpopo"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "星とたんぽぽ"
+        }
+      ],
+      "title": "Hoshi to Tanpopo",
+      "title_english": null,
+      "title_japanese": "星とたんぽぽ",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 6, 2023"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25831,
+      "members": 125,
+      "favorites": 0,
+      "synopsis": "Music video for the song Hoshi to Tanpopo by Ao (Ryunosuke Kamiki), Kii (Fumi Nikaidou), and Midories, that was featured on NHK's Minna no Uta and Ao Kiiro programs.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57917,
+      "url": "https://myanimelist.net/anime/57917/Jinsei_Over",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1894/141081.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1894/141081t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1894/141081l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1894/141081.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1894/141081t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1894/141081l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Jinsei Over"
+        },
+        {
+          "type": "Japanese",
+          "title": "人生オーバー"
+        }
+      ],
+      "title": "Jinsei Over",
+      "title_english": null,
+      "title_japanese": "人生オーバー",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-05-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 5,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 19, 2023"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25860,
+      "members": 124,
+      "favorites": 1,
+      "synopsis": "Music video for the song Jinsei Over by harha.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 56337,
+      "url": "https://myanimelist.net/anime/56337/Fengkuang_Xiao_Shijie",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1706/137845.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1706/137845t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1706/137845l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1706/137845.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1706/137845t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1706/137845l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Fengkuang Xiao Shijie"
+        },
+        {
+          "type": "Japanese",
+          "title": "疯狂小世界"
+        }
+      ],
+      "title": "Fengkuang Xiao Shijie",
+      "title_english": null,
+      "title_japanese": "疯狂小世界",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-06-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 22,
+            "month": 6,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 22, 2023"
+      },
+      "duration": "1 hr 26 min",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 21598,
+      "popularity": 25984,
+      "members": 122,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57176,
+      "url": "https://myanimelist.net/anime/57176/Kame_to_Puma_to_Flamingo",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1093/139669.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1093/139669t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1093/139669l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1093/139669.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1093/139669t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1093/139669l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kame to Puma to Flamingo"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "カメとピューマとフラミンゴ"
+        }
+      ],
+      "title": "Kame to Puma to Flamingo",
+      "title_english": null,
+      "title_japanese": "カメとピューマとフラミンゴ",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2023"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 26013,
+      "members": 122,
+      "favorites": 0,
+      "synopsis": "Music video for the song Kame to Puma to Flamingo by Kick the Can Crew, that was featured on NHK's Minna no Uta and Ao Kiiro programs.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57202,
+      "url": "https://myanimelist.net/anime/57202/Boku_wa_Jinkou_Eisei",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1227/139715.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1227/139715t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1227/139715l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1227/139715.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1227/139715t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1227/139715l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku wa Jinkou Eisei"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Synonym",
+          "title": "A Lonely Satellite"
+        },
+        {
+          "type": "Japanese",
+          "title": "ぼくは人工衛星"
+        }
+      ],
+      "title": "Boku wa Jinkou Eisei",
+      "title_english": null,
+      "title_japanese": "ぼくは人工衛星",
+      "title_synonyms": [
+        "Minna no Uta",
+        "A Lonely Satellite"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 3, 2023"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25968,
+      "members": 122,
+      "favorites": 0,
+      "synopsis": "Music video for the song Boku wa Jinkou Eisei by Yoshio Inoue, that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 58646,
+      "url": "https://myanimelist.net/anime/58646/Moja_to_Majo",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1143/142554.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1143/142554t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1143/142554l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1143/142554.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1143/142554t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1143/142554l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Moja to Majo"
+        },
+        {
+          "type": "Japanese",
+          "title": "もじゃとまじょ"
+        }
+      ],
+      "title": "Moja to Majo",
+      "title_english": null,
+      "title_japanese": "もじゃとまじょ",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 28, 2023"
+      },
+      "duration": "1 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 19251,
+      "popularity": 26181,
+      "members": 119,
+      "favorites": 0,
+      "synopsis": "This is a stop motion animation of the cotton enchantress Moja and the sewing witch. Their day begins with making Moja's body.\n\n(Source: YouTube)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 60752,
+      "url": "https://myanimelist.net/anime/60752/Purple_Rain",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1052/147493.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1052/147493t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1052/147493l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1052/147493.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1052/147493t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1052/147493l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Purple Rain"
+        },
+        {
+          "type": "Japanese",
+          "title": "Purple Rain"
+        }
+      ],
+      "title": "Purple Rain",
+      "title_english": null,
+      "title_japanese": "Purple Rain",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-06-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 6,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 6, 2023"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 26206,
+      "members": 119,
+      "favorites": 0,
+      "synopsis": "Music video for the song Purple Rain by Sexy Zone from their album \"Chapter Ⅱ\".",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2302,
+          "type": "anime",
+          "name": "Nostalook",
+          "url": "https://myanimelist.net/anime/producer/2302/Nostalook"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 57460,
+      "url": "https://myanimelist.net/anime/57460/Mohuan_Qi_Yuan__Baoshi_Gongzhu",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1963/140187.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1963/140187t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1963/140187l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1963/140187.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1963/140187t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1963/140187l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Mohuan Qi Yuan: Baoshi Gongzhu"
+        },
+        {
+          "type": "Japanese",
+          "title": "魔幻奇缘之宝石公主"
+        },
+        {
+          "type": "English",
+          "title": "Magic Princess"
+        }
+      ],
+      "title": "Mohuan Qi Yuan: Baoshi Gongzhu",
+      "title_english": "Magic Princess",
+      "title_japanese": "魔幻奇缘之宝石公主",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 29, 2023"
+      },
+      "duration": "1 hr 20 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 21491,
+      "popularity": 26367,
+      "members": 116,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 59022,
+      "url": "https://myanimelist.net/anime/59022/Pororo_20-junyeon_Special__Chuldong_Linawang-gug_Daejagjeon",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1715/143488.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1715/143488t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1715/143488l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1715/143488.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1715/143488t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1715/143488l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Pororo 20-junyeon Special: Chuldong! Linawang-gug Daejagjeon"
+        },
+        {
+          "type": "Synonym",
+          "title": "Pororo's 20th Anniversary Special"
+        },
+        {
+          "type": "Japanese",
+          "title": "출동! 리나왕국 대작전"
+        },
+        {
+          "type": "English",
+          "title": "Pororo: Adventures In The Magical Kingdom"
+        }
+      ],
+      "title": "Pororo 20-junyeon Special: Chuldong! Linawang-gug Daejagjeon",
+      "title_english": "Pororo: Adventures In The Magical Kingdom",
+      "title_japanese": "출동! 리나왕국 대작전",
+      "title_synonyms": [
+        "Pororo's 20th Anniversary Special"
+      ],
+      "type": "TV Special",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-05-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 5,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 5, 2023"
+      },
+      "duration": "46 min",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": 19973,
+      "popularity": 26401,
+      "members": 116,
+      "favorites": 0,
+      "synopsis": "Pororo and his pals discover a cursed prince stuck as a wooden doll and set off to help him reclaim his kingdom from the evil duke who cast the spell.\n\n(Source: Netflix)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57307,
+      "url": "https://myanimelist.net/anime/57307/Qingwa_Wangguo__Qihuan_Nuwang_Lixian",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1544/139919.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1544/139919t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1544/139919l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1544/139919.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1544/139919t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1544/139919l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Qingwa Wangguo: Qihuan Nuwang Lixian"
+        },
+        {
+          "type": "Japanese",
+          "title": "青蛙王国之奇幻女王历险"
+        }
+      ],
+      "title": "Qingwa Wangguo: Qihuan Nuwang Lixian",
+      "title_english": null,
+      "title_japanese": "青蛙王国之奇幻女王历险",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 1, 2023"
+      },
+      "duration": "1 hr 25 min",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 22387,
+      "popularity": 26514,
+      "members": 114,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57461,
+      "url": "https://myanimelist.net/anime/57461/Xin_Zhu_Zhu_Xia_Da_Dianying__Chaoji_Saiche",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1154/140188.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1154/140188t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1154/140188l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1154/140188.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1154/140188t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1154/140188l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xin Zhu Zhu Xia Da Dianying: Chaoji Saiche"
+        },
+        {
+          "type": "Japanese",
+          "title": "新猪猪侠大电影·超级赛车"
+        }
+      ],
+      "title": "Xin Zhu Zhu Xia Da Dianying: Chaoji Saiche",
+      "title_english": null,
+      "title_japanese": "新猪猪侠大电影·超级赛车",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 29, 2023"
+      },
+      "duration": "1 hr 25 min",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 16925,
+      "popularity": 26556,
+      "members": 113,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 3,
+          "type": "anime",
+          "name": "Racing",
+          "url": "https://myanimelist.net/anime/genre/3/Racing"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57462,
+      "url": "https://myanimelist.net/anime/57462/Chao_Meng_Shikong_Baobei",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1893/140189.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1893/140189t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1893/140189l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1893/140189.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1893/140189t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1893/140189l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Chao Meng Shikong Baobei"
+        },
+        {
+          "type": "Japanese",
+          "title": "超萌时空宝贝"
+        }
+      ],
+      "title": "Chao Meng Shikong Baobei",
+      "title_english": null,
+      "title_japanese": "超萌时空宝贝",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 29, 2023"
+      },
+      "duration": "1 hr 18 min",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 18354,
+      "popularity": 26602,
+      "members": 112,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57459,
+      "url": "https://myanimelist.net/anime/57459/Yuzhou_Huwei_Dui__Fengbao_Liliang",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1947/140186.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1947/140186t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1947/140186l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1947/140186.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1947/140186t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1947/140186l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yuzhou Huwei Dui: Fengbao Liliang"
+        },
+        {
+          "type": "Japanese",
+          "title": "宇宙护卫队：风暴力量"
+        },
+        {
+          "type": "English",
+          "title": "Cosmicrew: Storm Force"
+        }
+      ],
+      "title": "Yuzhou Huwei Dui: Fengbao Liliang",
+      "title_english": "Cosmicrew: Storm Force",
+      "title_japanese": "宇宙护卫队：风暴力量",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 29, 2023"
+      },
+      "duration": "1 hr 33 min",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 17497,
+      "popularity": 26692,
+      "members": 111,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 59065,
+      "url": "https://myanimelist.net/anime/59065/Pororo_Gonglyong_Ppyeoga_Sal-anassda",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1621/143563.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1621/143563t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1621/143563l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1621/143563.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1621/143563t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1621/143563l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Pororo Gonglyong Ppyeoga Sal-anassda!"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dino Skeletons Came Alive"
+        },
+        {
+          "type": "Japanese",
+          "title": "뽀로로 공룡 뼈가 살아났다!"
+        },
+        {
+          "type": "English",
+          "title": "Pororo Movie: Pororo's Night at the Dinosaur Museum"
+        }
+      ],
+      "title": "Pororo Gonglyong Ppyeoga Sal-anassda!",
+      "title_english": "Pororo Movie: Pororo's Night at the Dinosaur Museum",
+      "title_japanese": "뽀로로 공룡 뼈가 살아났다!",
+      "title_synonyms": [
+        "Dino Skeletons Came Alive"
+      ],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 28, 2023"
+      },
+      "duration": "34 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 19976,
+      "popularity": 26941,
+      "members": 108,
+      "favorites": 0,
+      "synopsis": "One early morning, Pororo and his friends visit the nature history museum. Suddenly, the museum starts to shake, and the exhibits begin to tumble down! TongTong's magic spell misfires, and all of the exhibits come to life. Can our friends set everything back as they are? Come along for a wild museum adventure with Pororo and his friends!\n\n(Source: Amazon Prime)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 61171,
+      "url": "https://myanimelist.net/anime/61171/Ct22031",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1103/148381.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1103/148381t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1103/148381l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1103/148381.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1103/148381t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1103/148381l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ct22031"
+        },
+        {
+          "type": "Japanese",
+          "title": "ct22031"
+        }
+      ],
+      "title": "Ct22031",
+      "title_english": null,
+      "title_japanese": "ct22031",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-05-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 5,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 12, 2023"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 27165,
+      "members": 104,
+      "favorites": 0,
+      "synopsis": "Music video for the song Ct22031 by Kirara.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 59470,
+      "url": "https://myanimelist.net/anime/59470/Menghuan_Shuyuan__Haiyang_Gongyi_Pian",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1770/144631.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1770/144631t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1770/144631l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1770/144631.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1770/144631t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1770/144631l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Menghuan Shuyuan: Haiyang Gongyi Pian"
+        },
+        {
+          "type": "Japanese",
+          "title": "梦幻书院 海洋公益篇"
+        }
+      ],
+      "title": "Menghuan Shuyuan: Haiyang Gongyi Pian",
+      "title_english": null,
+      "title_japanese": "梦幻书院 海洋公益篇",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 19, 2023"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 21283,
+      "popularity": 27288,
+      "members": 103,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "Educational",
+          "url": "https://myanimelist.net/anime/genre/56/Educational"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 61559,
+      "url": "https://myanimelist.net/anime/61559/Seimei_Ouka",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1332/149421.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1332/149421t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1332/149421l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1332/149421.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1332/149421t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1332/149421l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Seimei Ouka"
+        },
+        {
+          "type": "Japanese",
+          "title": "生命謳歌"
+        }
+      ],
+      "title": "Seimei Ouka",
+      "title_english": null,
+      "title_japanese": "生命謳歌",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 25,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 25, 2023"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 27299,
+      "members": 102,
+      "favorites": 0,
+      "synopsis": "Music video for the song Seimei Ouka by NEE.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 56796,
+      "url": "https://myanimelist.net/anime/56796/Kung_Fu_Wang__Kuaile_Tongnian",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1030/138856.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1030/138856t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1030/138856l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1030/138856.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1030/138856t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1030/138856l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kung Fu Wang: Kuaile Tongnian"
+        },
+        {
+          "type": "Japanese",
+          "title": "功夫王：快乐童年"
+        }
+      ],
+      "title": "Kung Fu Wang: Kuaile Tongnian",
+      "title_english": null,
+      "title_japanese": "功夫王：快乐童年",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Unknown",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 11,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 11, 2023 to ?"
+      },
+      "duration": "15 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 20797,
+      "popularity": 27415,
+      "members": 101,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 62082,
+      "url": "https://myanimelist.net/anime/62082/Tomica_to_Tom",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1250/151095.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1250/151095t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1250/151095l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1250/151095.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1250/151095t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1250/151095l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tomica to Tom"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tomica and Tom"
+        },
+        {
+          "type": "Japanese",
+          "title": "トミカとトム"
+        },
+        {
+          "type": "English",
+          "title": "Tomica & Tom"
+        }
+      ],
+      "title": "Tomica to Tom",
+      "title_english": "Tomica & Tom",
+      "title_japanese": "トミカとトム",
+      "title_synonyms": [
+        "Tomica and Tom"
+      ],
+      "type": "ONA",
+      "source": "Other",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2023-06-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 6,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 10, 2023 to ?"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 16220,
+      "popularity": 28875,
+      "members": 85,
+      "favorites": 0,
+      "synopsis": "After you fall asleep or while you're out, what are Tomica and Tom doing? Are they sleeping peacefully in the toy box? Are they just sitting there on the floor? Or maybe... No one knows the story of Tomica and Tom, but today we'll let you in on a special secret.\n\n(Source: Official site, translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3046,
+          "type": "anime",
+          "name": "Tsumupapa",
+          "url": "https://myanimelist.net/anime/producer/3046/Tsumupapa"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 56231,
+      "url": "https://myanimelist.net/anime/56231/Kamen",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1745/137685.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1745/137685t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1745/137685l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1745/137685.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1745/137685t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1745/137685l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kamen"
+        },
+        {
+          "type": "Japanese",
+          "title": "仮面"
+        },
+        {
+          "type": "English",
+          "title": "Mask"
+        }
+      ],
+      "title": "Kamen",
+      "title_english": "Mask",
+      "title_japanese": "仮面",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-05-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 20,
+            "month": 5,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 20, 2023"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29374,
+      "members": 74,
+      "favorites": 0,
+      "synopsis": "Music video for the song Kamen, performed by Meychan.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 62177,
+      "url": "https://myanimelist.net/anime/62177/Eomma_Katuri_TV_5th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1184/151329.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1184/151329t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1184/151329l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1184/151329.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1184/151329t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1184/151329l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Eomma Katuri (TV) 5th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "엄마 까투리 시즌 5"
+        }
+      ],
+      "title": "Eomma Katuri (TV) 5th Season",
+      "title_english": null,
+      "title_japanese": "엄마 까투리 시즌 5",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 40,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-03-01T00:00:00+00:00",
+        "to": "2023-05-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 3,
+            "year": 2023
+          },
+          "to": {
+            "day": 4,
+            "month": 5,
+            "year": 2023
+          }
+        },
+        "string": "Mar 1, 2023 to May 4, 2023"
+      },
+      "duration": "7 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 21512,
+      "popularity": 29366,
+      "members": 74,
+      "favorites": 0,
+      "synopsis": "Fifth season of Eomma Katuri (TV).",
+      "background": "",
+      "season": "spring",
+      "year": 2023,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3167,
+          "type": "anime",
+          "name": "Funny Flux",
+          "url": "https://myanimelist.net/anime/producer/3167/Funny_Flux"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 60887,
+      "url": "https://myanimelist.net/anime/60887/Xin_Qi_Bao_Long_Zhan_Che_X2__Long_Zhuang_Zhan_Jia",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1539/147813.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1539/147813t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1539/147813l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1539/147813.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1539/147813t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1539/147813l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xin Qi Bao Long Zhan Che X2: Long Zhuang Zhan Jia"
+        },
+        {
+          "type": "Japanese",
+          "title": "心奇爆龙战车x2 龙装战甲"
+        }
+      ],
+      "title": "Xin Qi Bao Long Zhan Che X2: Long Zhuang Zhan Jia",
+      "title_english": null,
+      "title_japanese": "心奇爆龙战车x2 龙装战甲",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 32,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-04-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 22,
+            "month": 4,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 22, 2023 to ?"
+      },
+      "duration": "14 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 17035,
+      "popularity": 29429,
+      "members": 71,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "mal_id": 49574,
+    "url": "https://myanimelist.net/anime/49574/Yi_Nian_Yong_Heng_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1999/155867.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1999/155867t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1999/155867l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1999/155867.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1999/155867t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1999/155867l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": "https://www.youtube-nocookie.com/embed/UVc44tEs1yo?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Yi Nian Yong Heng 2nd Season"
+      },
+      {
+        "type": "Synonym",
+        "title": "一念永恒 传承篇"
+      },
+      {
+        "type": "Synonym",
+        "title": "Yi Nian Yong Heng: Chuancheng Pian"
+      },
+      {
+        "type": "Synonym",
+        "title": "AWE"
+      },
+      {
+        "type": "Japanese",
+        "title": "​一念永恒 第2季"
+      },
+      {
+        "type": "English",
+        "title": "A Will Eternal 2nd Season"
+      }
+    ],
+    "title": "Yi Nian Yong Heng 2nd Season",
+    "title_english": "A Will Eternal 2nd Season",
+    "title_japanese": "​一念永恒 第2季",
+    "title_synonyms": [
+      "一念永恒 传承篇",
+      "Yi Nian Yong Heng: Chuancheng Pian",
+      "AWE"
+    ],
+    "type": "ONA",
+    "source": "Web novel",
+    "episodes": 54,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-07-20T00:00:00+00:00",
+      "to": "2023-07-12T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 7,
+          "year": 2022
+        },
+        "to": {
+          "day": 12,
+          "month": 7,
+          "year": 2023
+        }
+      },
+      "string": "Jul 20, 2022 to Jul 12, 2023"
+    },
+    "duration": "19 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.19,
+    "scored_by": 3037,
+    "rank": 449,
+    "popularity": 7403,
+    "members": 9278,
+    "favorites": 102,
+    "synopsis": "To avoid a war between the two sects, Bai Xiaochun disguises himself as \"Ye Zang\" and infiltrates the rival sect, Blood Stream Sect. He climbs his way up and obtains the identity of Blood Child. However, how can he avoid the impending war between the two sects...?\n\n(Source: Tencent, translated)",
+    "background": "Episodes 53-106 of Yi Nian Yong Heng.",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 1727,
+        "type": "anime",
+        "name": "Tencent Video",
+        "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1350,
+        "type": "anime",
+        "name": "B.CMAY PICTURES",
+        "url": "https://myanimelist.net/anime/producer/1350/BCMAY_PICTURES"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 41923,
+            "type": "anime",
+            "name": "Yi Nian Yong Heng",
+            "url": "https://myanimelist.net/anime/41923/Yi_Nian_Yong_Heng"
+          }
+        ]
+      },
+      {
+        "relation": "Sequel",
+        "entry": [
+          {
+            "mal_id": 56215,
+            "type": "anime",
+            "name": "Yi Nian Yong Heng 3rd Season",
+            "url": "https://myanimelist.net/anime/56215/Yi_Nian_Yong_Heng_3rd_Season"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 142102,
+            "type": "manga",
+            "name": "Yi Nian Yong Heng",
+            "url": "https://myanimelist.net/manga/142102/Yi_Nian_Yong_Heng"
+          }
+        ]
+      },
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 52519,
+            "type": "anime",
+            "name": "Yi Nian Yong Heng Xiao Juchang",
+            "url": "https://myanimelist.net/anime/52519/Yi_Nian_Yong_Heng_Xiao_Juchang"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Poxiao (破晓)\" by Xueran Chen (陈雪燃)"
+      ],
+      "endings": [
+        "\"Wei Wo．Nian (唯我．念)\" by Curley G (希林娜依高)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://v.qq.com/x/cover/mzc00200if11ojx/m0043jtm53s.html"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLxOs22nkVmnIEELUaNeVTnj3AJSrniAxz"
+      },
+      {
+        "name": "Tencent Video (WeTV)",
+        "url": "https://wetv.vip/en/album/ciw7o8319w2cx15"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15693"
+      },
+      {
+        "name": "Bangumi",
+        "url": "https://bangumi.tv/subject/343136"
+      },
+      {
+        "name": "Baidu Baike",
+        "url": "https://baike.baidu.com/item/%E4%B8%80%E5%BF%B5%E6%B0%B8%E6%81%92/23299669"
+      },
+      {
+        "name": "Douban",
+        "url": "https://movie.douban.com/subject/35563492/"
+      },
+      {
+        "name": "Weibo",
+        "url": "https://weibo.com/u/5651377890"
+      }
+    ],
+    "streaming": []
+  }
+}

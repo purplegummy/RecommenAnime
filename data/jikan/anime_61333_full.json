@@ -1,0 +1,245 @@
+{
+  "data": {
+    "mal_id": 61333,
+    "url": "https://myanimelist.net/anime/61333/Ao_no_Miburo__Serizawa_Ansatsu-hen",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1393/151603.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1393/151603t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1393/151603l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1393/151603.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1393/151603t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1393/151603l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": "https://www.youtube-nocookie.com/embed/7N_BxH_zAnY?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Ao no Miburo: Serizawa Ansatsu-hen"
+      },
+      {
+        "type": "Synonym",
+        "title": "Blue Miburo: Serizawa Assassination Arc"
+      },
+      {
+        "type": "Japanese",
+        "title": "青のミブロ 芹沢暗殺編"
+      },
+      {
+        "type": "English",
+        "title": "Blue Miburo Season 2"
+      }
+    ],
+    "title": "Ao no Miburo: Serizawa Ansatsu-hen",
+    "title_english": "Blue Miburo Season 2",
+    "title_japanese": "青のミブロ 芹沢暗殺編",
+    "title_synonyms": [
+      "Blue Miburo: Serizawa Assassination Arc"
+    ],
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2025-12-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 12,
+          "year": 2025
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 20, 2025 to ?"
+    },
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.03,
+    "scored_by": 739,
+    "rank": 4477,
+    "popularity": 7843,
+    "members": 7985,
+    "favorites": 22,
+    "synopsis": "Second season of Ao no Miburo.",
+    "background": "",
+    "season": "winter",
+    "year": 2026,
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "17:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 17:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 53,
+        "type": "anime",
+        "name": "Dentsu",
+        "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+      },
+      {
+        "mal_id": 76,
+        "type": "anime",
+        "name": "Yomiuri Telecasting",
+        "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+      },
+      {
+        "mal_id": 2074,
+        "type": "anime",
+        "name": "Bit grooove promotion",
+        "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+      },
+      {
+        "mal_id": 3263,
+        "type": "anime",
+        "name": "Futokorogatana",
+        "url": "https://myanimelist.net/anime/producer/3263/Futokorogatana"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1978,
+        "type": "anime",
+        "name": "Maho Film",
+        "url": "https://myanimelist.net/anime/producer/1978/Maho_Film"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 21,
+        "type": "anime",
+        "name": "Samurai",
+        "url": "https://myanimelist.net/anime/genre/21/Samurai"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 56647,
+            "type": "anime",
+            "name": "Ao no Miburo",
+            "url": "https://myanimelist.net/anime/56647/Ao_no_Miburo"
+          }
+        ]
+      },
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 141087,
+            "type": "manga",
+            "name": "Ao no Miburo",
+            "url": "https://myanimelist.net/manga/141087/Ao_no_Miburo"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Blue Noise\" by Ryosuke Yamada"
+      ],
+      "endings": [
+        "\"Utakata (泡沫)\" by Soushi Sakiyama (崎山蒼志)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://miburoanime.com/"
+      },
+      {
+        "name": "@miburo_anime",
+        "url": "https://twitter.com/miburo_anime"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19258"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35414"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Blue_Wolves_of_Mibu#Anime"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E3%81%AE%E3%83%9F%E3%83%96%E3%83%AD#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      },
+      {
+        "name": "Syoboi",
+        "url": "https://cal.syoboi.jp/tid/7671"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-283916"
+      },
+      {
+        "name": "Anime Digital Network",
+        "url": "https://animedigitalnetwork.fr/"
+      },
+      {
+        "name": "Aniverse",
+        "url": "https://www.amazon.de/b/?_encoding=UTF8&benefitId=aniversede&node=3010075031"
+      },
+      {
+        "name": "Bahamut Anime Crazy",
+        "url": "https://ani.gamer.com.tw/"
+      },
+      {
+        "name": "OceanVeil",
+        "url": "https://oceanveil.net/ad?agn=2&src=8&pattern=MAL&url=/lp"
+      }
+    ]
+  }
+}

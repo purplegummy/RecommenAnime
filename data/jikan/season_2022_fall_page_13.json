@@ -1,0 +1,755 @@
+{
+  "pagination": {
+    "last_visible_page": 13,
+    "has_next_page": false,
+    "current_page": 13,
+    "items": {
+      "count": 7,
+      "total": 307,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 55400,
+      "url": "https://myanimelist.net/anime/55400/Afuregu__Aufregendes_Leben_Animation_PV",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1323/136043.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1323/136043t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1323/136043l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1323/136043.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1323/136043t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1323/136043l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Afuregu!: Aufregendes Leben Animation PV"
+        },
+        {
+          "type": "Japanese",
+          "title": "『アフレぐ！〜Aufregendes leben〜』アニメーションPV"
+        }
+      ],
+      "title": "Afuregu!: Aufregendes Leben Animation PV",
+      "title_english": null,
+      "title_japanese": "『アフレぐ！〜Aufregendes leben〜』アニメーションPV",
+      "title_synonyms": [],
+      "type": "PV",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 5, 2022"
+      },
+      "duration": "1 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29215,
+      "members": 81,
+      "favorites": 0,
+      "synopsis": "Music PV for the song Afuregu!: Aufregendes Leben by Siegfeld Ongaku Gakuin Chuutou-bu (Siegfeld Institute of Music Junior High).",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 290,
+          "type": "anime",
+          "name": "Kinema Citrus",
+          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 62941,
+      "url": "https://myanimelist.net/anime/62941/Leichte_Chousaroku",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1722/153600.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1722/153600t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1722/153600l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1722/153600.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1722/153600t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1722/153600l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Leichte Chousaroku"
+        },
+        {
+          "type": "Japanese",
+          "title": "ライヒト調査録"
+        }
+      ],
+      "title": "Leichte Chousaroku",
+      "title_english": null,
+      "title_japanese": "ライヒト調査録",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 1, 2022"
+      },
+      "duration": "5 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": null,
+      "scored_by": null,
+      "rank": 18655,
+      "popularity": 29305,
+      "members": 78,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3207,
+          "type": "anime",
+          "name": "studioDOT",
+          "url": "https://myanimelist.net/anime/producer/3207/studioDOT"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 62935,
+      "url": "https://myanimelist.net/anime/62935/Head_Tray",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1060/153572.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1060/153572t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1060/153572l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1060/153572.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1060/153572t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1060/153572l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Head Tray"
+        },
+        {
+          "type": "Japanese",
+          "title": "HEAD TRAY"
+        }
+      ],
+      "title": "Head Tray",
+      "title_english": null,
+      "title_japanese": "HEAD TRAY",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 6, 2022"
+      },
+      "duration": "1 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": null,
+      "scored_by": null,
+      "rank": 22084,
+      "popularity": 29467,
+      "members": 68,
+      "favorites": 0,
+      "synopsis": "A monster enters a sleeping woman's apartment to steal her head.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Horror",
+          "url": "https://myanimelist.net/anime/genre/14/Horror"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 62457,
+      "url": "https://myanimelist.net/anime/62457/Sigantamheomdae_Dinoman",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1208/151977.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1208/151977t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1208/151977l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1208/151977.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1208/151977t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1208/151977l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Sigantamheomdae Dinoman"
+        },
+        {
+          "type": "Japanese",
+          "title": "시간탐험대 다이노맨"
+        }
+      ],
+      "title": "Sigantamheomdae Dinoman",
+      "title_english": null,
+      "title_japanese": "시간탐험대 다이노맨",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 20,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-04T00:00:00+00:00",
+        "to": "2023-03-02T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": 2,
+            "month": 3,
+            "year": 2023
+          }
+        },
+        "string": "Oct 4, 2022 to Mar 2, 2023"
+      },
+      "duration": "10 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 15677,
+      "popularity": 29493,
+      "members": 67,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": "fall",
+      "year": 2022,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 58496,
+      "url": "https://myanimelist.net/anime/58496/Unmei_no_Makimodoshi__Chou_High_Quality_Anime_PV",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1644/152325.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1644/152325t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1644/152325l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1644/152325.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1644/152325t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1644/152325l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Unmei no Makimodoshi: Chou High Quality Anime PV"
+        },
+        {
+          "type": "Synonym",
+          "title": "Unmei no Makimodoshi: All Great Achievements Require Time PV"
+        },
+        {
+          "type": "Japanese",
+          "title": "『運命の巻戻士』超ハイクオリティアニメPV"
+        }
+      ],
+      "title": "Unmei no Makimodoshi: Chou High Quality Anime PV",
+      "title_english": null,
+      "title_japanese": "『運命の巻戻士』超ハイクオリティアニメPV",
+      "title_synonyms": [
+        "Unmei no Makimodoshi: All Great Achievements Require Time PV"
+      ],
+      "type": "PV",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-11-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 11,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Nov 12, 2022"
+      },
+      "duration": "45 sec",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29517,
+      "members": 65,
+      "favorites": 0,
+      "synopsis": "Short preview to promote the Unmei no Makimodoshi manga.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 60880,
+      "url": "https://myanimelist.net/anime/60880/Xin_Qi_Bao_Long_Zhan_Che_6__Mofang_Bianxing",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1990/147806.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1990/147806t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1990/147806l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1990/147806.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1990/147806t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1990/147806l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xin Qi Bao Long Zhan Che 6: Mofang Bianxing"
+        },
+        {
+          "type": "Synonym",
+          "title": "Mind Strange Explosive Dragon Chariot 6 Rubik's Cube Transformation"
+        },
+        {
+          "type": "Japanese",
+          "title": "心奇爆龙战车6之魔方变形"
+        }
+      ],
+      "title": "Xin Qi Bao Long Zhan Che 6: Mofang Bianxing",
+      "title_english": null,
+      "title_japanese": "心奇爆龙战车6之魔方变形",
+      "title_synonyms": [
+        "Mind Strange Explosive Dragon Chariot 6 Rubik's Cube Transformation"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 32,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 26,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 26, 2022 to ?"
+      },
+      "duration": "13 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 16907,
+      "popularity": 29543,
+      "members": 64,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 61529,
+      "url": "https://myanimelist.net/anime/61529/PayPay_Monogatari__Jiman_no_Collection",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1425/151838.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1425/151838t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1425/151838l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1425/151838.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1425/151838t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1425/151838l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "PayPay Monogatari: Jiman no Collection"
+        },
+        {
+          "type": "Japanese",
+          "title": "ペイぺものがたり～じまんのコレクション～"
+        },
+        {
+          "type": "English",
+          "title": "PayPay Story: Proud Collection"
+        }
+      ],
+      "title": "PayPay Monogatari: Jiman no Collection",
+      "title_english": "PayPay Story: Proud Collection",
+      "title_japanese": "ペイぺものがたり～じまんのコレクション～",
+      "title_synonyms": [],
+      "type": "CM",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 4, 2022"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29583,
+      "members": 61,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1133,
+          "type": "anime",
+          "name": "dwarf",
+          "url": "https://myanimelist.net/anime/producer/1133/dwarf"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    }
+  ]
+}

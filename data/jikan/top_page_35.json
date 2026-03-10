@@ -1,0 +1,4491 @@
+{
+  "pagination": {
+    "last_visible_page": 1207,
+    "has_next_page": true,
+    "current_page": 35,
+    "items": {
+      "count": 25,
+      "total": 30162,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 41345,
+      "url": "https://myanimelist.net/anime/41345/Noblesse",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1903/111646.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1903/111646t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1903/111646l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1903/111646.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1903/111646t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1903/111646l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/m4GSDf8vlNs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Noblesse"
+        },
+        {
+          "type": "Synonym",
+          "title": "노블레스"
+        },
+        {
+          "type": "Japanese",
+          "title": "NOBLESSE -ノブレス-"
+        },
+        {
+          "type": "English",
+          "title": "Noblesse"
+        }
+      ],
+      "title": "Noblesse",
+      "title_english": "Noblesse",
+      "title_japanese": "NOBLESSE -ノブレス-",
+      "title_synonyms": [
+        "노블레스"
+      ],
+      "type": "TV",
+      "source": "Web manga",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-10-08T00:00:00+00:00",
+        "to": "2020-12-31T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 10,
+            "year": 2020
+          },
+          "to": {
+            "day": 31,
+            "month": 12,
+            "year": 2020
+          }
+        },
+        "string": "Oct 8, 2020 to Dec 31, 2020"
+      },
+      "duration": "23 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 6.9,
+      "scored_by": 139003,
+      "rank": 5127,
+      "popularity": 851,
+      "members": 325530,
+      "favorites": 1291,
+      "synopsis": "The \"Noblesse\" Cadis Etrama di Raizel, also known as \"Rai,\" is enrolled in Ye Ran High School by his servant Frankenstein to stay hidden from the sights of the Union, a mysterious organization out for Rai's blood. Rai commences his life as a student, making himself familiar with his classmates and the daily activities of humans. However, his new life is far from peaceful, and Rai is soon forced to save his new friends from the hands of the Union that had abducted them.\n    \nMeanwhile, M-21—a Union agent gone rogue during Rai's rescue operation—joins the Ye Ran High School security staff after a proposition by the school's director, who happens to be none other than Frankenstein himself. On the surface, M-21 is a prim and proper employee, but in truth he is shackled by his former ties to the Union and the inevitable consequences of betraying the organization.\n    \nTo further complicate matters, Nobles Regis K. Landegre and Seira J. Loyard enroll in the same school to investigate the Noblesse. While the Union conducts a manhunt for M-21 to extract clues regarding their missing agents, Rai is forced to keep his identity hidden while protecting all that he holds dear.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2020,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 00:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 1255,
+          "type": "anime",
+          "name": "Glovision",
+          "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 2044,
+          "type": "anime",
+          "name": "Naver Webtoons",
+          "url": "https://myanimelist.net/anime/producer/2044/Naver_Webtoons"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Production I.G",
+          "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 32,
+          "type": "anime",
+          "name": "Vampire",
+          "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 40056,
+      "url": "https://myanimelist.net/anime/40056/Deca-Dence",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1787/132772.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1787/132772t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1787/132772l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1787/132772.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1787/132772t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1787/132772l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/OziblTliUbw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Deca-Dence"
+        },
+        {
+          "type": "Japanese",
+          "title": "デカダンス"
+        }
+      ],
+      "title": "Deca-Dence",
+      "title_english": null,
+      "title_japanese": "デカダンス",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-08T00:00:00+00:00",
+        "to": "2020-09-23T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 23,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Jul 8, 2020 to Sep 23, 2020"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.35,
+      "scored_by": 144553,
+      "rank": 2747,
+      "popularity": 852,
+      "members": 325217,
+      "favorites": 977,
+      "synopsis": "Far in the future, the lifeforms known as Gadoll suddenly arose as a threat to humanity. The last surviving humans on Earth confine themselves to the Tank, a lower district in the giant mobile fortress Deca-Dence. While the Gears who live on the upper floors are warriors who go out to fight as part of the Power, most Tankers are content to provide support from the backlines, butchering Gadoll meat and reinforcing defenses. Natsume is among those who would rather go to the front lines; undeterred by her prosthetic right arm, she seeks to join the small number of Tanker soldiers who join the Gears in combat. \n\nBut despite her peers at the orphanage each receiving their work assignments, Natsume’s enlistment to the Power remains unapproved. In the meantime, she begins a job as a cleaner in an armor repair team led by the hard-nosed and apathetic Kaburagi, who seems to be more than he lets on. Though initially cold to his idealistic subordinate, he soon recognizes in her the potential to upset the status quo of the world. As Natsume’s new mentor, Kaburagi prepares her for the special and unique role as a game-changing bug in the system.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "summer",
+      "year": 2020,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 23:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 1416,
+          "type": "anime",
+          "name": "BS11",
+          "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+          "mal_id": 1551,
+          "type": "anime",
+          "name": "Kadokawa Media House",
+          "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 1779,
+          "type": "anime",
+          "name": "NewGin",
+          "url": "https://myanimelist.net/anime/producer/1779/NewGin"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 1567,
+          "type": "anime",
+          "name": "Nut",
+          "url": "https://myanimelist.net/anime/producer/1567/Nut"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 31952,
+      "url": "https://myanimelist.net/anime/31952/Kono_Bijutsu-bu_ni_wa_Mondai_ga_Aru",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/3/80688.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/3/80688t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/3/80688l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/3/80688.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/3/80688t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/3/80688l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/74nhsY34tpM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kono Bijutsu-bu ni wa Mondai ga Aru!"
+        },
+        {
+          "type": "Synonym",
+          "title": "Konobi"
+        },
+        {
+          "type": "Japanese",
+          "title": "この美術部には問題がある！"
+        },
+        {
+          "type": "English",
+          "title": "This Art Club Has a Problem!"
+        },
+        {
+          "type": "German",
+          "title": "This Art Club Has a Problem!"
+        },
+        {
+          "type": "Spanish",
+          "title": "¡Este Club de Arte tiene un Problema! (Kono Bijutsubu ni wa Mondai ga Aru!)"
+        },
+        {
+          "type": "French",
+          "title": "This Art Club Has a Problem!"
+        }
+      ],
+      "title": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+      "title_english": "This Art Club Has a Problem!",
+      "title_japanese": "この美術部には問題がある！",
+      "title_synonyms": [
+        "Konobi"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2016-07-08T00:00:00+00:00",
+        "to": "2016-09-23T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 7,
+            "year": 2016
+          },
+          "to": {
+            "day": 23,
+            "month": 9,
+            "year": 2016
+          }
+        },
+        "string": "Jul 8, 2016 to Sep 23, 2016"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.16,
+      "scored_by": 137541,
+      "rank": 3783,
+      "popularity": 853,
+      "members": 325006,
+      "favorites": 820,
+      "synopsis": "Mizuki Usami is a passionate member of her school's art club, but the club has a problem—Usami is the only member who takes her craft seriously! The lazy club president constantly sleeps through activities and Collette has not regularly attended club activities in quite some time. Subaru Uchimaki, despite being an exceptional artist who could win an award if he tried, is obsessed with drawing the perfect 2D wife.\n\nAs Usami struggles to do art club-like activities, she is often obstructed by her motley crew of good-for-nothings and her distracting crush on Subaru.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "summer",
+      "year": 2016,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "02:28",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 02:28 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 145,
+          "type": "anime",
+          "name": "TBS",
+          "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+          "mal_id": 315,
+          "type": "anime",
+          "name": "DAX Production",
+          "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+          "mal_id": 681,
+          "type": "anime",
+          "name": "ASCII Media Works",
+          "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+          "mal_id": 1344,
+          "type": "anime",
+          "name": "King Records",
+          "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 490,
+          "type": "anime",
+          "name": "Maiden Japan",
+          "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 91,
+          "type": "anime",
+          "name": "feel.",
+          "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 80,
+          "type": "anime",
+          "name": "Visual Arts",
+          "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
+    },
+    {
+      "mal_id": 21939,
+      "url": "https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/13/58533.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/13/58533t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/13/58533l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/13/58533.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/13/58533t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/13/58533l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/CXhPRWY1L0E?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Mushishi Zoku Shou"
+        },
+        {
+          "type": "Synonym",
+          "title": "Mushi-shi Zoku Shou"
+        },
+        {
+          "type": "Synonym",
+          "title": "Mushishi: The Next Chapter"
+        },
+        {
+          "type": "Japanese",
+          "title": "蟲師 続章"
+        },
+        {
+          "type": "English",
+          "title": "Mushi-shi: Next Passage Part 1"
+        },
+        {
+          "type": "German",
+          "title": "Mushi-Shi -The Next Passage-"
+        },
+        {
+          "type": "Spanish",
+          "title": "Mushi-Shi -The Next Passage-"
+        },
+        {
+          "type": "French",
+          "title": "Mushishi Zoku Shô"
+        }
+      ],
+      "title": "Mushishi Zoku Shou",
+      "title_english": "Mushi-shi: Next Passage Part 1",
+      "title_japanese": "蟲師 続章",
+      "title_synonyms": [
+        "Mushi-shi Zoku Shou",
+        "Mushishi: The Next Chapter"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 10,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2014-04-05T00:00:00+00:00",
+        "to": "2014-06-21T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 4,
+            "year": 2014
+          },
+          "to": {
+            "day": 21,
+            "month": 6,
+            "year": 2014
+          }
+        },
+        "string": "Apr 5, 2014 to Jun 21, 2014"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.68,
+      "scored_by": 127717,
+      "rank": 72,
+      "popularity": 854,
+      "members": 324960,
+      "favorites": 1643,
+      "synopsis": "Perceived as strange and feared by man, over time the misshapen ones came to be known as Mushi. Although they harbor no ill intentions towards humans, many suffer from the side effects of their existence and strange nature; exploiting the Mushi without understanding them, even unintentionally, can lead to disaster and strife for any involved. Mushishi Zoku Shou continues the story of Mushishi Ginko on his journey to help the visible world to coexist with the Mushi.\n\nDuring his travels, Ginko discovers various gifted individuals—those cursed by circumstance and those maintaining a fragile symbiosis with the Mushi—inevitably confronting the question of whether humanity, talented and tortured alike, can manage the responsibility of the unseen. Moreover, as a Mushishi, Ginko must learn more about these strange beings and decide if he has the right to interfere with the complex relationships between Mushi and mankind.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2014,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 00:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 711,
+          "type": "anime",
+          "name": "Delfi Sound",
+          "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 493,
+          "type": "anime",
+          "name": "Aniplex of America",
+          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Artland",
+          "url": "https://myanimelist.net/anime/producer/8/Artland"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "Mystery",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 50,
+          "type": "anime",
+          "name": "Adult Cast",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 63,
+          "type": "anime",
+          "name": "Iyashikei",
+          "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
+    },
+    {
+      "mal_id": 37055,
+      "url": "https://myanimelist.net/anime/37055/Youjo_Senki_Movie",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1249/117182.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1249/117182t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1249/117182l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1249/117182.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1249/117182t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1249/117182l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/VqVwV5VzJgE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Youjo Senki Movie"
+        },
+        {
+          "type": "Synonym",
+          "title": "Gekijouban Youjo Senki"
+        },
+        {
+          "type": "Japanese",
+          "title": "劇場版 幼女戦記"
+        },
+        {
+          "type": "English",
+          "title": "Saga of Tanya the Evil: The Movie"
+        },
+        {
+          "type": "German",
+          "title": "Saga of Tanya The Evil: The Movie"
+        },
+        {
+          "type": "Spanish",
+          "title": "Saga of Tenya the Evil: The Movie"
+        },
+        {
+          "type": "French",
+          "title": "Saga of Tanya the Evil: The Movie"
+        }
+      ],
+      "title": "Youjo Senki Movie",
+      "title_english": "Saga of Tanya the Evil: The Movie",
+      "title_japanese": "劇場版 幼女戦記",
+      "title_synonyms": [
+        "Gekijouban Youjo Senki"
+      ],
+      "type": "Movie",
+      "source": "Light novel",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-02-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 2,
+            "year": 2019
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 8, 2019"
+      },
+      "duration": "1 hr 38 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.23,
+      "scored_by": 173173,
+      "rank": 394,
+      "popularity": 855,
+      "members": 324908,
+      "favorites": 1250,
+      "synopsis": "With its armies sweeping across the continent, the Empire seems unstoppable. After securing victory over the remnants of the Republic's army, the Empire's ultimate victory is finally within reach. However, dark clouds are gathering in the East. The communist-led Russy Federation is mustering troops on its western border, preparing to enter the war. Supported by a detachment of Allied volunteer magicians—among whom is Mary Sioux, the daughter of a soldier killed by Tanya von Degurechaff—the Federation is determined to spread the communist creed and bring the Empire to its knees.\n\nMeanwhile, Tanya and her battalion return to the imperial capital from the southern front. Upon their arrival, they are tasked with investigating troop movements on the border with the Federation. Any escalation of violence at this point may lead to new conflicts, plunging the world into a devastating global war.\n\nWill the Empire eventually emerge victorious from its struggle, or will it crumble in the face of superior enemies and radically different ideologies?\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 737,
+          "type": "anime",
+          "name": "Sony Music Communications",
+          "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 1916,
+          "type": "anime",
+          "name": "Kadokawa Animation",
+          "url": "https://myanimelist.net/anime/producer/1916/Kadokawa_Animation"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1567,
+          "type": "anime",
+          "name": "Nut",
+          "url": "https://myanimelist.net/anime/producer/1567/Nut"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Reincarnation",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 14199,
+      "url": "https://myanimelist.net/anime/14199/Oniichan_dakedo_Ai_sae_Areba_Kankeinai_yo_ne",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/6/42111.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/6/42111t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/6/42111l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/6/42111.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/6/42111t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/6/42111l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!"
+        },
+        {
+          "type": "Synonym",
+          "title": "As Long as There's Love"
+        },
+        {
+          "type": "Synonym",
+          "title": "It Doesn't Matter If He Is My Brother"
+        },
+        {
+          "type": "Synonym",
+          "title": "Right?"
+        },
+        {
+          "type": "Japanese",
+          "title": "お兄ちゃんだけど愛さえあれば関係ないよねっ"
+        },
+        {
+          "type": "English",
+          "title": "OniAi"
+        },
+        {
+          "type": "German",
+          "title": "OniAi"
+        },
+        {
+          "type": "Spanish",
+          "title": "OniAi"
+        },
+        {
+          "type": "French",
+          "title": "OniAi"
+        }
+      ],
+      "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+      "title_english": "OniAi",
+      "title_japanese": "お兄ちゃんだけど愛さえあれば関係ないよねっ",
+      "title_synonyms": [
+        "As Long as There's Love",
+        "It Doesn't Matter If He Is My Brother",
+        "Right?"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2012-10-05T00:00:00+00:00",
+        "to": "2012-12-21T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 10,
+            "year": 2012
+          },
+          "to": {
+            "day": 21,
+            "month": 12,
+            "year": 2012
+          }
+        },
+        "string": "Oct 5, 2012 to Dec 21, 2012"
+      },
+      "duration": "24 min per ep",
+      "rating": "R+ - Mild Nudity",
+      "score": 6.41,
+      "scored_by": 143766,
+      "rank": 8121,
+      "popularity": 856,
+      "members": 324621,
+      "favorites": 509,
+      "synopsis": "After their parents' deaths, brother and sister Akito and Akiko Himenokouji were forced to live with separate families for six years. But now they have finally reunited and begin to live together. It quickly becomes apparent that Akiko harbors romantic feelings for her brother; however, Akito only sees her as a sibling.\n\nWhen three more girls—Anastasia Nasuhara, Arashi Nikaidou, and Ginbei Haruomi Sawatari—move into their apartment, Akiko's hopes of living alone with her brother vanish. Moreover, these girls also like Akito in one way or another, making it even more difficult for Akiko to gain her brother's undivided attention. As the girls fight over who should take care of Akito, they display various eroticisms that may be a little too much for a normal man to handle.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2012,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 108,
+          "type": "anime",
+          "name": "Media Factory",
+          "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 315,
+          "type": "anime",
+          "name": "DAX Production",
+          "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+          "mal_id": 619,
+          "type": "anime",
+          "name": "Cospa",
+          "url": "https://myanimelist.net/anime/producer/619/Cospa"
+        },
+        {
+          "mal_id": 737,
+          "type": "anime",
+          "name": "Sony Music Communications",
+          "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 300,
+          "type": "anime",
+          "name": "SILVER LINK.",
+          "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 18677,
+      "url": "https://myanimelist.net/anime/18677/Yuusha_ni_Narenakatta_Ore_wa_Shibushibu_Shuushoku_wo_Ketsui_Shimashita",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/13/54389.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/13/54389t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/13/54389l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/13/54389.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/13/54389t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/13/54389l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/JYEKEHJpVrU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita."
+        },
+        {
+          "type": "Synonym",
+          "title": "Yu-sibu"
+        },
+        {
+          "type": "Synonym",
+          "title": "Yusibu"
+        },
+        {
+          "type": "Synonym",
+          "title": "Yuushibu"
+        },
+        {
+          "type": "Japanese",
+          "title": "勇者になれなかった俺はしぶしぶ就職を決意しました。"
+        },
+        {
+          "type": "English",
+          "title": "I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job"
+        },
+        {
+          "type": "German",
+          "title": "Yusibu: I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job."
+        },
+        {
+          "type": "Spanish",
+          "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita"
+        },
+        {
+          "type": "French",
+          "title": "Yusibu: I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job."
+        }
+      ],
+      "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+      "title_english": "I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job",
+      "title_japanese": "勇者になれなかった俺はしぶしぶ就職を決意しました。",
+      "title_synonyms": [
+        "Yu-sibu",
+        "Yusibu",
+        "Yuushibu"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2013-10-05T00:00:00+00:00",
+        "to": "2013-12-21T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 10,
+            "year": 2013
+          },
+          "to": {
+            "day": 21,
+            "month": 12,
+            "year": 2013
+          }
+        },
+        "string": "Oct 5, 2013 to Dec 21, 2013"
+      },
+      "duration": "24 min per ep",
+      "rating": "R+ - Mild Nudity",
+      "score": 6.79,
+      "scored_by": 141414,
+      "rank": 5699,
+      "popularity": 857,
+      "members": 324396,
+      "favorites": 577,
+      "synopsis": "Dreaming of becoming a hero and vanquishing the Demon King, Raul Chaser enters the Hero Training Program in pursuit of his ambition. However, when the Demon King is defeated and peace returns to the world, the Hero Training Program is suspended indefinitely, making it impossible for anyone to become a hero.\n\nTwo years later, Raul reluctantly works at a small electronics store called Magic Shop Leon. Though the former hero-in-training is plagued by the mundanity of working in retail, everything changes with the arrival of a new hire. Appearing at first to be just a boy with good looks, \"he\" turns out to be a female demon by the name of Fino Bloodstone. She is not just any old demon either—Raul's new coworker is in fact the daughter of the late Demon King! Handed the responsibility of training this eccentric new employee, Raul soon finds his life becoming livelier than it ever was before.\n\n[Written by MAL Rewrite]",
+      "background": "The series adapts the first 3 volumes of Jun Sakyou's light novel series of the same title.",
+      "season": "fall",
+      "year": 2013,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "01:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 01:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 113,
+          "type": "anime",
+          "name": "Kadokawa Shoten",
+          "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+          "mal_id": 211,
+          "type": "anime",
+          "name": "Rakuonsha",
+          "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+          "mal_id": 460,
+          "type": "anime",
+          "name": "KlockWorx",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 665,
+          "type": "anime",
+          "name": "chara-ani.com",
+          "url": "https://myanimelist.net/anime/producer/665/chara-anicom"
+        },
+        {
+          "mal_id": 1334,
+          "type": "anime",
+          "name": "Docomo Anime Store",
+          "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+          "mal_id": 1664,
+          "type": "anime",
+          "name": "Fujimi Shobo",
+          "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 376,
+          "type": "anime",
+          "name": "Sentai Filmworks",
+          "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 163,
+          "type": "anime",
+          "name": "asread.",
+          "url": "https://myanimelist.net/anime/producer/163/asread"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 14349,
+      "url": "https://myanimelist.net/anime/14349/Little_Witch_Academia",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1890/147903.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1890/147903t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1890/147903l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1890/147903.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1890/147903t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1890/147903l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/siI44zxkRUs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Little Witch Academia"
+        },
+        {
+          "type": "Synonym",
+          "title": "Wakate Animator Ikusei Project"
+        },
+        {
+          "type": "Synonym",
+          "title": "2012 Young Animator Training Project"
+        },
+        {
+          "type": "Synonym",
+          "title": "Anime Mirai 2012"
+        },
+        {
+          "type": "Synonym",
+          "title": "LWA"
+        },
+        {
+          "type": "Japanese",
+          "title": "リトルウィッチアカデミア"
+        }
+      ],
+      "title": "Little Witch Academia",
+      "title_english": null,
+      "title_japanese": "リトルウィッチアカデミア",
+      "title_synonyms": [
+        "Wakate Animator Ikusei Project",
+        "2012 Young Animator Training Project",
+        "Anime Mirai 2012",
+        "LWA"
+      ],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2013-03-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 3,
+            "year": 2013
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 2, 2013"
+      },
+      "duration": "26 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.79,
+      "scored_by": 180197,
+      "rank": 1147,
+      "popularity": 858,
+      "members": 324085,
+      "favorites": 1394,
+      "synopsis": "For young witches everywhere, the world-renowned witch Shiny Chariot reigns as the most revered and celebrated role model. But as the girls age, so do their opinions of her—now just the mention of Chariot would get a witch labeled a child. However, undeterred in her blind admiration for Chariot, ordinary girl Atsuko Kagari enrolls into Luna Nova Magical Academy, hoping to someday become just as mesmerizing as her idol.\n\nHowever, the witch academy isn't all the fun and games Atsuko thought it would be: boring lectures, strict teachers, and students who mock Chariot plague the campus. Coupled with her own ineptness in magic, she's seen as little more than a rebel student. But when a chance finally presents itself to prove herself to her peers and teachers, she takes it, and now it's up to her to stop a rampaging dragon before it flattens the entire academy. \n\n[Written by MAL Rewrite]",
+      "background": "Little Witch Academia is one of the four anime works that each received 38 million yen (about US$480,000) from the \"2012 Young Animator Training Project.\" Just like in 2010 and 2011, the animation labor group received 214.5 million yen (US$2.65 million) from the Japanese government's Agency for Cultural Affairs, and it distributed most of those funds to studios who train young animators on-the-job. Positive response to the movie led Studio Trigger to run a Kickstarter funding a sequel, which surpassed its funding goal.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 213,
+          "type": "anime",
+          "name": "Half H.P Studio",
+          "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        },
+        {
+          "mal_id": 539,
+          "type": "anime",
+          "name": "Ultra Super Pictures",
+          "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 803,
+          "type": "anime",
+          "name": "Trigger",
+          "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 36470,
+      "url": "https://myanimelist.net/anime/36470/Tada-kun_wa_Koi_wo_Shinai",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1446/91841.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1446/91841t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1446/91841l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1446/91841.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1446/91841t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1446/91841l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/4LCOgIeRCh0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tada-kun wa Koi wo Shinai"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tada Doesn't Fall in Love"
+        },
+        {
+          "type": "Synonym",
+          "title": "TadaKoi"
+        },
+        {
+          "type": "Japanese",
+          "title": "多田くんは恋をしない"
+        },
+        {
+          "type": "English",
+          "title": "Tada Never Falls in Love"
+        }
+      ],
+      "title": "Tada-kun wa Koi wo Shinai",
+      "title_english": "Tada Never Falls in Love",
+      "title_japanese": "多田くんは恋をしない",
+      "title_synonyms": [
+        "Tada Doesn't Fall in Love",
+        "TadaKoi"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2018-04-05T00:00:00+00:00",
+        "to": "2018-06-28T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 4,
+            "year": 2018
+          },
+          "to": {
+            "day": 28,
+            "month": 6,
+            "year": 2018
+          }
+        },
+        "string": "Apr 5, 2018 to Jun 28, 2018"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.57,
+      "scored_by": 140331,
+      "rank": 1804,
+      "popularity": 858,
+      "members": 324025,
+      "favorites": 1434,
+      "synopsis": "Love has never really been a concern for Mitsuyoshi Tada, and as the aspiring photographer enters his second year of high school, it truthfully could not be further from his mind. However, things just might change after he meets a bright and bubbly foreigner named Teresa Wagner while he was taking pictures of a cherry blossom tree. Nevertheless, after she asks him to photograph her, the two soon separate, only to meet each other again twice more that same day. Finding Teresa just as she is caught in a sudden downpour, Tada invites her to his family's coffee shop to dry off. There, she explains that she was separated from her traveling companion, a no-nonsense redhead named Alexandra \"Alec\" Magritte. When Alec reunites with Teresa shortly after, they say their goodbyes, expecting to part ways for good—but the two unexpectedly show up as transfer students in his class the next day.\n\nTeresa and Alec quickly get used to their lives at Koinohoshi High School and decide to join Tada in the photography club, along with his narcissistic friend Kaoru Ijuuin, the idol-obsessed Hajime Sugimoto, the serious class rep Hinako Hasegawa, and the dog-like Kentarou Yamashita. With these two peculiar additions to his equally eccentric group of friends, Tada's second year of high school is about to get even livelier, and he might need to start rethinking his approach to love.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2018,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "21:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 21:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 1334,
+          "type": "anime",
+          "name": "Docomo Anime Store",
+          "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+          "mal_id": 1416,
+          "type": "anime",
+          "name": "BS11",
+          "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 376,
+          "type": "anime",
+          "name": "Sentai Filmworks",
+          "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 95,
+          "type": "anime",
+          "name": "Doga Kobo",
+          "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 80,
+          "type": "anime",
+          "name": "Visual Arts",
+          "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 27655,
+      "url": "https://myanimelist.net/anime/27655/AldnoahZero_Part_2",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/10/71297.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/10/71297t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/10/71297l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/10/71297.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/10/71297t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/10/71297l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/AEn7nqWONC0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Aldnoah.Zero Part 2"
+        },
+        {
+          "type": "Synonym",
+          "title": "Aldnoah.Zero 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "アルドノア・ゼロ（第2クール）"
+        },
+        {
+          "type": "English",
+          "title": "Aldnoah.Zero Part 2"
+        },
+        {
+          "type": "German",
+          "title": "Aldnoah.Zero Saison 2"
+        },
+        {
+          "type": "Spanish",
+          "title": "Aldnoah.Zero Temporada 2"
+        },
+        {
+          "type": "French",
+          "title": "Aldnoah.Zero Saison 2"
+        }
+      ],
+      "title": "Aldnoah.Zero Part 2",
+      "title_english": "Aldnoah.Zero Part 2",
+      "title_japanese": "アルドノア・ゼロ（第2クール）",
+      "title_synonyms": [
+        "Aldnoah.Zero 2nd Season"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2015-01-11T00:00:00+00:00",
+        "to": "2015-03-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 11,
+            "month": 1,
+            "year": 2015
+          },
+          "to": {
+            "day": 29,
+            "month": 3,
+            "year": 2015
+          }
+        },
+        "string": "Jan 11, 2015 to Mar 29, 2015"
+      },
+      "duration": "23 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 6.91,
+      "scored_by": 199012,
+      "rank": 5034,
+      "popularity": 861,
+      "members": 323573,
+      "favorites": 770,
+      "synopsis": "The war between the Terrans and the Vers Empire of Mars has ended, allowing humanity to blissfully enjoy their lives in a time of peace. Nineteen months later, however, the Vers princess makes a shocking public declaration: \"the Terrans are a foolish race that covets resources, destroys nature, and are devoted to the pursuit of pleasure.\" And so, to protect their precious Earth, she calls upon her knights to take up arms, and the raging battle between the two civilizations reignites.\n\nSlaine Troyard has found a place among the Martians, giving Earth a short respite from the war against the Vers Empire. However, a peaceful resolution seems inconceivable. The various people who fought desperately for survival in the past now find themselves in the midst of yet another bloody and chaotic conflict, one that will forever alter the fate of humankind.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "winter",
+      "year": 2015,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 00:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 459,
+          "type": "anime",
+          "name": "Nitroplus",
+          "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+        },
+        {
+          "mal_id": 797,
+          "type": "anime",
+          "name": "Houbunsha",
+          "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+          "mal_id": 963,
+          "type": "anime",
+          "name": "MAGES.",
+          "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+          "mal_id": 1211,
+          "type": "anime",
+          "name": "Tokyo MX",
+          "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+          "mal_id": 1415,
+          "type": "anime",
+          "name": "Asahi Broadcasting",
+          "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+        },
+        {
+          "mal_id": 1416,
+          "type": "anime",
+          "name": "BS11",
+          "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 493,
+          "type": "anime",
+          "name": "Aniplex of America",
+          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "A-1 Pictures",
+          "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+          "mal_id": 1103,
+          "type": "anime",
+          "name": "TROYCA",
+          "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 40004,
+      "url": "https://myanimelist.net/anime/40004/Bokutachi_wa_Benkyou_ga_Dekinai",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1974/102960.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1974/102960t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1974/102960l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1974/102960.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1974/102960t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1974/102960l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/OBSkPcp3ffI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Bokutachi wa Benkyou ga Dekinai!"
+        },
+        {
+          "type": "Synonym",
+          "title": "BokuBen 2"
+        },
+        {
+          "type": "Synonym",
+          "title": "We Never Learn! 2"
+        },
+        {
+          "type": "Synonym",
+          "title": "We Can't Study"
+        },
+        {
+          "type": "Synonym",
+          "title": "Bokutachi wa Benkyou ga Dekinai! 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "ぼくたちは勉強ができない！"
+        },
+        {
+          "type": "English",
+          "title": "We Never Learn: BOKUBEN Season 2"
+        },
+        {
+          "type": "German",
+          "title": "We Never Learn Staffel 2"
+        },
+        {
+          "type": "Spanish",
+          "title": "We Never Learn!: Bokuben Temporada 2"
+        },
+        {
+          "type": "French",
+          "title": "We Never Learn: Bokuben Saison 2"
+        }
+      ],
+      "title": "Bokutachi wa Benkyou ga Dekinai!",
+      "title_english": "We Never Learn: BOKUBEN Season 2",
+      "title_japanese": "ぼくたちは勉強ができない！",
+      "title_synonyms": [
+        "BokuBen 2",
+        "We Never Learn! 2",
+        "We Can't Study",
+        "Bokutachi wa Benkyou ga Dekinai! 2nd Season"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-10-06T00:00:00+00:00",
+        "to": "2019-12-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 10,
+            "year": 2019
+          },
+          "to": {
+            "day": 29,
+            "month": 12,
+            "year": 2019
+          }
+        },
+        "string": "Oct 6, 2019 to Dec 29, 2019"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.32,
+      "scored_by": 182241,
+      "rank": 2892,
+      "popularity": 861,
+      "members": 323546,
+      "favorites": 740,
+      "synopsis": "Under Nariyuki Yuiga's devoted tutelage, his classmates Rizu Ogata, Fumino Furuhashi, and Uruka Takemoto are finally pulling average test scores on their worst subjects. But time is ticking, and there is still a long way to go before the three geniuses of Ichinose Academy are ready for their upcoming university exams. Meanwhile, the girls still struggle to balance the pursuit of their dreams with their growing affections for their unsuspecting tutor.\n\nJoining them are Mafuyu Kirisu, a teacher with strong views about education and talent because of her past as a rising figure skater, and Asumi Kominami, a graduate from their school aiming to attend a national medical university. With these two additions, the group of six is livelier than ever before. Completely caught up in hilarious antics with his new friends, Yuiga finds that his last year of high school now includes a lot more than just going to class and studying.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2019,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "00:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 00:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 1416,
+          "type": "anime",
+          "name": "BS11",
+          "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+          "mal_id": 2101,
+          "type": "anime",
+          "name": "ADK",
+          "url": "https://myanimelist.net/anime/producer/2101/ADK"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 493,
+          "type": "anime",
+          "name": "Aniplex of America",
+          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 1873,
+          "type": "anime",
+          "name": "Silver",
+          "url": "https://myanimelist.net/anime/producer/1873/Silver"
+        },
+        {
+          "mal_id": 1874,
+          "type": "anime",
+          "name": "Arvo Animation",
+          "url": "https://myanimelist.net/anime/producer/1874/Arvo_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 5258,
+      "url": "https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/8/56617.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/8/56617t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/8/56617l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/8/56617.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/8/56617t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/8/56617l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hajime no Ippo: New Challenger"
+        },
+        {
+          "type": "Synonym",
+          "title": "Hajime no Ippo New Series"
+        },
+        {
+          "type": "Synonym",
+          "title": "Hajime no Ippo Season II"
+        },
+        {
+          "type": "Synonym",
+          "title": "Hajime no Ippo 2"
+        },
+        {
+          "type": "Japanese",
+          "title": "はじめの一歩 新シリーズ"
+        },
+        {
+          "type": "English",
+          "title": "Fighting Spirit: New Challenger"
+        },
+        {
+          "type": "Spanish",
+          "title": "Hajime no Ippo: The Fighting. New Challenger"
+        }
+      ],
+      "title": "Hajime no Ippo: New Challenger",
+      "title_english": "Fighting Spirit: New Challenger",
+      "title_japanese": "はじめの一歩 新シリーズ",
+      "title_synonyms": [
+        "Hajime no Ippo New Series",
+        "Hajime no Ippo Season II",
+        "Hajime no Ippo 2"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2009-01-07T00:00:00+00:00",
+        "to": "2009-07-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 1,
+            "year": 2009
+          },
+          "to": {
+            "day": 1,
+            "month": 7,
+            "year": 2009
+          }
+        },
+        "string": "Jan 7, 2009 to Jul 1, 2009"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.67,
+      "scored_by": 187619,
+      "rank": 75,
+      "popularity": 862,
+      "members": 323147,
+      "favorites": 1945,
+      "synopsis": "Japanese Featherweight Champion Ippo Makunouchi has successfully defended and retained his title. Meanwhile, his rival, Ichirou Miyata, has resurfaced in Japan, aiming for his own Featherweight belt in the Oriental Pacific Boxing Federation. When the rest of the world comes knocking, however, will Japan's best fighters rise to the challenge and achieve glory at the top? Or will the small island nation be crushed under the weight of greater entities? This time, champions will become challengers issuing a call to the rest of the world and ready to show off their fighting spirit!\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "winter",
+      "year": 2009,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "01:29",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 01:29 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "VAP",
+          "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+          "mal_id": 159,
+          "type": "anime",
+          "name": "Kodansha",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1003,
+          "type": "anime",
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 11,
+          "type": "anime",
+          "name": "Madhouse",
+          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 30,
+          "type": "anime",
+          "name": "Sports",
+          "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 54,
+          "type": "anime",
+          "name": "Combat Sports",
+          "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 35847,
+      "url": "https://myanimelist.net/anime/35847/SSSSGridman",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1973/95616.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1973/95616t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1973/95616l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1973/95616.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1973/95616t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1973/95616l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/kZdZmbvln4g?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "SSSS.Gridman"
+        },
+        {
+          "type": "Japanese",
+          "title": "SSSS.GRIDMAN"
+        },
+        {
+          "type": "English",
+          "title": "SSSS.Gridman"
+        }
+      ],
+      "title": "SSSS.Gridman",
+      "title_english": "SSSS.Gridman",
+      "title_japanese": "SSSS.GRIDMAN",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2018-10-07T00:00:00+00:00",
+        "to": "2018-12-23T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 10,
+            "year": 2018
+          },
+          "to": {
+            "day": 23,
+            "month": 12,
+            "year": 2018
+          }
+        },
+        "string": "Oct 7, 2018 to Dec 23, 2018"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.13,
+      "scored_by": 138235,
+      "rank": 3953,
+      "popularity": 863,
+      "members": 322967,
+      "favorites": 1434,
+      "synopsis": "Yuuta Hibiki wakes up in the room of Rikka Takarada and notices two things: he has no memories, and he can hear a mysterious voice calling his name from a nearby room. On further inspection, he finds a robot—which introduces itself as Hyper Agent Gridman—behind the screen of an old computer. Much to Yuuta's surprise, Rikka cannot hear Gridman, nor can she see the ominous monsters looming over a thick fog as it envelopes the town outside.\n\nAnother giant monster materializes in the city and proceeds to wreak havoc. Amidst the confusion, Yuuta is once again drawn to the old computer and merges with Gridman. Suddenly, he appears in the middle of the battle and is forced to fight the monster. Together with Rikka and fellow classmate Shou Utsumi, Yuuta forms the \"Gridman Alliance\" to defeat the monsters plaguing the city and find whoever is responsible for their emergence.\n\n[Written by MAL Rewrite]",
+      "background": "SSSS.Gridman is an anime adaptation of the Tokusatsu show, Hyper-Agent Gridman, created by Tsuburaya Productions. The original aired in 1993-1994, and much like other Tokusatsu shows featured live-action, costumed actors fighting against giant monsters. The original Gridman was adapted into The Superhuman Samurai Syber-Squad. It was inspired by Ultraman, another Tokusatsu franchise created by Tsuburaya Productions. The series won the 50th Seiun Award for Best Dramatic Presentation in 2019.",
+      "season": "fall",
+      "year": 2018,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 00:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 144,
+          "type": "anime",
+          "name": "Pony Canyon",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 453,
+          "type": "anime",
+          "name": "Tsuburaya Productions",
+          "url": "https://myanimelist.net/anime/producer/453/Tsuburaya_Productions"
+        },
+        {
+          "mal_id": 460,
+          "type": "anime",
+          "name": "KlockWorx",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 539,
+          "type": "anime",
+          "name": "Ultra Super Pictures",
+          "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+          "mal_id": 894,
+          "type": "anime",
+          "name": "Graphinica",
+          "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+        },
+        {
+          "mal_id": 1334,
+          "type": "anime",
+          "name": "Docomo Anime Store",
+          "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+          "mal_id": 1358,
+          "type": "anime",
+          "name": "Fields",
+          "url": "https://myanimelist.net/anime/producer/1358/Fields"
+        },
+        {
+          "mal_id": 1416,
+          "type": "anime",
+          "name": "BS11",
+          "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 803,
+          "type": "anime",
+          "name": "Trigger",
+          "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 46,
+          "type": "anime",
+          "name": "Award Winning",
+          "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 1559,
+      "url": "https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/9/75515.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/9/75515t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/9/75515l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/9/75515.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/9/75515t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/9/75515l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/IZeFGHH7xWE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shijou Saikyou no Deshi Kenichi"
+        },
+        {
+          "type": "Synonym",
+          "title": "History's Strongest Disciple Kenichi"
+        },
+        {
+          "type": "Japanese",
+          "title": "史上最強の弟子 ケンイチ"
+        },
+        {
+          "type": "English",
+          "title": "KenIchi: The Mightiest Disciple"
+        },
+        {
+          "type": "German",
+          "title": "Kenichi: The Mightiest Disciple"
+        }
+      ],
+      "title": "Shijou Saikyou no Deshi Kenichi",
+      "title_english": "KenIchi: The Mightiest Disciple",
+      "title_japanese": "史上最強の弟子 ケンイチ",
+      "title_synonyms": [
+        "History's Strongest Disciple Kenichi"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 50,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2006-10-08T00:00:00+00:00",
+        "to": "2007-09-30T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 10,
+            "year": 2006
+          },
+          "to": {
+            "day": 30,
+            "month": 9,
+            "year": 2007
+          }
+        },
+        "string": "Oct 8, 2006 to Sep 30, 2007"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.03,
+      "scored_by": 165015,
+      "rank": 675,
+      "popularity": 864,
+      "members": 322710,
+      "favorites": 3722,
+      "synopsis": "Whenever he is not getting pummeled in the karate club after school, high schooler Kenichi Shirahama can be found with his head buried in one of the many self-help books he carries with him every day. One day, on the way to school, Kenichi accidentally frightens the new student in his class, leading her to throw him down onto the ground. After apologizing for her violent reflexes, she introduces herself as Miu Furinji and asks Kenichi to be her friend.\n\nLater that day, after karate club practice, Kenichi is given an ultimatum by one of the other club members: they will fight next week and the loser has to quit the club permanently. While lamenting his imminent defeat in the upcoming fight, Kenichi witnesses Miu fend off three thugs easily. Fed up with being perpetually bullied by those more powerful than him, he asks Miu for tips on how to become a better fighter. She directs Kenichi to her grandfather's dojo, Ryouzanpaku, where several skilled—albeit strange—masters of extreme martial arts have gathered to hone their abilities. Miu promises that Kenichi will become significantly stronger, but only if he manages to stay alive.\n\nWith those ominous words looming in his mind and the appearance of a criminal martial arts gang known as \"Ragnarok\" threatening the safety of those around him, Kenichi takes the first step on his journey to become a world-class fighter and a defender of the defenseless.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2006,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "00:55",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 00:55 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 16,
+          "type": "anime",
+          "name": "TV Tokyo",
+          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+          "mal_id": 65,
+          "type": "anime",
+          "name": "Tokyo Movie Shinsha",
+          "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+        },
+        {
+          "mal_id": 1430,
+          "type": "anime",
+          "name": "Shogakukan",
+          "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+          "mal_id": 467,
+          "type": "anime",
+          "name": "Discotek Media",
+          "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 73,
+          "type": "anime",
+          "name": "TMS Entertainment",
+          "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 39576,
+      "url": "https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1699/110724.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1699/110724t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1699/110724l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1699/110724.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1699/110724t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1699/110724l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/GwQXCqud3g8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Goblin Slayer: Goblin's Crown"
+        },
+        {
+          "type": "Japanese",
+          "title": "ゴブリンスレイヤー -GOBLIN'S CROWN-"
+        },
+        {
+          "type": "English",
+          "title": "Goblin Slayer: Goblin's Crown"
+        },
+        {
+          "type": "German",
+          "title": "Goblin Slayer The Movie: Goblin's Crown"
+        },
+        {
+          "type": "French",
+          "title": "Goblin Slayer : Goblin's Crown"
+        }
+      ],
+      "title": "Goblin Slayer: Goblin's Crown",
+      "title_english": "Goblin Slayer: Goblin's Crown",
+      "title_japanese": "ゴブリンスレイヤー -GOBLIN'S CROWN-",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Light novel",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-02-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 2,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 1, 2020"
+      },
+      "duration": "1 hr 25 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.26,
+      "scored_by": 160022,
+      "rank": 3225,
+      "popularity": 865,
+      "members": 322631,
+      "favorites": 502,
+      "synopsis": "Goblin Slayer and his party head up to the snowy mountains in the north after receiving a request from the Sword Maiden. A small village gets attacked, they encounter a mysterious chapel, and something about how these goblins are acting bothers the Goblin Slayer.\n\n(Source: Crunchyroll)",
+      "background": "The first 25 minutes is a recap of the first season. The movie that follows is an adaptation of the fifth light novel.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Sony Pictures Entertainment",
+          "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+        },
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Frontier Works",
+          "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 775,
+          "type": "anime",
+          "name": "Bushiroad",
+          "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+          "mal_id": 1333,
+          "type": "anime",
+          "name": "Hakuhodo DY Music & Pictures",
+          "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+          "mal_id": 1899,
+          "type": "anime",
+          "name": "Good Smile Film",
+          "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+        },
+        {
+          "mal_id": 2117,
+          "type": "anime",
+          "name": "SB Creative",
+          "url": "https://myanimelist.net/anime/producer/2117/SB_Creative"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 314,
+          "type": "anime",
+          "name": "White Fox",
+          "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 58,
+          "type": "anime",
+          "name": "Gore",
+          "url": "https://myanimelist.net/anime/genre/58/Gore"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 10213,
+      "url": "https://myanimelist.net/anime/10213/Maji_de_Watashi_ni_Koi_Shinasai",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/4/32541.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/4/32541t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/4/32541l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/4/32541.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/4/32541t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/4/32541l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Maji de Watashi ni Koi Shinasai!"
+        },
+        {
+          "type": "Synonym",
+          "title": "Love Me"
+        },
+        {
+          "type": "Synonym",
+          "title": "Seriously!!"
+        },
+        {
+          "type": "Japanese",
+          "title": "真剣で私に恋しなさい！"
+        },
+        {
+          "type": "English",
+          "title": "Majikoi: Oh! Samurai Girls"
+        },
+        {
+          "type": "German",
+          "title": "Majikoi Oh! Samurai Girls"
+        },
+        {
+          "type": "Spanish",
+          "title": "Majikoi Oh! Samurai Girls"
+        },
+        {
+          "type": "French",
+          "title": "Majikoi Oh! Samurai Girls"
+        }
+      ],
+      "title": "Maji de Watashi ni Koi Shinasai!",
+      "title_english": "Majikoi: Oh! Samurai Girls",
+      "title_japanese": "真剣で私に恋しなさい！",
+      "title_synonyms": [
+        "Love Me",
+        "Seriously!!"
+      ],
+      "type": "TV",
+      "source": "Visual novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2011-10-02T00:00:00+00:00",
+        "to": "2011-12-18T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 10,
+            "year": 2011
+          },
+          "to": {
+            "day": 18,
+            "month": 12,
+            "year": 2011
+          }
+        },
+        "string": "Oct 2, 2011 to Dec 18, 2011"
+      },
+      "duration": "23 min per ep",
+      "rating": "R+ - Mild Nudity",
+      "score": 6.64,
+      "scored_by": 134296,
+      "rank": 6646,
+      "popularity": 866,
+      "members": 322338,
+      "favorites": 690,
+      "synopsis": "The samurai are a very important part of Japan's history, and to be related to them in any way is probably one of the most inspiring things that a young high school student could hope for.\n\nKawakami City is well-known for having many samurai ancestors among its citizens, and is generally surrounded by an atmosphere of fighting spirit, loyalty, and dedication to work. In Maji de Watashi ni Koi Shinasai!, the students of Kawakami Academy use this knowledge on a daily basis, whether they are studying for exams, competing in sports competitions, or making sure that they take very good care of their traditions. Yamato Naoe is one such student, and his six closest friends (three boys and three girls) make up the perfect team for friendship, rivalry, and motivation. However, even samurai have weaknesses.\n\nAlthough the balance and long friendship of their group has been undisturbed for a long time, when two new girls enter the group, things start to get a lot more interesting. Not only must they maintain what they think is the samurai tradition, but they must now also do it with a lot of \"distractions.\"",
+      "background": "",
+      "season": "fall",
+      "year": 2011,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "01:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 01:00 (JST)"
+      },
+      "producers": [],
+      "licensors": [
+        {
+          "mal_id": 376,
+          "type": "anime",
+          "name": "Sentai Filmworks",
+          "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 456,
+          "type": "anime",
+          "name": "Lerche",
+          "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 9515,
+      "url": "https://myanimelist.net/anime/9515/Highschool_of_the_Dead__Drifters_of_the_Dead",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1746/97780.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1746/97780t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1746/97780l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1746/97780.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1746/97780t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1746/97780l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Highschool of the Dead: Drifters of the Dead"
+        },
+        {
+          "type": "Synonym",
+          "title": "High School of the Dead OVA"
+        },
+        {
+          "type": "Synonym",
+          "title": "Gakuen Mokushiroku: Highschool of the Dead"
+        },
+        {
+          "type": "Synonym",
+          "title": "HOTD"
+        },
+        {
+          "type": "Synonym",
+          "title": "HSOTD"
+        },
+        {
+          "type": "Synonym",
+          "title": "Drifters of the Dead"
+        },
+        {
+          "type": "Japanese",
+          "title": "学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド"
+        },
+        {
+          "type": "English",
+          "title": "High School of the Dead: Drifters of the Dead"
+        }
+      ],
+      "title": "Highschool of the Dead: Drifters of the Dead",
+      "title_english": "High School of the Dead: Drifters of the Dead",
+      "title_japanese": "学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド",
+      "title_synonyms": [
+        "High School of the Dead OVA",
+        "Gakuen Mokushiroku: Highschool of the Dead",
+        "HOTD",
+        "HSOTD",
+        "Drifters of the Dead"
+      ],
+      "type": "OVA",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2011-04-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 26,
+            "month": 4,
+            "year": 2011
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 26, 2011"
+      },
+      "duration": "16 min",
+      "rating": "R+ - Mild Nudity",
+      "score": 6.62,
+      "scored_by": 197534,
+      "rank": 6795,
+      "popularity": 867,
+      "members": 322311,
+      "favorites": 415,
+      "synopsis": "After escaping the zombie-infested mainland, Takashi Komuro and the gang find themselves on a remote island off the coast of Tokonosu City. While scavenging around the island for supplies, they encounter a small seaside shack that provides them with clothing and a place to rest for the night. After a day's work of collecting food, they begin to cook what they have gathered. \n\nAs they wait beside the campfire, a light haze begins to form around them and makes them nauseous. Confirming it to be caused by hydrangeas—a type of poisonous plant that can cause hallucinations—the group attempts to escape from the powerful odor. \n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 777,
+          "type": "anime",
+          "name": "Showgate",
+          "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 376,
+          "type": "anime",
+          "name": "Sentai Filmworks",
+          "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 11,
+          "type": "anime",
+          "name": "Madhouse",
+          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 57524,
+      "url": "https://myanimelist.net/anime/57524/Make_Heroine_ga_Oosugiru",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1332/143513.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1332/143513t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1332/143513l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1332/143513.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1332/143513t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1332/143513l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/uytJ6_KTCZI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Make Heroine ga Oosugiru!"
+        },
+        {
+          "type": "Synonym",
+          "title": "Makeine"
+        },
+        {
+          "type": "Japanese",
+          "title": "負けヒロインが多すぎる！"
+        },
+        {
+          "type": "English",
+          "title": "Makeine: Too Many Losing Heroines!"
+        }
+      ],
+      "title": "Make Heroine ga Oosugiru!",
+      "title_english": "Makeine: Too Many Losing Heroines!",
+      "title_japanese": "負けヒロインが多すぎる！",
+      "title_synonyms": [
+        "Makeine"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-07-14T00:00:00+00:00",
+        "to": "2024-09-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 14,
+            "month": 7,
+            "year": 2024
+          },
+          "to": {
+            "day": 29,
+            "month": 9,
+            "year": 2024
+          }
+        },
+        "string": "Jul 14, 2024 to Sep 29, 2024"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.08,
+      "scored_by": 169377,
+      "rank": 598,
+      "popularity": 868,
+      "members": 321889,
+      "favorites": 3507,
+      "synopsis": "Despite not understanding much about fleeting teen romance, first-year high school student Kazuhiko Nukumizu still wonders how he would react if his life were to be turned into a love story. Regardless, as a self-proclaimed \"background character,\" Nukumizu is satisfied continuing his life as an introvert with a negligible social life. However, he suddenly finds himself too close to the spotlight when he witnesses his popular classmate Anna Yanami be rejected by her childhood friend in the middle of a family restaurant. \n\nWhile Nukumizu wishes he could just forget what he saw and move on, Anna ends up forcefully confiding herself in Nukumizu, lamenting her status as a childhood friend fated to have her beloved stolen. As he becomes dragged into Anna's situation, Nukumizu soon gets caught up in the relationship drama of two more girls: Lemon Yakishio, an outgoing member of the track and field club; and Chika Komari, a shy member of the literature club. Now thrust out of his comfort zone, Nukumizu finds himself a major character in the lives of too many losing heroines. \n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "summer",
+      "year": 2024,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "00:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 00:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 1211,
+          "type": "anime",
+          "name": "Tokyo MX",
+          "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+          "mal_id": 1261,
+          "type": "anime",
+          "name": "Good Smile Company",
+          "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+          "mal_id": 1416,
+          "type": "anime",
+          "name": "BS11",
+          "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+          "mal_id": 1554,
+          "type": "anime",
+          "name": "Contents Seed",
+          "url": "https://myanimelist.net/anime/producer/1554/Contents_Seed"
+        },
+        {
+          "mal_id": 2640,
+          "type": "anime",
+          "name": "INSPION Edge",
+          "url": "https://myanimelist.net/anime/producer/2640/INSPION_Edge"
+        },
+        {
+          "mal_id": 2976,
+          "type": "anime",
+          "name": "JR Tokai Agency",
+          "url": "https://myanimelist.net/anime/producer/2976/JR_Tokai_Agency"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "A-1 Pictures",
+          "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 54714,
+      "url": "https://myanimelist.net/anime/54714/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1812/136764.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1812/136764t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1812/136764l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1812/136764.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1812/136764t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1812/136764l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/1P_M_3QnV1A?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo"
+        },
+        {
+          "type": "Synonym",
+          "title": "Hyakkano"
+        },
+        {
+          "type": "Japanese",
+          "title": "君のことが大大大大大好きな100人の彼女"
+        },
+        {
+          "type": "English",
+          "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You"
+        }
+      ],
+      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "title_english": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "title_japanese": "君のことが大大大大大好きな100人の彼女",
+      "title_synonyms": [
+        "Hyakkano"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-10-08T00:00:00+00:00",
+        "to": "2023-12-24T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 10,
+            "year": 2023
+          },
+          "to": {
+            "day": 24,
+            "month": 12,
+            "year": 2023
+          }
+        },
+        "string": "Oct 8, 2023 to Dec 24, 2023"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.68,
+      "scored_by": 166714,
+      "rank": 1440,
+      "popularity": 869,
+      "members": 321015,
+      "favorites": 3071,
+      "synopsis": "Rentarou Aijou has it all: looks, intelligence, athletic skill, and popularity with peers and mentors alike. Unfortunately, none of these qualities help Rentarou with his love life. On the day of his middle school graduation, he is once again turned down by a girl he confesses to, earning his one-hundredth rejection in a row. Down on his luck, he goes to a matchmaking shrine and wishes to finally get a girlfriend in high school.\n\nWhen the god of the shrine suddenly appears before him, Rentarou is told he will meet an astronomical total of one hundred soulmates in high school. Though Rentarou initially does not take this foretelling seriously, his doubts disappear when, on the first day of school, he meets two of these soulmates—Hakari Hanazono and Karane Inda—who both confess to him. With fated encounters and love confessions galore, Rentarou's life is about to get a lot more exciting.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2023,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "22:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 22:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 775,
+          "type": "anime",
+          "name": "Bushiroad",
+          "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+          "mal_id": 1211,
+          "type": "anime",
+          "name": "Tokyo MX",
+          "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 2146,
+          "type": "anime",
+          "name": "NetEase",
+          "url": "https://myanimelist.net/anime/producer/2146/NetEase"
+        },
+        {
+          "mal_id": 2228,
+          "type": "anime",
+          "name": "Bushiroad Move",
+          "url": "https://myanimelist.net/anime/producer/2228/Bushiroad_Move"
+        },
+        {
+          "mal_id": 2424,
+          "type": "anime",
+          "name": "Bandai Namco Filmworks",
+          "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+        },
+        {
+          "mal_id": 2425,
+          "type": "anime",
+          "name": "Bandai Namco Music Live",
+          "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 1722,
+          "type": "anime",
+          "name": "Bibury Animation Studios",
+          "url": "https://myanimelist.net/anime/producer/1722/Bibury_Animation_Studios"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 20,
+          "type": "anime",
+          "name": "Parody",
+          "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ]
+    },
+    {
+      "mal_id": 9379,
+      "url": "https://myanimelist.net/anime/9379/Denpa_Onna_to_Seishun_Otoko",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1799/114806.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1799/114806t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1799/114806l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1799/114806.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1799/114806t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1799/114806l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/kk0GQZbJP_I?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Denpa Onna to Seishun Otoko"
+        },
+        {
+          "type": "Synonym",
+          "title": "Electromagnetic Wave Woman and Adolescent Man"
+        },
+        {
+          "type": "Japanese",
+          "title": "電波女と青春男"
+        },
+        {
+          "type": "English",
+          "title": "Ground Control to Psychoelectric Girl"
+        }
+      ],
+      "title": "Denpa Onna to Seishun Otoko",
+      "title_english": "Ground Control to Psychoelectric Girl",
+      "title_japanese": "電波女と青春男",
+      "title_synonyms": [
+        "Electromagnetic Wave Woman and Adolescent Man"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2011-04-15T00:00:00+00:00",
+        "to": "2011-07-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 15,
+            "month": 4,
+            "year": 2011
+          },
+          "to": {
+            "day": 1,
+            "month": 7,
+            "year": 2011
+          }
+        },
+        "string": "Apr 15, 2011 to Jul 1, 2011"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.11,
+      "scored_by": 131612,
+      "rank": 4092,
+      "popularity": 871,
+      "members": 320881,
+      "favorites": 1154,
+      "synopsis": "Makoto Niwa meticulously tallies the amount of positive and negative youthful experiences he engages in as if to grade his own life. When his parents go overseas, he moves to a new town to live with his aunt, welcoming the change and ready for a fresh start. However, as ordinary as he had imagined his adolescence to be, he could never have taken the existence of an enigmatic long-lost cousin into account.\n\nUpon moving into his aunt's house, he discovers the cousin he never knew about: Erio Touwa. Despite being Makoto's age, she couldn't be more different: Erio chooses to wrap herself in a futon all day rather than to go to school. She even claims to be an alien, and with a speech pattern and personality to back it up, any chance of Makoto's dreamt-of normal life is instantly tossed out the window.\n\nAs he meets a string of other eccentric girls in town, Makoto must face the possibility of seeing his youth points in the red. However, he might be surprised by how thrilling an abnormal youth can be.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2011,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "01:55",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 01:55 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 92,
+          "type": "anime",
+          "name": "Starchild Records",
+          "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+          "mal_id": 145,
+          "type": "anime",
+          "name": "TBS",
+          "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 681,
+          "type": "anime",
+          "name": "ASCII Media Works",
+          "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+          "mal_id": 1344,
+          "type": "anime",
+          "name": "King Records",
+          "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 372,
+          "type": "anime",
+          "name": "NIS America",
+          "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 44,
+          "type": "anime",
+          "name": "Shaft",
+          "url": "https://myanimelist.net/anime/producer/44/Shaft"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 8086,
+      "url": "https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/8/73651.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/8/73651t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/8/73651l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/8/73651.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/8/73651t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/8/73651l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/-KQwoCCvf_0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Densetsu no Yuusha no Densetsu"
+        },
+        {
+          "type": "Synonym",
+          "title": "DenYuDen"
+        },
+        {
+          "type": "Synonym",
+          "title": "DenYuuDen"
+        },
+        {
+          "type": "Synonym",
+          "title": "Densetsu no Yusha no Densetsu"
+        },
+        {
+          "type": "Synonym",
+          "title": "LOLH"
+        },
+        {
+          "type": "Japanese",
+          "title": "伝説の勇者の伝説"
+        },
+        {
+          "type": "English",
+          "title": "The Legend of the Legendary Heroes"
+        },
+        {
+          "type": "Spanish",
+          "title": "La Leyenda de los Héroes Legendarios"
+        }
+      ],
+      "title": "Densetsu no Yuusha no Densetsu",
+      "title_english": "The Legend of the Legendary Heroes",
+      "title_japanese": "伝説の勇者の伝説",
+      "title_synonyms": [
+        "DenYuDen",
+        "DenYuuDen",
+        "Densetsu no Yusha no Densetsu",
+        "LOLH"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2010-07-02T00:00:00+00:00",
+        "to": "2010-12-17T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 7,
+            "year": 2010
+          },
+          "to": {
+            "day": 17,
+            "month": 12,
+            "year": 2010
+          }
+        },
+        "string": "Jul 2, 2010 to Dec 17, 2010"
+      },
+      "duration": "23 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.49,
+      "scored_by": 142013,
+      "rank": 2146,
+      "popularity": 872,
+      "members": 320761,
+      "favorites": 2043,
+      "synopsis": "\"Alpha Stigma\" are known to be eyes that can analyze all types of magic. However, they are more infamously known as cursed eyes that can only bring destruction and death to others.\n\nRyner Lute, a talented mage and also an Alpha Stigma bearer, was once a student of the Roland Empire's Magician Academy, an elite school dedicated to training magicians for military purposes. However, after many of his classmates died in a war, he makes an oath to make the nation a more orderly and peaceful place, with fellow survivor and best friend, Sion Astal.\n\nNow that Sion is the king of Roland, he orders Ryner to search for useful relics that will aid the nation. Together with Ferris Eris, a beautiful and highly skilled swordswoman, Ryner goes on a journey to search for relics of legendary heroes from the past, and also uncover the secrets behind his cursed eyes.\n\n[Written by MAL Rewrite]",
+      "background": "Advanced screening on June 26, 2010. The regular TV airing started on July 2, 2010.",
+      "season": "summer",
+      "year": 2010,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "02:15",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 02:15 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 104,
+          "type": "anime",
+          "name": "Lantis",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 108,
+          "type": "anime",
+          "name": "Media Factory",
+          "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+          "mal_id": 685,
+          "type": "anime",
+          "name": "Kadokawa Contents Gate",
+          "url": "https://myanimelist.net/anime/producer/685/Kadokawa_Contents_Gate"
+        },
+        {
+          "mal_id": 1255,
+          "type": "anime",
+          "name": "Glovision",
+          "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+          "mal_id": 1664,
+          "type": "anime",
+          "name": "Fujimi Shobo",
+          "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 218,
+          "type": "anime",
+          "name": "Zexcs",
+          "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 38,
+          "type": "anime",
+          "name": "Military",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 59027,
+      "url": "https://myanimelist.net/anime/59027/Spy_x_Family_Season_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1697/151793.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1697/151793t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1697/151793l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1697/151793.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1697/151793t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1697/151793l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/9-JreaprnO0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Spy x Family Season 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "SPY×FAMILY Season 3"
+        },
+        {
+          "type": "English",
+          "title": "Spy x Family Season 3"
+        }
+      ],
+      "title": "Spy x Family Season 3",
+      "title_english": "Spy x Family Season 3",
+      "title_japanese": "SPY×FAMILY Season 3",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2025-10-04T00:00:00+00:00",
+        "to": "2025-12-27T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 10,
+            "year": 2025
+          },
+          "to": {
+            "day": 27,
+            "month": 12,
+            "year": 2025
+          }
+        },
+        "string": "Oct 4, 2025 to Dec 27, 2025"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.21,
+      "scored_by": 111916,
+      "rank": 411,
+      "popularity": 872,
+      "members": 320744,
+      "favorites": 1793,
+      "synopsis": "Despite occasional setbacks, Operation Strix has remained on track to extract sensitive information from the enigmatic politician Donovan Desmond. To this end, spy Loid Forger has managed to maintain his pretend family consisting of his telepathic daughter, Anya; assassin wife, Yor; and their clairvoyant dog, Bond. Still the only one aware of everyone's true identities, Anya tries to sustain the family's cohesion while working to befriend Donovan's son Damian, her Eden Academy classmate.\n\nHowever, Anya's efforts instead earn her another Tonitrus Bolt, bringing her closer to getting expelled and jeopardizing the operation's success. Hearing the news, Loid faints from shock. In his unconsciousness, he reminisces about his tragic past and his journey to becoming a spy. Realizing what Operation Strix means to him and the world, Loid finds renewed motivation. Although they each work toward their own covert goals, the Forgers continue to cherish their chaotic yet blissful family life.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2025,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 16,
+          "type": "anime",
+          "name": "TV Tokyo",
+          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Shogakukan-Shueisha Productions",
+          "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1294,
+          "type": "anime",
+          "name": "Sound Team Don Juan",
+          "url": "https://myanimelist.net/anime/producer/1294/Sound_Team_Don_Juan"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 2229,
+          "type": "anime",
+          "name": "Toho Music",
+          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+        },
+        {
+          "mal_id": 3210,
+          "type": "anime",
+          "name": "Verygoo",
+          "url": "https://myanimelist.net/anime/producer/3210/Verygoo"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 858,
+          "type": "anime",
+          "name": "Wit Studio",
+          "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        },
+        {
+          "mal_id": 1835,
+          "type": "anime",
+          "name": "CloverWorks",
+          "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Childcare",
+          "url": "https://myanimelist.net/anime/genre/53/Childcare"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 12477,
+      "url": "https://myanimelist.net/anime/12477/Sakasama_no_Patema",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/12/52415.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/12/52415t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/12/52415l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/12/52415.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/12/52415t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/12/52415l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/C2NgRe7KVRM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Sakasama no Patema"
+        },
+        {
+          "type": "Synonym",
+          "title": "Sakasama no Patema"
+        },
+        {
+          "type": "Japanese",
+          "title": "サカサマのパテマ"
+        },
+        {
+          "type": "English",
+          "title": "Patema Inverted"
+        },
+        {
+          "type": "German",
+          "title": "Patema Inverted"
+        },
+        {
+          "type": "Spanish",
+          "title": "Patema Inverted"
+        },
+        {
+          "type": "French",
+          "title": "Patéma et le Monde Inversé"
+        }
+      ],
+      "title": "Sakasama no Patema",
+      "title_english": "Patema Inverted",
+      "title_japanese": "サカサマのパテマ",
+      "title_synonyms": [
+        "Sakasama no Patema"
+      ],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2013-11-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 9,
+            "month": 11,
+            "year": 2013
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Nov 9, 2013"
+      },
+      "duration": "1 hr 38 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.93,
+      "scored_by": 144241,
+      "rank": 827,
+      "popularity": 873,
+      "members": 319406,
+      "favorites": 1510,
+      "synopsis": "Patema is a plucky young girl from an underground civilization boasting an incredible network of tunnels. Inspired by a friend that mysteriously went missing, she is often reprimanded due to her constant excursions of these tunnels due to her royal status. After she enters what is known as the \"forbidden zone,\" she accidentally falls into a giant bottomless pit after being startled by a strange creature.\n\nFinding herself on the surface, a world literally turned upside down, she begins falling towards the sky only to be saved by Age, a discontented student of the totalitarian nation known as Aiga. The people of Aiga are taught to believe that \"Inverts,\" like Patema, are sinners that will be \"swallowed by the sky,\" but Age has resisted this propaganda and decides to protect his new friend. A chance meeting between two curious teenagers leads to an exploration of two unique worlds as they begin working together to unveil the secrets of their origins in Sakasama no Patema, a heart-warming film about overcoming differences in order to coexist.\n\n[Written by MAL Rewrite]",
+      "background": "Sakasema no Patema was shown at selected countries like the UK while Cinedigm handled the Blu-ray and DVD releases for North America. Patema Inverted won the Audience Award and the Judges Award during the 2013 Scotland Loves Anime. It was also nominated for Best Animated Feature Film during the 7th Asia Pacific Screen Awards.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 324,
+          "type": "anime",
+          "name": "Directions",
+          "url": "https://myanimelist.net/anime/producer/324/Directions"
+        },
+        {
+          "mal_id": 517,
+          "type": "anime",
+          "name": "Asmik Ace",
+          "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+          "mal_id": 1261,
+          "type": "anime",
+          "name": "Good Smile Company",
+          "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 783,
+          "type": "anime",
+          "name": "GKIDS",
+          "url": "https://myanimelist.net/anime/producer/783/GKIDS"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 84,
+          "type": "anime",
+          "name": "Studio Rikka",
+          "url": "https://myanimelist.net/anime/producer/84/Studio_Rikka"
+        },
+        {
+          "mal_id": 559,
+          "type": "anime",
+          "name": "Purple Cow Studio Japan",
+          "url": "https://myanimelist.net/anime/producer/559/Purple_Cow_Studio_Japan"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 46,
+          "type": "anime",
+          "name": "Award Winning",
+          "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 2787,
+      "url": "https://myanimelist.net/anime/2787/Shakugan_no_Shana_II_Second",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1827/134365.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1827/134365t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1827/134365l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1827/134365.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1827/134365t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1827/134365l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shakugan no Shana II (Second)"
+        },
+        {
+          "type": "Synonym",
+          "title": "Shakugan no Shana 2"
+        },
+        {
+          "type": "Japanese",
+          "title": "灼眼のシャナII –Second–"
+        },
+        {
+          "type": "English",
+          "title": "Shakugan no Shana: Season II"
+        }
+      ],
+      "title": "Shakugan no Shana II (Second)",
+      "title_english": "Shakugan no Shana: Season II",
+      "title_japanese": "灼眼のシャナII –Second–",
+      "title_synonyms": [
+        "Shakugan no Shana 2"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2007-10-05T00:00:00+00:00",
+        "to": "2008-03-28T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 10,
+            "year": 2007
+          },
+          "to": {
+            "day": 28,
+            "month": 3,
+            "year": 2008
+          }
+        },
+        "string": "Oct 5, 2007 to Mar 28, 2008"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.54,
+      "scored_by": 176758,
+      "rank": 1938,
+      "popularity": 874,
+      "members": 319006,
+      "favorites": 993,
+      "synopsis": "Denizens from the Crimson Realm continue to infiltrate Misaki City and steal life energy from humans. To combat this threat, Flame Hazes are tasked with saving humans from losing their existences. But while it is a Flame Haze's duty to protect humans, Shana—the \"Flame-Haired Burning-Eyed Hunter\"—seems to be focusing her attention on one human in particular: Yuuji Sakai, a teenage boy who was unwittingly dragged into the fight between Crimson Denizens and Flame Hazes. Since her first encounter with Yuuji, Shana has started to see him as more than just a friend. In fact, Yuuji wonders if Shana might have revealed her feelings to him once before, but it is difficult for him to confirm due to her hot-and-cold personality. Nonetheless, their days pass like any other, until a new transfer student arrives at their high school—one who bears a striking resemblance to an old enemy.\n\nYuuji and Shana have no time to dance around their feelings for each other; while their adversaries from the Bal Masqué organization plan their next attack, the two must keep their guard up as they explore the origin behind the coveted magical object within Yuuji's body, the \"Midnight Lost Child.\"\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2007,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "01:25",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 01:25 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 681,
+          "type": "anime",
+          "name": "ASCII Media Works",
+          "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+          "mal_id": 2956,
+          "type": "anime",
+          "name": "Geneon Entertainment",
+          "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "J.C.Staff",
+          "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 82,
+          "type": "anime",
+          "name": "Urban Fantasy",
+          "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 4059,
+      "url": "https://myanimelist.net/anime/4059/Clannad__Mou_Hitotsu_no_Sekai_Tomoyo-hen",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/12/19620.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/12/19620t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/12/19620l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/12/19620.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/12/19620t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/12/19620l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen"
+        },
+        {
+          "type": "Synonym",
+          "title": "Clannad OVA"
+        },
+        {
+          "type": "Japanese",
+          "title": "-クラナド-　もうひとつの世界　智代編"
+        },
+        {
+          "type": "English",
+          "title": "Clannad: Another World, Tomoyo Chapter"
+        }
+      ],
+      "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+      "title_english": "Clannad: Another World, Tomoyo Chapter",
+      "title_japanese": "-クラナド-　もうひとつの世界　智代編",
+      "title_synonyms": [
+        "Clannad OVA"
+      ],
+      "type": "Special",
+      "source": "Visual novel",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2008-07-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 16,
+            "month": 7,
+            "year": 2008
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 16, 2008"
+      },
+      "duration": "23 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.92,
+      "scored_by": 210384,
+      "rank": 835,
+      "popularity": 875,
+      "members": 318626,
+      "favorites": 879,
+      "synopsis": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen is set in an alternate reality where Tomoya Okazaki dates his junior, Tomoyo Sakagami.\n\nTomoyo has been elected to be the school's next Student Council President. This is great news as she can now work toward her goal of preventing the school's cherry blossom trees from being axed. Although Tomoya is ecstatic for her, given his reputation as a delinquent in school, his relationship with Tomoyo is making them the subject of gossip around the campus, which can potentially compromise her standing as Student Council President. The school community's disapproval of their relationship becomes more apparent when the Student Council's Vice-President and even the school's administration warn Tomoya to distance himself from Tomoyo.\n\nWith the bad atmosphere widening the rift between Tomoya and Tomoyo, will Tomoya succumb to societal pressure and do as they say, or will their love for each other rise above it all?\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 144,
+          "type": "anime",
+          "name": "Pony Canyon",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 376,
+          "type": "anime",
+          "name": "Sentai Filmworks",
+          "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Kyoto Animation",
+          "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    }
+  ]
+}

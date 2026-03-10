@@ -1,0 +1,1343 @@
+{
+  "pagination": {
+    "last_visible_page": 13,
+    "has_next_page": false,
+    "current_page": 13,
+    "items": {
+      "count": 13,
+      "total": 313,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 62836,
+      "url": "https://myanimelist.net/anime/62836/Gurubond",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1799/152782.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1799/152782t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1799/152782l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1799/152782.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1799/152782t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1799/152782l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Gurubond"
+        },
+        {
+          "type": "Synonym",
+          "title": "Anime Nova Project"
+        },
+        {
+          "type": "Japanese",
+          "title": "グルボンド"
+        }
+      ],
+      "title": "Gurubond",
+      "title_english": null,
+      "title_japanese": "グルボンド",
+      "title_synonyms": [
+        "Anime Nova Project"
+      ],
+      "type": "TV Special",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-03-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 31,
+            "month": 3,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 31, 2023"
+      },
+      "duration": "1 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 21935,
+      "popularity": 29286,
+      "members": 79,
+      "favorites": 0,
+      "synopsis": "A short film produced at the second Anime Nova Project U-20 Anime Grand Prix, a program designed to train up-and-coming animators under 20 years old who have received backing from production companies.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 62449,
+      "url": "https://myanimelist.net/anime/62449/Tobot__Daedosiui_Yeongungdeul",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1197/151968.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1197/151968t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1197/151968l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1197/151968.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1197/151968t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1197/151968l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tobot: Daedosiui Yeongungdeul"
+        },
+        {
+          "type": "Japanese",
+          "title": "또봇 : 대도시의 영웅들"
+        }
+      ],
+      "title": "Tobot: Daedosiui Yeongungdeul",
+      "title_english": null,
+      "title_japanese": "또봇 : 대도시의 영웅들",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 8,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-02-24T00:00:00+00:00",
+        "to": "2023-04-14T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 24,
+            "month": 2,
+            "year": 2023
+          },
+          "to": {
+            "day": 14,
+            "month": 4,
+            "year": 2023
+          }
+        },
+        "string": "Feb 24, 2023 to Apr 14, 2023"
+      },
+      "duration": "11 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 16189,
+      "popularity": 29312,
+      "members": 78,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": "winter",
+      "year": 2023,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 61833,
+      "url": "https://myanimelist.net/anime/61833/Tsukimi_Gokochi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1637/150537.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1637/150537t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1637/150537l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1637/150537.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1637/150537t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1637/150537l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tsukimi Gokochi"
+        },
+        {
+          "type": "Japanese",
+          "title": "月見ごこち"
+        },
+        {
+          "type": "English",
+          "title": "To the Moon and Back"
+        }
+      ],
+      "title": "Tsukimi Gokochi",
+      "title_english": "To the Moon and Back",
+      "title_japanese": "月見ごこち",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2023"
+      },
+      "duration": "12 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 16293,
+      "popularity": 29397,
+      "members": 73,
+      "favorites": 0,
+      "synopsis": "Since I was born, the moon has circled the Earth 9,125 times. We all grew older with each orbit, but the moon never seems to age. A story about my grandma, her death, and my childhood.\n\n(Source: Geidai Animation)",
+      "background": "Graduate work 2023 by Shuqin Li, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. Winner of the Grand Prix at the 19th Kichijoji International Animation Film Festival.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1524,
+          "type": "anime",
+          "name": "Geidai Animation",
+          "url": "https://myanimelist.net/anime/producer/1524/Geidai_Animation"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 59024,
+      "url": "https://myanimelist.net/anime/59024/Chan",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1754/143490.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1754/143490t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1754/143490l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1754/143490.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1754/143490t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1754/143490l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Chan"
+        },
+        {
+          "type": "Japanese",
+          "title": "缠"
+        },
+        {
+          "type": "English",
+          "title": "Braided"
+        }
+      ],
+      "title": "Chan",
+      "title_english": "Braided",
+      "title_japanese": "缠",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2023"
+      },
+      "duration": "6 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 20793,
+      "popularity": 29414,
+      "members": 72,
+      "favorites": 0,
+      "synopsis": "Mom always braided my hair so tautly that it carved a distinct path atop my head. But one day, she cut off the carefully braided hair. As I took my first steps forward alone, my stride faltered. Along the path on my head, I touched our unbreakable inner attachment, and the journey of female growth we were both unprepared to face.\n\n(Source: Official Site)",
+      "background": "Runner-up for Best Animated Short Film at the 60th Golden Horse Awards.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 60973,
+      "url": "https://myanimelist.net/anime/60973/Sankaku_no_Dance",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1664/147951.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1664/147951t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1664/147951l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1664/147951.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1664/147951t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1664/147951l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Sankaku no Dance"
+        },
+        {
+          "type": "Japanese",
+          "title": "三角のダンス"
+        }
+      ],
+      "title": "Sankaku no Dance",
+      "title_english": null,
+      "title_japanese": "三角のダンス",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2023"
+      },
+      "duration": "1 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 15045,
+      "popularity": 29452,
+      "members": 69,
+      "favorites": 0,
+      "synopsis": "The first animation I made in 1983 was an 8mm film with a triangle as the main focus. 40 years have passed since then. What can we do by going back to the basics in this digital age?\n\n(Source: Into Animation 8)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 59479,
+      "url": "https://myanimelist.net/anime/59479/Jjangttung-ine_Ttonghwangto",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1416/144638.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1416/144638t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1416/144638l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1416/144638.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1416/144638t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1416/144638l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Jjangttung-ine Ttonghwangto"
+        },
+        {
+          "type": "Japanese",
+          "title": "짱뚱이네 똥황토"
+        }
+      ],
+      "title": "Jjangttung-ine Ttonghwangto",
+      "title_english": null,
+      "title_japanese": "짱뚱이네 똥황토",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Book",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2023"
+      },
+      "duration": "26 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 20250,
+      "popularity": 29495,
+      "members": 67,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2810,
+          "type": "anime",
+          "name": "Studio Yona",
+          "url": "https://myanimelist.net/anime/producer/2810/Studio_Yona"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 60883,
+      "url": "https://myanimelist.net/anime/60883/Xin_Qi_Bao_Long_Zhan_Che__Bao_Long_Chuji_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1786/147809.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1786/147809t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1786/147809l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1786/147809.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1786/147809t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1786/147809l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xin Qi Bao Long Zhan Che: Bao Long Chuji 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "心奇爆龙战车之暴龙出击3"
+        }
+      ],
+      "title": "Xin Qi Bao Long Zhan Che: Bao Long Chuji 3",
+      "title_english": null,
+      "title_japanese": "心奇爆龙战车之暴龙出击3",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 6, 2023 to ?"
+      },
+      "duration": "7 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 17041,
+      "popularity": 29498,
+      "members": 67,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 58446,
+      "url": "https://myanimelist.net/anime/58446/2023_Paper_Fortune_Report",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1612/152672.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1612/152672t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1612/152672l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1612/152672.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1612/152672t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1612/152672l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "2023 Paper Fortune Report"
+        },
+        {
+          "type": "Japanese",
+          "title": "2023 Paper-fortune Report"
+        }
+      ],
+      "title": "2023 Paper Fortune Report",
+      "title_english": null,
+      "title_japanese": "2023 Paper-fortune Report",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 10, 2023"
+      },
+      "duration": "1 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 17611,
+      "popularity": 29500,
+      "members": 66,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 57,
+          "type": "anime",
+          "name": "Gag Humor",
+          "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 57059,
+      "url": "https://myanimelist.net/anime/57059/Maji_Nu_Ken",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1970/139449.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1970/139449t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1970/139449l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1970/139449.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1970/139449t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1970/139449l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Maji Nu Ken"
+        },
+        {
+          "type": "Japanese",
+          "title": "マジぬ剣"
+        }
+      ],
+      "title": "Maji Nu Ken",
+      "title_english": null,
+      "title_japanese": "マジぬ剣",
+      "title_synonyms": [],
+      "type": "PV",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 3, 2023"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29535,
+      "members": 64,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "Niigata Manga Award 25th Anniversary Special Project.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 441,
+          "type": "anime",
+          "name": "8bit",
+          "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 63314,
+      "url": "https://myanimelist.net/anime/63314/Honey",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1766/155020.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1766/155020t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1766/155020l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1766/155020.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1766/155020t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1766/155020l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Honey"
+        },
+        {
+          "type": "Japanese",
+          "title": "Honey"
+        }
+      ],
+      "title": "Honey",
+      "title_english": null,
+      "title_japanese": "Honey",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-02-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 2,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 2, 2023"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29587,
+      "members": 60,
+      "favorites": 0,
+      "synopsis": "Music video for the song Honey by 04 Limited Sazabys.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 62383,
+      "url": "https://myanimelist.net/anime/62383/Mahou_no_Murasaki_Usagi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1467/151778.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1467/151778t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1467/151778l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1467/151778.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1467/151778t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1467/151778l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/4MaFWb91WjE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Mahou no Murasaki Usagi"
+        },
+        {
+          "type": "Japanese",
+          "title": "魔法の紫ウサギ"
+        },
+        {
+          "type": "English",
+          "title": "The Magic Violet Rabbit"
+        }
+      ],
+      "title": "Mahou no Murasaki Usagi",
+      "title_english": "The Magic Violet Rabbit",
+      "title_japanese": "魔法の紫ウサギ",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2023"
+      },
+      "duration": "13 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 18833,
+      "popularity": 29639,
+      "members": 55,
+      "favorites": 0,
+      "synopsis": "To escape from his dull life, a man wishes to become a wizard. He wants to be a \"real\" wizard, not a \"fake\" one.\n\n(Source: Official site)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 62914,
+      "url": "https://myanimelist.net/anime/62914/Furyou_Ritsu",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1728/153511.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1728/153511t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1728/153511l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1728/153511.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1728/153511t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1728/153511l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Furyou Ritsu"
+        },
+        {
+          "type": "Japanese",
+          "title": "不良率"
+        },
+        {
+          "type": "English",
+          "title": "Defective Rate"
+        }
+      ],
+      "title": "Furyou Ritsu",
+      "title_english": "Defective Rate",
+      "title_japanese": "不良率",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2023"
+      },
+      "duration": "8 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 19204,
+      "popularity": 29703,
+      "members": 44,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 60501,
+      "url": "https://myanimelist.net/anime/60501/Si_Ji",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1365/146909.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1365/146909t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1365/146909l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1365/146909.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1365/146909t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1365/146909l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Si Ji"
+        },
+        {
+          "type": "Japanese",
+          "title": "四·季"
+        },
+        {
+          "type": "English",
+          "title": "Four Seasons"
+        }
+      ],
+      "title": "Si Ji",
+      "title_english": "Four Seasons",
+      "title_japanese": "四·季",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2023"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 15666,
+      "popularity": 29723,
+      "members": 41,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "Runner-up for Best Animated Film at the 36th Golden Rooster Awards.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    }
+  ]
+}

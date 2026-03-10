@@ -1,0 +1,2677 @@
+{
+  "pagination": {
+    "last_visible_page": 13,
+    "has_next_page": true,
+    "current_page": 10,
+    "items": {
+      "count": 25,
+      "total": 307,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 53728,
+      "url": "https://myanimelist.net/anime/53728/Ashuai_9th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1476/131569.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1476/131569t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1476/131569l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1476/131569.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1476/131569t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1476/131569l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ashuai 9th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "阿衰 第九季"
+        }
+      ],
+      "title": "Ashuai 9th Season",
+      "title_english": null,
+      "title_japanese": "阿衰 第九季",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Manga",
+      "episodes": 34,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-11-11T00:00:00+00:00",
+        "to": "2023-10-13T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 11,
+            "month": 11,
+            "year": 2022
+          },
+          "to": {
+            "day": 13,
+            "month": 10,
+            "year": 2023
+          }
+        },
+        "string": "Nov 11, 2022 to Oct 13, 2023"
+      },
+      "duration": "3 min per ep",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 20262,
+      "popularity": 22590,
+      "members": 225,
+      "favorites": 0,
+      "synopsis": "Ninth season of Ashuai.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 54068,
+      "url": "https://myanimelist.net/anime/54068/Ocean_Bby",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1780/132262.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1780/132262t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1780/132262l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1780/132262.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1780/132262t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1780/132262l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ocean Bby"
+        },
+        {
+          "type": "Japanese",
+          "title": "Ocean Bby"
+        }
+      ],
+      "title": "Ocean Bby",
+      "title_english": null,
+      "title_japanese": "Ocean Bby",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Music",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 28, 2022"
+      },
+      "duration": "4 min",
+      "rating": "G - All Ages",
+      "score": 5.95,
+      "scored_by": 114,
+      "rank": null,
+      "popularity": 22619,
+      "members": 223,
+      "favorites": 1,
+      "synopsis": "Music video for the song Ocean Bby by Mili.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 5,
+          "type": "anime",
+          "name": "Avant Garde",
+          "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55058,
+      "url": "https://myanimelist.net/anime/55058/Pole_Princess_Self_Introduction",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1100/146522.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1100/146522t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1100/146522l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1100/146522.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1100/146522t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1100/146522l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Pole Princess!! Self Introduction"
+        },
+        {
+          "type": "Japanese",
+          "title": "ポールプリンセス‼ 自己紹介ムービー"
+        }
+      ],
+      "title": "Pole Princess!! Self Introduction",
+      "title_english": null,
+      "title_japanese": "ポールプリンセス‼ 自己紹介ムービー",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 7,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-09T00:00:00+00:00",
+        "to": "2023-03-10T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 9,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": 10,
+            "month": 3,
+            "year": 2023
+          }
+        },
+        "string": "Dec 9, 2022 to Mar 10, 2023"
+      },
+      "duration": "48 sec per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 22195,
+      "popularity": 22637,
+      "members": 223,
+      "favorites": 0,
+      "synopsis": "Self-introductions for each character posted to the official YouTube Channel.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 103,
+          "type": "anime",
+          "name": "Tatsunoko Production",
+          "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 70,
+          "type": "anime",
+          "name": "Performing Arts",
+          "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 53662,
+      "url": "https://myanimelist.net/anime/53662/Kenkou_Takarabune_Sukoyaka_7",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1308/131404.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1308/131404t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1308/131404l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1308/131404.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1308/131404t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1308/131404l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kenkou Takarabune Sukoyaka 7"
+        },
+        {
+          "type": "Japanese",
+          "title": "健幸宝船 SUKOYAKA 7"
+        }
+      ],
+      "title": "Kenkou Takarabune Sukoyaka 7",
+      "title_english": null,
+      "title_japanese": "健幸宝船 SUKOYAKA 7",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 4,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 14,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 14, 2022"
+      },
+      "duration": "2 min per ep",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 20504,
+      "popularity": 22674,
+      "members": 221,
+      "favorites": 0,
+      "synopsis": "The self-described \"slightly surreal masterpiece anime\" follows the \"Sukoyaka 7,\" a group based on the Seven Lucky Gods of Japanese mythology. The anime explains issues related to Japan's health insurance system in a comedic way.\n\n(Source: ANN)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "Educational",
+          "url": "https://myanimelist.net/anime/genre/56/Educational"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 53753,
+      "url": "https://myanimelist.net/anime/53753/Chiisana_Yume",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1347/131627.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1347/131627t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1347/131627l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1347/131627.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1347/131627t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1347/131627l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Chiisana Yume"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "小さな夢"
+        }
+      ],
+      "title": "Chiisana Yume",
+      "title_english": null,
+      "title_japanese": "小さな夢",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 4, 2022"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 22847,
+      "members": 212,
+      "favorites": 0,
+      "synopsis": "Music video for the song Chiisana Yume by Ai Higuchi that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 55268,
+      "url": "https://myanimelist.net/anime/55268/Clay",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1483/135817.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1483/135817t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1483/135817l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1483/135817.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1483/135817t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1483/135817l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Clay"
+        },
+        {
+          "type": "Japanese",
+          "title": "クレイ"
+        }
+      ],
+      "title": "Clay",
+      "title_english": null,
+      "title_japanese": "クレイ",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 26,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 26, 2022"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.05,
+      "scored_by": 108,
+      "rank": null,
+      "popularity": 22978,
+      "members": 207,
+      "favorites": 0,
+      "synopsis": "Music videos for the song Clay by Lanndo, featuring Ima Nanataki.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 53589,
+      "url": "https://myanimelist.net/anime/53589/Ruguo_Lishi_Shi_Yiqun_Miao_9th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1487/130947.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1487/130947t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1487/130947l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1487/130947.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1487/130947t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1487/130947l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ruguo Lishi Shi Yiqun Miao 9th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "如果历史是一群喵 第九季"
+        }
+      ],
+      "title": "Ruguo Lishi Shi Yiqun Miao 9th Season",
+      "title_english": null,
+      "title_japanese": "如果历史是一群喵 第九季",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Web manga",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-30T00:00:00+00:00",
+        "to": "2023-01-08T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 30,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": 8,
+            "month": 1,
+            "year": 2023
+          }
+        },
+        "string": "Oct 30, 2022 to Jan 8, 2023"
+      },
+      "duration": "8 min per ep",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 15039,
+      "popularity": 23154,
+      "members": 198,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "Educational",
+          "url": "https://myanimelist.net/anime/genre/56/Educational"
+        },
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 53923,
+      "url": "https://myanimelist.net/anime/53923/W_Hai_feat_Yasunao_Yoshida",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1628/131984.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1628/131984t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1628/131984l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1628/131984.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1628/131984t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1628/131984l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "W Hai feat. Yasunao Yoshida"
+        },
+        {
+          "type": "Synonym",
+          "title": "World Cup feat. Yasunao Yoshida"
+        },
+        {
+          "type": "Japanese",
+          "title": "W杯 feat.吉田靖直"
+        }
+      ],
+      "title": "W Hai feat. Yasunao Yoshida",
+      "title_english": null,
+      "title_japanese": "W杯 feat.吉田靖直",
+      "title_synonyms": [
+        "World Cup feat. Yasunao Yoshida"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 17,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 17, 2022"
+      },
+      "duration": "4 min",
+      "rating": "G - All Ages",
+      "score": 5.35,
+      "scored_by": 103,
+      "rank": null,
+      "popularity": 23298,
+      "members": 193,
+      "favorites": 0,
+      "synopsis": "Music video for the song W Hai by imai, featuring Yasunao Yoshida.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 30,
+          "type": "anime",
+          "name": "Sports",
+          "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 57777,
+      "url": "https://myanimelist.net/anime/57777/Zaijian_Romanesque",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1258/140812.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1258/140812t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1258/140812l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1258/140812.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1258/140812t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1258/140812l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Zaijian Romanesque"
+        },
+        {
+          "type": "Japanese",
+          "title": "再見ロマネスク"
+        }
+      ],
+      "title": "Zaijian Romanesque",
+      "title_english": null,
+      "title_japanese": "再見ロマネスク",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-11-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 26,
+            "month": 11,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Nov 26, 2022"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23323,
+      "members": 193,
+      "favorites": 0,
+      "synopsis": "Music video for the song Zaijian Romanesque by VALIS.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 2309,
+          "type": "anime",
+          "name": "Kamitsubaki Studio",
+          "url": "https://myanimelist.net/anime/producer/2309/Kamitsubaki_Studio"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 60,
+          "type": "anime",
+          "name": "Idols (Female)",
+          "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 54473,
+      "url": "https://myanimelist.net/anime/54473/Tsuraiya-iya",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1939/133396.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1939/133396t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1939/133396l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1939/133396.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1939/133396t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1939/133396l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tsuraiya-iya"
+        },
+        {
+          "type": "Japanese",
+          "title": "辛いや嫌"
+        },
+        {
+          "type": "English",
+          "title": "I Don't Like It"
+        }
+      ],
+      "title": "Tsuraiya-iya",
+      "title_english": "I Don't Like It",
+      "title_japanese": "辛いや嫌",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 20,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 20, 2022"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23349,
+      "members": 192,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55027,
+      "url": "https://myanimelist.net/anime/55027/Shizuku_Music",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1842/135351.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1842/135351t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1842/135351l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1842/135351.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1842/135351t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1842/135351l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shizuku (Music)"
+        },
+        {
+          "type": "Synonym",
+          "title": "Shizuku feat. NEONA & KOTONOHOUSE"
+        },
+        {
+          "type": "Japanese",
+          "title": "Shizuku"
+        }
+      ],
+      "title": "Shizuku (Music)",
+      "title_english": null,
+      "title_japanese": "Shizuku",
+      "title_synonyms": [
+        "Shizuku feat. NEONA & KOTONOHOUSE"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 31,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 31, 2022"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23324,
+      "members": 192,
+      "favorites": 0,
+      "synopsis": "Music video animated by omy for the song Shizuku by PIKASONIC and Tatsunoshin featuring singers NEONA and KOTONOHOUSE.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 54582,
+      "url": "https://myanimelist.net/anime/54582/Shirokuma_Nichijou_Gekijou",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1818/139499.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1818/139499t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1818/139499l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1818/139499.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1818/139499t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1818/139499l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shirokuma Nichijou Gekijou"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tokyo Gas Shirokuma no Shiritori-hen TVCM"
+        },
+        {
+          "type": "Japanese",
+          "title": "シロクマ日常劇場"
+        },
+        {
+          "type": "English",
+          "title": "Tokyo Gas \"The Polar Bears' Daily Drama\" TV Commercial"
+        }
+      ],
+      "title": "Shirokuma Nichijou Gekijou",
+      "title_english": "Tokyo Gas \"The Polar Bears' Daily Drama\" TV Commercial",
+      "title_japanese": "シロクマ日常劇場",
+      "title_synonyms": [
+        "Tokyo Gas Shirokuma no Shiritori-hen TVCM"
+      ],
+      "type": "CM",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-11-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 24,
+            "month": 11,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Nov 24, 2022"
+      },
+      "duration": "30 sec",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23490,
+      "members": 186,
+      "favorites": 0,
+      "synopsis": "By depicting the daily lives of two polar bears, this commercial raises awareness of the issue of global warming and promotes efforts to recycle CO2 and synthesize methane, the main component of city gas (methanation).\n\nMultiply versions of this commercial exist. They feature different dialogues, but animation is the same.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 366,
+          "type": "anime",
+          "name": "Tomoyasu Murata Company",
+          "url": "https://myanimelist.net/anime/producer/366/Tomoyasu_Murata_Company"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55863,
+      "url": "https://myanimelist.net/anime/55863/Go_On_Ya_Way_feat_Chogakusei",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1548/136940.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1548/136940t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1548/136940l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1548/136940.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1548/136940t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1548/136940l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Go On Ya Way feat. Chogakusei"
+        },
+        {
+          "type": "Japanese",
+          "title": "GO ON YA WAY feat. 超学生"
+        }
+      ],
+      "title": "Go On Ya Way feat. Chogakusei",
+      "title_english": null,
+      "title_japanese": "GO ON YA WAY feat. 超学生",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 11,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 11, 2022"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23551,
+      "members": 184,
+      "favorites": 0,
+      "synopsis": "Music video for the song GO ON YA WAY by FAKE TYPE., featuring Chogakusei.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55862,
+      "url": "https://myanimelist.net/anime/55862/Nightmare_Parade_2020s",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1557/136939.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1557/136939t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1557/136939l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1557/136939.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1557/136939t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1557/136939l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Nightmare Parade 2020s"
+        },
+        {
+          "type": "Japanese",
+          "title": "Nightmare Parade 2020s"
+        }
+      ],
+      "title": "Nightmare Parade 2020s",
+      "title_english": null,
+      "title_japanese": "Nightmare Parade 2020s",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 7, 2022"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23617,
+      "members": 182,
+      "favorites": 1,
+      "synopsis": "Music video for the song Nightmare Parade 2020s by FAKE TYPE.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 53226,
+      "url": "https://myanimelist.net/anime/53226/Shouhu_Lian_Meng_ROY6__Senlin_Li_de_Minini",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1042/131664.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1042/131664t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1042/131664l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1042/131664.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1042/131664t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1042/131664l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shouhu Lian Meng ROY6: Senlin Li de Minini"
+        },
+        {
+          "type": "Japanese",
+          "title": "守护联萌ROY6之森林里的迷你你"
+        }
+      ],
+      "title": "Shouhu Lian Meng ROY6: Senlin Li de Minini",
+      "title_english": null,
+      "title_japanese": "守护联萌ROY6之森林里的迷你你",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Other",
+      "episodes": 16,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-23T00:00:00+00:00",
+        "to": "2023-02-05T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 23,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": 5,
+            "month": 2,
+            "year": 2023
+          }
+        },
+        "string": "Oct 23, 2022 to Feb 5, 2023"
+      },
+      "duration": "3 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 15575,
+      "popularity": 23754,
+      "members": 177,
+      "favorites": 0,
+      "synopsis": "Animated adaptation of ROY6, a series of goodies from Line Friends in collaboration with Roy Wang.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 56082,
+      "url": "https://myanimelist.net/anime/56082/Bambi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1453/137362.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1453/137362t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1453/137362l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1453/137362.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1453/137362t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1453/137362l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Bambi"
+        },
+        {
+          "type": "Japanese",
+          "title": "밤비"
+        }
+      ],
+      "title": "Bambi",
+      "title_english": null,
+      "title_japanese": "밤비",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 11,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 11, 2022"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23777,
+      "members": 177,
+      "favorites": 0,
+      "synopsis": "Music video for the song Bambi by DAZBEE.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 3149,
+          "type": "anime",
+          "name": "Pepper Conpanna",
+          "url": "https://myanimelist.net/anime/producer/3149/Pepper_Conpanna"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 54334,
+      "url": "https://myanimelist.net/anime/54334/Betelgeuse_no_Yoru_ni",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1034/133026.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1034/133026t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1034/133026l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1034/133026.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1034/133026t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1034/133026l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Betelgeuse no Yoru ni"
+        },
+        {
+          "type": "Japanese",
+          "title": "ベテルギウスの夜に"
+        }
+      ],
+      "title": "Betelgeuse no Yoru ni",
+      "title_english": null,
+      "title_japanese": "ベテルギウスの夜に",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 21,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 21, 2022"
+      },
+      "duration": "4 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23823,
+      "members": 175,
+      "favorites": 0,
+      "synopsis": "Music video for the song Betelgeuse no Yoru ni by Ruri Asano.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 56274,
+      "url": "https://myanimelist.net/anime/56274/Mecard_Ball_Mega",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1967/137765.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1967/137765t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1967/137765l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1967/137765.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1967/137765t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1967/137765l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Mecard Ball Mega"
+        },
+        {
+          "type": "Japanese",
+          "title": "메카드볼 메가"
+        }
+      ],
+      "title": "Mecard Ball Mega",
+      "title_english": null,
+      "title_japanese": "메카드볼 메가",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-11-05T00:00:00+00:00",
+        "to": "2023-05-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 11,
+            "year": 2022
+          },
+          "to": {
+            "day": 6,
+            "month": 5,
+            "year": 2023
+          }
+        },
+        "string": "Nov 5, 2022 to May 6, 2023"
+      },
+      "duration": "13 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 18967,
+      "popularity": 23810,
+      "members": 175,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": "fall",
+      "year": 2022,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 3,
+          "type": "anime",
+          "name": "Racing",
+          "url": "https://myanimelist.net/anime/genre/3/Racing"
+        },
+        {
+          "mal_id": 11,
+          "type": "anime",
+          "name": "Strategy Game",
+          "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 53994,
+      "url": "https://myanimelist.net/anime/53994/Baby_Tayo_Dong-yo_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1022/132093.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1022/132093t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1022/132093l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1022/132093.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1022/132093t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1022/132093l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Baby Tayo Dong-yo 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Baby Tayo Nursery Rhymes 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "베이비 타요 동요 3"
+        },
+        {
+          "type": "English",
+          "title": "Baby Tayo Songs 3"
+        }
+      ],
+      "title": "Baby Tayo Dong-yo 3",
+      "title_english": "Baby Tayo Songs 3",
+      "title_japanese": "베이비 타요 동요 3",
+      "title_synonyms": [
+        "Baby Tayo Nursery Rhymes 3"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 10,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 9,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 9, 2022"
+      },
+      "duration": "1 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23849,
+      "members": 174,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 53244,
+      "url": "https://myanimelist.net/anime/53244/Welcome_to_Rainbow_Wonderland",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1606/128776.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1606/128776t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1606/128776l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1606/128776.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1606/128776t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1606/128776l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Welcome to Rainbow Wonderland!"
+        },
+        {
+          "type": "Japanese",
+          "title": "ウェルカム・トゥ・レインボーワンダーランド！"
+        }
+      ],
+      "title": "Welcome to Rainbow Wonderland!",
+      "title_english": null,
+      "title_japanese": "ウェルカム・トゥ・レインボーワンダーランド！",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 2, 2022"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23885,
+      "members": 173,
+      "favorites": 0,
+      "synopsis": "Music video for the song Welcome to RAINBOW WONDERLAND! by Nao Touyama from her third album \"Welcome to MY WONDERLAND\".",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 53288,
+      "url": "https://myanimelist.net/anime/53288/Kurage",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1079/128965.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1079/128965t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1079/128965l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1079/128965.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1079/128965t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1079/128965l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kurage"
+        },
+        {
+          "type": "Japanese",
+          "title": "海月"
+        }
+      ],
+      "title": "Kurage",
+      "title_english": null,
+      "title_japanese": "海月",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 8, 2022"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23895,
+      "members": 173,
+      "favorites": 0,
+      "synopsis": "Music video for meiyo's song Kurage, performed by Amatsuki and included on his 4th album.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55446,
+      "url": "https://myanimelist.net/anime/55446/Shin_Tantakatantantantanmen",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1763/136090.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1763/136090t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1763/136090l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1763/136090.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1763/136090t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1763/136090l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shin Tantakatantantantanmen"
+        },
+        {
+          "type": "Japanese",
+          "title": "シン・タンタカタンタンタンタンメン"
+        }
+      ],
+      "title": "Shin Tantakatantantantanmen",
+      "title_english": null,
+      "title_japanese": "シン・タンタカタンタンタンタンメン",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 22,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 22, 2022"
+      },
+      "duration": "4 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 23881,
+      "members": 173,
+      "favorites": 0,
+      "synopsis": "Music video for the song Shin Tantakatantantantanmen by Botchi Boromaru.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55334,
+      "url": "https://myanimelist.net/anime/55334/Fuyumi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1249/135941.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1249/135941t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1249/135941l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1249/135941.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1249/135941t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1249/135941l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Fuyumi"
+        },
+        {
+          "type": "Synonym",
+          "title": "Lanndo x Keina Suda: Fuyumi"
+        },
+        {
+          "type": "Japanese",
+          "title": "冬海"
+        },
+        {
+          "type": "English",
+          "title": "Winter Sea"
+        }
+      ],
+      "title": "Fuyumi",
+      "title_english": "Winter Sea",
+      "title_japanese": "冬海",
+      "title_synonyms": [
+        "Lanndo x Keina Suda: Fuyumi"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-11-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 23,
+            "month": 11,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Nov 23, 2022"
+      },
+      "duration": "4 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 24031,
+      "members": 169,
+      "favorites": 0,
+      "synopsis": "Music video for the song Fuyumi by Lanndo featuring Keina Suda.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 53799,
+      "url": "https://myanimelist.net/anime/53799/Sen_no_Tobira__Thousand_Doors",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1969/131707.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1969/131707t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1969/131707l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1969/131707.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1969/131707t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1969/131707l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Sen no Tobira: Thousand Doors"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "千の扉～Thousand Doors"
+        }
+      ],
+      "title": "Sen no Tobira: Thousand Doors",
+      "title_english": null,
+      "title_japanese": "千の扉～Thousand Doors",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 3, 2022"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 24191,
+      "members": 164,
+      "favorites": 0,
+      "synopsis": "Music video for the song Sen no Tobira: Thousand Doors by Yuuko Hara that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 55201,
+      "url": "https://myanimelist.net/anime/55201/Cholog",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1752/135687.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1752/135687t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1752/135687l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1752/135687.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1752/135687t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1752/135687l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Cholog"
+        },
+        {
+          "type": "Japanese",
+          "title": "초록"
+        },
+        {
+          "type": "English",
+          "title": "Green"
+        }
+      ],
+      "title": "Cholog",
+      "title_english": "Green",
+      "title_japanese": "초록",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-12-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 30,
+            "month": 12,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 30, 2022"
+      },
+      "duration": "4 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 24181,
+      "members": 164,
+      "favorites": 0,
+      "synopsis": "Music video for hositamtam's song Cholog.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 2993,
+          "type": "anime",
+          "name": "Mirrorball Music",
+          "url": "https://myanimelist.net/anime/producer/2993/Mirrorball_Music"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    }
+  ]
+}

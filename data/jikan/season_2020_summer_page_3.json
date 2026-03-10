@@ -1,0 +1,3310 @@
+{
+  "pagination": {
+    "last_visible_page": 12,
+    "has_next_page": true,
+    "current_page": 3,
+    "items": {
+      "count": 25,
+      "total": 278,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 40735,
+      "url": "https://myanimelist.net/anime/40735/Tianbao_Fuyao_Lu",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1110/155888.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1110/155888t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1110/155888l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1110/155888.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1110/155888t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1110/155888l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/tWNNAH1AjpY?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tianbao Fuyao Lu"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tian Bao Fu Yao Lu"
+        },
+        {
+          "type": "Japanese",
+          "title": "天宝伏妖录"
+        },
+        {
+          "type": "English",
+          "title": "Legend of Exorcism"
+        },
+        {
+          "type": "Spanish",
+          "title": "La Leyenda de Tang"
+        },
+        {
+          "type": "French",
+          "title": "La Légende de Tang"
+        }
+      ],
+      "title": "Tianbao Fuyao Lu",
+      "title_english": "Legend of Exorcism",
+      "title_japanese": "天宝伏妖录",
+      "title_synonyms": [
+        "Tian Bao Fu Yao Lu"
+      ],
+      "type": "ONA",
+      "source": "Web novel",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-05T00:00:00+00:00",
+        "to": "2020-09-20T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 20,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Jul 5, 2020 to Sep 20, 2020"
+      },
+      "duration": "20 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.59,
+      "scored_by": 3645,
+      "rank": 1710,
+      "popularity": 6984,
+      "members": 10698,
+      "favorites": 136,
+      "synopsis": "Having lived his entire life on Mount Taiheng, half-yao Kong Hongjun is at last presented with the chance to explore the human world. He is assigned three tasks: uncover his father's murderer, eliminate the Black Jiao and its yao tribes that have infiltrated Chang'an, and return the Heart Lamp to a descendent of the Chen family. However, on his first night in the city, the Heart Lamp is mistakenly absorbed by military general Li Jinglong.\n\nAfter receiving a mysterious invitation to join Chang'an's Court of Exorcism, Kong Hongjun is reunited with a disgraced Li Jinglong as his captain. Alongside a fellow yao, a noble from a foreign land, and a cowardly scholar, Kong Hongjun and Li Jinglong must work together to purge Chang'an of the yao lurking in its streets. In the meantime, Kong Hongjun also needs to hide his true identity from Li Jinglong who loathes yao—all while attempting to retrieve the Heart Lamp from his body.\n\n[Written by MAL Rewrite]",
+      "background": "Adaptation of Fei Tian Ye Xiang's (非天夜翔) web novel of the same title.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1414,
+          "type": "anime",
+          "name": "bilibili",
+          "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1768,
+          "type": "anime",
+          "name": "Sparkly Key Animation Studio",
+          "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "Mystery",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 6,
+          "type": "anime",
+          "name": "Mythology",
+          "url": "https://myanimelist.net/anime/genre/6/Mythology"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42224,
+      "url": "https://myanimelist.net/anime/42224/Shikiyoku_Infinite",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1961/110109.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1961/110109t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1961/110109l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1961/110109.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1961/110109t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1961/110109l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shikiyoku Infinite"
+        },
+        {
+          "type": "Japanese",
+          "title": "色欲INFINITE"
+        }
+      ],
+      "title": "Shikiyoku Infinite",
+      "title_english": null,
+      "title_japanese": "色欲INFINITE",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Manga",
+      "episodes": 2,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-28T00:00:00+00:00",
+        "to": "2020-10-23T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": 23,
+            "month": 10,
+            "year": 2020
+          }
+        },
+        "string": "Aug 28, 2020 to Oct 23, 2020"
+      },
+      "duration": "20 min per ep",
+      "rating": "Rx - Hentai",
+      "score": 6.68,
+      "scored_by": 4167,
+      "rank": null,
+      "popularity": 7218,
+      "members": 9927,
+      "favorites": 70,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 977,
+          "type": "anime",
+          "name": "Queen Bee",
+          "url": "https://myanimelist.net/anime/producer/977/Queen_Bee"
+        },
+        {
+          "mal_id": 1424,
+          "type": "anime",
+          "name": "Mediabank",
+          "url": "https://myanimelist.net/anime/producer/1424/Mediabank"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2530,
+          "type": "anime",
+          "name": "Blue bread",
+          "url": "https://myanimelist.net/anime/producer/2530/Blue_bread"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 12,
+          "type": "anime",
+          "name": "Hentai",
+          "url": "https://myanimelist.net/anime/genre/12/Hentai"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 42206,
+      "url": "https://myanimelist.net/anime/42206/Nu_Wushen_de_Canzhuo_II",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1806/108206.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1806/108206t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1806/108206l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1806/108206.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1806/108206t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1806/108206l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/BBUQc7l7CAs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Nu Wushen de Canzhuo II"
+        },
+        {
+          "type": "Synonym",
+          "title": "Valkyrie no Shokutaku II"
+        },
+        {
+          "type": "Synonym",
+          "title": "戦乙女の食卓II"
+        },
+        {
+          "type": "Japanese",
+          "title": "女武神的餐桌 II"
+        },
+        {
+          "type": "English",
+          "title": "Cooking with Valkyries II"
+        }
+      ],
+      "title": "Nu Wushen de Canzhuo II",
+      "title_english": "Cooking with Valkyries II",
+      "title_japanese": "女武神的餐桌 II",
+      "title_synonyms": [
+        "Valkyrie no Shokutaku II",
+        "戦乙女の食卓II"
+      ],
+      "type": "ONA",
+      "source": "Game",
+      "episodes": 8,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-17T00:00:00+00:00",
+        "to": "2020-09-19T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 17,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 19,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Jul 17, 2020 to Sep 19, 2020"
+      },
+      "duration": "7 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.32,
+      "scored_by": 3121,
+      "rank": 2920,
+      "popularity": 7512,
+      "members": 8955,
+      "favorites": 28,
+      "synopsis": "Second season of Nu Wushen de Canzhuo.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 2253,
+          "type": "anime",
+          "name": "miHoYoAnime",
+          "url": "https://myanimelist.net/anime/producer/2253/miHoYoAnime"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1547,
+          "type": "anime",
+          "name": "Blade",
+          "url": "https://myanimelist.net/anime/producer/1547/Blade"
+        },
+        {
+          "mal_id": 1805,
+          "type": "anime",
+          "name": "Thundray",
+          "url": "https://myanimelist.net/anime/producer/1805/Thundray"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 47,
+          "type": "anime",
+          "name": "Gourmet",
+          "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 40665,
+      "url": "https://myanimelist.net/anime/40665/Shoujo☆Kageki_Revue_Starlight__Rondo_Rondo_Rondo",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1542/108494.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1542/108494t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1542/108494l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1542/108494.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1542/108494t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1542/108494l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/xYTvHO-YaFM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo"
+        },
+        {
+          "type": "Synonym",
+          "title": "Saiseisan Soushuuhen Shoujo☆Kageki Revue Starlight"
+        },
+        {
+          "type": "Japanese",
+          "title": "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド"
+        }
+      ],
+      "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+      "title_english": null,
+      "title_japanese": "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド",
+      "title_synonyms": [
+        "Saiseisan Soushuuhen Shoujo☆Kageki Revue Starlight"
+      ],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 7, 2020"
+      },
+      "duration": "2 hr",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.58,
+      "scored_by": 2979,
+      "rank": 1759,
+      "popularity": 7546,
+      "members": 8861,
+      "favorites": 30,
+      "synopsis": "At the performing arts division of Seishou Music Academy, the ever-evolving stage threads the lives of its students together as they tirelessly hone their craft. Yet, as the girls prepare for a new rendition of the previous year's performance, the carefree Karen Aijou begins to settle for a smaller role. However, her waning passion is reignited by the return of her childhood friend Hikari Kagura, whose sudden transfer to the academy triggers a flurry of changes in the class dynamics.\n\nSubsequently, Karen chances upon a secret battleground underneath the school, which houses a set of auditions that will crown its ultimate victor as \"Top Star.\" As she dives headfirst into these enigmatic trials, Karen begins to learn about the tribulations that come with vying for the top. Even if fate wills them apart, Karen and Hikari must fight in hopes of fulfilling their childhood promise: to become stars together.\n\n[Written by MAL Rewrite]",
+      "background": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo serves as an abridged compilation of the original anime series. Its theatrical release was initially set for May 29, 2020, but was delayed to August 7, 2020 due to the COVID-19 pandemic.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 775,
+          "type": "anime",
+          "name": "Bushiroad",
+          "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 290,
+          "type": "anime",
+          "name": "Kinema Citrus",
+          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+          "mal_id": 70,
+          "type": "anime",
+          "name": "Performing Arts",
+          "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42685,
+      "url": "https://myanimelist.net/anime/42685/Dokyuu_Hentai_HxEros__HxEros_Report",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1284/108937.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1284/108937t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1284/108937l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1284/108937.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1284/108937t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1284/108937l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Dokyuu Hentai HxEros: HxEros Report"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dokyuu Hentai HxEros Recap"
+        },
+        {
+          "type": "Synonym",
+          "title": "Dokyuu Hentai HxEros Episode 7.5"
+        },
+        {
+          "type": "Synonym",
+          "title": "SUPER HXEROS Recap"
+        },
+        {
+          "type": "Japanese",
+          "title": "ド級編隊エグゼロス 第7.5話「エグゼロス・レポート」"
+        }
+      ],
+      "title": "Dokyuu Hentai HxEros: HxEros Report",
+      "title_english": null,
+      "title_japanese": "ド級編隊エグゼロス 第7.5話「エグゼロス・レポート」",
+      "title_synonyms": [
+        "Dokyuu Hentai HxEros Recap",
+        "Dokyuu Hentai HxEros Episode 7.5",
+        "SUPER HXEROS Recap"
+      ],
+      "type": "TV Special",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 21,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 21, 2020"
+      },
+      "duration": "23 min",
+      "rating": "R+ - Mild Nudity",
+      "score": 5.92,
+      "scored_by": 2650,
+      "rank": 10943,
+      "popularity": 7560,
+      "members": 8803,
+      "favorites": 11,
+      "synopsis": "Recap of the first seven episodes of Dokyuu Hentai HxEros",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 719,
+          "type": "anime",
+          "name": "Studio Mausu",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 439,
+          "type": "anime",
+          "name": "Project No.9",
+          "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 40924,
+      "url": "https://myanimelist.net/anime/40924/22_7__8_3_",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1259/109909.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1259/109909t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1259/109909l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1259/109909.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1259/109909t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1259/109909l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "22/7: 8+3=?"
+        },
+        {
+          "type": "Synonym",
+          "title": "22/7 Special"
+        },
+        {
+          "type": "Synonym",
+          "title": "Nanabun no Nijyuuni Episode 13"
+        },
+        {
+          "type": "Japanese",
+          "title": "22/7: 8＋3=?"
+        }
+      ],
+      "title": "22/7: 8+3=?",
+      "title_english": null,
+      "title_japanese": "22/7: 8＋3=?",
+      "title_synonyms": [
+        "22/7 Special",
+        "Nanabun no Nijyuuni Episode 13"
+      ],
+      "type": "Special",
+      "source": "Other",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 16,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Sep 16, 2020"
+      },
+      "duration": "24 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.52,
+      "scored_by": 3852,
+      "rank": 7349,
+      "popularity": 7605,
+      "members": 8706,
+      "favorites": 10,
+      "synopsis": "Thirteenth episode included in sixth Blu-ray volume.\n\nThis episode centers on the story of Mikami Kamiki, Yuuki Toujou, and Tsubomi Hiiragi.\n\n(Source: Official Website)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 493,
+          "type": "anime",
+          "name": "Aniplex of America",
+          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "A-1 Pictures",
+          "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 60,
+          "type": "anime",
+          "name": "Idols (Female)",
+          "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 41219,
+      "url": "https://myanimelist.net/anime/41219/Fanren_Xiu_Xian_Zhuan",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1085/109745.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1085/109745t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1085/109745l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1085/109745.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1085/109745t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1085/109745l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/bHTAKELdJTw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Fanren Xiu Xian Zhuan"
+        },
+        {
+          "type": "Synonym",
+          "title": "A Mortal's Journey"
+        },
+        {
+          "type": "Synonym",
+          "title": "A Record of a Mortal's Journey to Immortality"
+        },
+        {
+          "type": "Synonym",
+          "title": "A Mortal's Journey to Immortality"
+        },
+        {
+          "type": "Synonym",
+          "title": "小小凡人修仙传"
+        },
+        {
+          "type": "Synonym",
+          "title": "Fanren Xiu Xian Zhuan: Fanren Feng Qi Tian Nan"
+        },
+        {
+          "type": "Synonym",
+          "title": "凡人修仙传之凡人风起天南"
+        },
+        {
+          "type": "Synonym",
+          "title": "Fanren Xiu Xian Chuan"
+        },
+        {
+          "type": "Synonym",
+          "title": "RMJI"
+        },
+        {
+          "type": "Japanese",
+          "title": "凡人修仙传"
+        },
+        {
+          "type": "English",
+          "title": "A Record Of Mortal's Journey To Immortality"
+        }
+      ],
+      "title": "Fanren Xiu Xian Zhuan",
+      "title_english": "A Record Of Mortal's Journey To Immortality",
+      "title_japanese": "凡人修仙传",
+      "title_synonyms": [
+        "A Mortal's Journey",
+        "A Record of a Mortal's Journey to Immortality",
+        "A Mortal's Journey to Immortality",
+        "小小凡人修仙传",
+        "Fanren Xiu Xian Zhuan: Fanren Feng Qi Tian Nan",
+        "凡人修仙传之凡人风起天南",
+        "Fanren Xiu Xian Chuan",
+        "RMJI"
+      ],
+      "type": "ONA",
+      "source": "Web novel",
+      "episodes": 17,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-25T00:00:00+00:00",
+        "to": "2020-11-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 25,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 29,
+            "month": 11,
+            "year": 2020
+          }
+        },
+        "string": "Jul 25, 2020 to Nov 29, 2020"
+      },
+      "duration": "18 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.75,
+      "scored_by": 2867,
+      "rank": 1232,
+      "popularity": 7801,
+      "members": 8120,
+      "favorites": 78,
+      "synopsis": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.\n\n(Source: Wuxia World)",
+      "background": "Adaptation of Wang Yu's (忘语) web novel of the same title.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1414,
+          "type": "anime",
+          "name": "bilibili",
+          "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2065,
+          "type": "anime",
+          "name": "Original Force",
+          "url": "https://myanimelist.net/anime/producer/2065/Original_Force"
+        },
+        {
+          "mal_id": 2471,
+          "type": "anime",
+          "name": "Wonder Cat Animation",
+          "url": "https://myanimelist.net/anime/producer/2471/Wonder_Cat_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42324,
+      "url": "https://myanimelist.net/anime/42324/Uwaki_to_Honki_The_Animation",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1592/112600.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1592/112600t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1592/112600l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1592/112600.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1592/112600t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1592/112600l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Uwaki to Honki The Animation"
+        },
+        {
+          "type": "Japanese",
+          "title": "浮気と本気 THE ANIMATION"
+        },
+        {
+          "type": "English",
+          "title": "Faithful and Unfaithful The Animation"
+        }
+      ],
+      "title": "Uwaki to Honki The Animation",
+      "title_english": "Faithful and Unfaithful The Animation",
+      "title_japanese": "浮気と本気 THE ANIMATION",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 26,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Sep 26, 2020"
+      },
+      "duration": "16 min",
+      "rating": "Rx - Hentai",
+      "score": 6.64,
+      "scored_by": 3529,
+      "rank": null,
+      "popularity": 7889,
+      "members": 7888,
+      "favorites": 25,
+      "synopsis": "Keita Sasahara's friend, Mika Kuramoto, introduced him to a close friend of hers named Riko, and they fell in love soon after. They became a happy couple, but two months into the relationship everything changed—Sasahara witnessed Riko shamelessly kissing another guy. That night, he goes drinking with Kuramoto and a couple of other friends, and ends up going to her apartment.\n\nOn their way home, Kuramoto finds out that the guy kissing Riko was actually Shunpei, her own boyfriend, lending the night an unexpected twist. The two friends proceed to drink their grief away together—and, as the hours pass by, the sexual tension between them grows, resulting in an erotic and passionate evening.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 45,
+          "type": "anime",
+          "name": "Pink Pineapple",
+          "url": "https://myanimelist.net/anime/producer/45/Pink_Pineapple"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 541,
+          "type": "anime",
+          "name": "Seven",
+          "url": "https://myanimelist.net/anime/producer/541/Seven"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 12,
+          "type": "anime",
+          "name": "Hentai",
+          "url": "https://myanimelist.net/anime/genre/12/Hentai"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 42723,
+      "url": "https://myanimelist.net/anime/42723/Deca-Dence__Install",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1480/108948.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1480/108948t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1480/108948l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1480/108948.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1480/108948t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1480/108948l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Deca-Dence: Install"
+        },
+        {
+          "type": "Synonym",
+          "title": "Deca-Dence Episode 5.5"
+        },
+        {
+          "type": "Synonym",
+          "title": "Deca-Dence Recap"
+        },
+        {
+          "type": "Japanese",
+          "title": "デカダンス 第5.5話「install」"
+        }
+      ],
+      "title": "Deca-Dence: Install",
+      "title_english": null,
+      "title_japanese": "デカダンス 第5.5話「install」",
+      "title_synonyms": [
+        "Deca-Dence Episode 5.5",
+        "Deca-Dence Recap"
+      ],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 7, 2020"
+      },
+      "duration": "20 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.32,
+      "scored_by": 2349,
+      "rank": 8647,
+      "popularity": 7922,
+      "members": 7789,
+      "favorites": 3,
+      "synopsis": "Recap of the first 5 episodes of Deca-Dence.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1567,
+          "type": "anime",
+          "name": "Nut",
+          "url": "https://myanimelist.net/anime/producer/1567/Nut"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 48824,
+      "url": "https://myanimelist.net/anime/48824/Blue_Archive_PVs",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1521/114598.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1521/114598t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1521/114598l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1521/114598.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1521/114598t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1521/114598l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Blue Archive PVs"
+        },
+        {
+          "type": "Japanese",
+          "title": "ブルーアーカイブ"
+        }
+      ],
+      "title": "Blue Archive PVs",
+      "title_english": null,
+      "title_japanese": "ブルーアーカイブ",
+      "title_synonyms": [],
+      "type": "PV",
+      "source": "Game",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2020-07-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 17,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 17, 2020 to ?"
+      },
+      "duration": "1 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.47,
+      "scored_by": 1179,
+      "rank": null,
+      "popularity": 7969,
+      "members": 7697,
+      "favorites": 101,
+      "synopsis": "Animated promotions for the mobile game Blue Archive.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2009,
+          "type": "anime",
+          "name": "Yostar Pictures",
+          "url": "https://myanimelist.net/anime/producer/2009/Yostar_Pictures"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 41795,
+      "url": "https://myanimelist.net/anime/41795/Kohakuiro_no_Hunter_The_Animation",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1931/111873.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1931/111873t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1931/111873l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1931/111873.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1931/111873t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1931/111873l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kohakuiro no Hunter The Animation"
+        },
+        {
+          "type": "Japanese",
+          "title": "琥珀色のハンター THE ANIMATION"
+        }
+      ],
+      "title": "Kohakuiro no Hunter The Animation",
+      "title_english": null,
+      "title_japanese": "琥珀色のハンター THE ANIMATION",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Visual novel",
+      "episodes": 2,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-31T00:00:00+00:00",
+        "to": "2021-02-26T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 31,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 26,
+            "month": 2,
+            "year": 2021
+          }
+        },
+        "string": "Jul 31, 2020 to Feb 26, 2021"
+      },
+      "duration": "23 min per ep",
+      "rating": "Rx - Hentai",
+      "score": 6.33,
+      "scored_by": 3215,
+      "rank": null,
+      "popularity": 8016,
+      "members": 7602,
+      "favorites": 42,
+      "synopsis": "Fame and fortune await those courageous enough to venture into the remote sectors of the planet. Largely uninhabited and covered by dense forests, these monster-infested regions are abundant in a mysterious ore called the Nova Stone. The coveted stone overflows with energy, and those successful in their hunt are bound to acquire obscene amounts of wealth. Yet the frontier remains a dreadful place. The only ones capable of staving off imminent devastation to human settlements are the hunters. Since their weapons, powered by Nova Stone, are capable of vanquishing the beasts, these brave souls are tasked with the protection of otherwise defenseless towns.\n\nOrphaned at a young age, Erika Amber was taken in by a huntress and raised as her successor. However, she is no ordinary human; her elven lineage has remained a mystery for Erika her entire life. Hoping to discover more about her ancestors, she ventures deep into the unexplored forests, leaving civilization behind. But before departing, she decides to visit Azul—the son of a recently deceased hunter—one last time. In a heart-to-heart talk, the boy reveals he admires the huntress and is deeply in love with her. As luck would have it, the feeling is mutual, and the memory of the passionate lovemaking that follows is likely to keep Erika warm during the long, chilly nights throughout her journey.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 45,
+          "type": "anime",
+          "name": "Pink Pineapple",
+          "url": "https://myanimelist.net/anime/producer/45/Pink_Pineapple"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 541,
+          "type": "anime",
+          "name": "Seven",
+          "url": "https://myanimelist.net/anime/producer/541/Seven"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 12,
+          "type": "anime",
+          "name": "Hentai",
+          "url": "https://myanimelist.net/anime/genre/12/Hentai"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 41794,
+      "url": "https://myanimelist.net/anime/41794/Natsu_ga_Owaru_made_The_Animation",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1065/107875.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1065/107875t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1065/107875l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1065/107875.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1065/107875t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1065/107875l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Natsu ga Owaru made The Animation"
+        },
+        {
+          "type": "Japanese",
+          "title": "夏が終わるまで The Animation"
+        },
+        {
+          "type": "English",
+          "title": "Until The Summer Ends The Animation"
+        }
+      ],
+      "title": "Natsu ga Owaru made The Animation",
+      "title_english": "Until The Summer Ends The Animation",
+      "title_japanese": "夏が終わるまで The Animation",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Manga",
+      "episodes": 2,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-31T00:00:00+00:00",
+        "to": "2020-09-25T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 31,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 25,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Jul 31, 2020 to Sep 25, 2020"
+      },
+      "duration": "17 min per ep",
+      "rating": "Rx - Hentai",
+      "score": 6.14,
+      "scored_by": 3046,
+      "rank": null,
+      "popularity": 8082,
+      "members": 7464,
+      "favorites": 35,
+      "synopsis": "Yui and Kou have been childhood friends for longer than anyone can remember. As they became adults they also became lovers. They couldn't keep their hands off of each other, having sex in just about any place imaginable, including at school.\n\nUnfortunately for them, the person in charge of the school cameras decided to blackmail them.\n\nNow Yui has no option other than to obey her teacher or he will let the videos go viral. However, she slowly becomes addicted to her teacher.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 2215,
+          "type": "anime",
+          "name": "Showten",
+          "url": "https://myanimelist.net/anime/producer/2215/Showten"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1093,
+          "type": "anime",
+          "name": "BreakBottle",
+          "url": "https://myanimelist.net/anime/producer/1093/BreakBottle"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 12,
+          "type": "anime",
+          "name": "Hentai",
+          "url": "https://myanimelist.net/anime/genre/12/Hentai"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 41659,
+      "url": "https://myanimelist.net/anime/41659/Kabukichou_Sherlock_OVA",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1456/108076.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1456/108076t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1456/108076l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1456/108076.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1456/108076t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1456/108076l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/W5dnZ_mguQI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kabukichou Sherlock OVA"
+        },
+        {
+          "type": "Japanese",
+          "title": "歌舞伎町シャーロック"
+        },
+        {
+          "type": "English",
+          "title": "Case File nº221: Kabukicho OVA"
+        }
+      ],
+      "title": "Kabukichou Sherlock OVA",
+      "title_english": "Case File nº221: Kabukicho OVA",
+      "title_japanese": "歌舞伎町シャーロック",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Original",
+      "episodes": 6,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 26,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 26, 2020"
+      },
+      "duration": "4 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.7,
+      "scored_by": 1850,
+      "rank": 6238,
+      "popularity": 8333,
+      "members": 6918,
+      "favorites": 16,
+      "synopsis": "A fun collection of six short side stories depicting the past and present of Sherlock, Watson, Moriarty, and the rest of the Row House as they go about their everyday lives in their home of Kabukicho.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Production I.G",
+          "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "Mystery",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 50,
+          "type": "anime",
+          "name": "Adult Cast",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 39,
+          "type": "anime",
+          "name": "Detective",
+          "url": "https://myanimelist.net/anime/genre/39/Detective"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 41917,
+      "url": "https://myanimelist.net/anime/41917/Min_Diao_Ju_Yi_Wen_Lu",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1919/108128.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1919/108128t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1919/108128l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1919/108128.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1919/108128t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1919/108128l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/IUXax_h6jrw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Min Diao Ju Yi Wen Lu"
+        },
+        {
+          "type": "Synonym",
+          "title": "Occult Investigator's Strange Record"
+        },
+        {
+          "type": "Japanese",
+          "title": "民调局异闻录"
+        },
+        {
+          "type": "English",
+          "title": "Bureau of Paranormal Investigation"
+        }
+      ],
+      "title": "Min Diao Ju Yi Wen Lu",
+      "title_english": "Bureau of Paranormal Investigation",
+      "title_japanese": "民调局异闻录",
+      "title_synonyms": [
+        "Occult Investigator's Strange Record"
+      ],
+      "type": "ONA",
+      "source": "Novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-07T00:00:00+00:00",
+        "to": "2020-10-16T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": 16,
+            "month": 10,
+            "year": 2020
+          }
+        },
+        "string": "Aug 7, 2020 to Oct 16, 2020"
+      },
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 6.6,
+      "scored_by": 1332,
+      "rank": 6901,
+      "popularity": 8503,
+      "members": 6590,
+      "favorites": 19,
+      "synopsis": "In the task of catching drug lords in the Yunnan border, a special forces team accidentally enters the ancient caves of the ancient Shu, and intruded on ancient rituals. The squad was almost completely annihilated. Only Shen Shuang and the anti-drug police Sun Desheng survived, as they were rescued by a mysterious white-haired man named Wu Hao. After this incident, the two men accidentally entered the \"Civil Affairs Investigation and Research Bureau\" and gradually became entangled in more supernatural events, revealing the veil of another world.\n\n(Source: AniList)",
+      "background": "Animated adaptation of Er Dong Shui Shou's (耳东水寿) novel of the same title.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1350,
+          "type": "anime",
+          "name": "B.CMAY PICTURES",
+          "url": "https://myanimelist.net/anime/producer/1350/BCMAY_PICTURES"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+          "mal_id": 41,
+          "type": "anime",
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 42266,
+      "url": "https://myanimelist.net/anime/42266/Wu_Dong_Qian_Kun_2nd_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1288/108277.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1288/108277t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1288/108277l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1288/108277.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1288/108277t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1288/108277l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/UqOF4-OCXrc?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Wu Dong Qian Kun 2nd Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Martial Universe 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "武动乾坤 第二季"
+        },
+        {
+          "type": "English",
+          "title": "Martial Universe 2"
+        }
+      ],
+      "title": "Wu Dong Qian Kun 2nd Season",
+      "title_english": "Martial Universe 2",
+      "title_japanese": "武动乾坤 第二季",
+      "title_synonyms": [
+        "Martial Universe 2nd Season"
+      ],
+      "type": "ONA",
+      "source": "Web novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-12T00:00:00+00:00",
+        "to": "2020-09-20T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 20,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Jul 12, 2020 to Sep 20, 2020"
+      },
+      "duration": "25 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.66,
+      "scored_by": 2739,
+      "rank": 1507,
+      "popularity": 8750,
+      "members": 6128,
+      "favorites": 32,
+      "synopsis": "The whole journey of cultivation is to steal yin and yang, seize good fortune, turn nirvana, grasp life and death, and control reincarnation. In Qingyang Town of the Great Yan Dynasty, Lin Dong, an unfavored member of the family, accidentally picked up a mysterious stone talisman in a cave, and found a celestial demon mink helping him in the stone talisman. Thus embarking on the road of counterattack, a vast world of fairy tales unfolds...\n\n(Source: WeTV)",
+      "background": "Episodes 13-24 of Wu Dong Qian Kun.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1727,
+          "type": "anime",
+          "name": "Tencent Video",
+          "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+        },
+        {
+          "mal_id": 1728,
+          "type": "anime",
+          "name": "China Literature Limited",
+          "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1827,
+          "type": "anime",
+          "name": "Motion Magic",
+          "url": "https://myanimelist.net/anime/producer/1827/Motion_Magic"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 40044,
+      "url": "https://myanimelist.net/anime/40044/Doraemon_Movie_40__Nobita_no_Shin_Kyouryuu",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1745/108659.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1745/108659t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1745/108659l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1745/108659.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1745/108659t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1745/108659l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/N96UAzN0aG8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Doraemon Movie 40: Nobita no Shin Kyouryuu"
+        },
+        {
+          "type": "Japanese",
+          "title": "映画 ドラえもん のび太の新恐竜"
+        },
+        {
+          "type": "English",
+          "title": "Doraemon the Movie 2020: Nobita's New Dinosaur"
+        }
+      ],
+      "title": "Doraemon Movie 40: Nobita no Shin Kyouryuu",
+      "title_english": "Doraemon the Movie 2020: Nobita's New Dinosaur",
+      "title_japanese": "映画 ドラえもん のび太の新恐竜",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 7, 2020"
+      },
+      "duration": "1 hr 50 min",
+      "rating": "PG - Children",
+      "score": 7.64,
+      "scored_by": 2904,
+      "rank": 1562,
+      "popularity": 8873,
+      "members": 5950,
+      "favorites": 13,
+      "synopsis": "Nobita and the gang travel 66 million years into the past to bring a pair of adorable dinosaur twins back to where they belong.\n\n(Source: Netflix)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 247,
+          "type": "anime",
+          "name": "Shin-Ei Animation",
+          "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        },
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 40473,
+      "url": "https://myanimelist.net/anime/40473/Chou_Futsuu_Toshi_Kashiwa_Densetsu_R",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1113/113865.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1113/113865t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1113/113865l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1113/113865.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1113/113865t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1113/113865l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Plc7ROzpO24?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Chou Futsuu Toshi Kashiwa Densetsu R"
+        },
+        {
+          "type": "Japanese",
+          "title": "超普通都市カシワ伝説R"
+        }
+      ],
+      "title": "Chou Futsuu Toshi Kashiwa Densetsu R",
+      "title_english": null,
+      "title_japanese": "超普通都市カシワ伝説R",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Other",
+      "episodes": 10,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-06T00:00:00+00:00",
+        "to": "2020-09-28T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 28,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Jul 6, 2020 to Sep 28, 2020"
+      },
+      "duration": "5 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 4.55,
+      "scored_by": 871,
+      "rank": 14541,
+      "popularity": 8917,
+      "members": 5892,
+      "favorites": 4,
+      "synopsis": "A gag anime set in Kashiwa, featuring high school girls and mysterious creatures.\n\n(Source: Chou Futsuu Toshi Kashiwa Densetsu Wiki)",
+      "background": "",
+      "season": "summer",
+      "year": 2020,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "21:55",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 21:55 (JST)"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2080,
+          "type": "anime",
+          "name": "Super Normal Studio",
+          "url": "https://myanimelist.net/anime/producer/2080/Super_Normal_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 42141,
+      "url": "https://myanimelist.net/anime/42141/Kanojo_ga_Yatsu_ni_Idakareta_Hi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1954/109495.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1954/109495t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1954/109495l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1954/109495.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1954/109495t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1954/109495l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kanojo ga Yatsu ni Idakareta Hi"
+        },
+        {
+          "type": "Japanese",
+          "title": "彼女がヤツに抱かれたヒ"
+        }
+      ],
+      "title": "Kanojo ga Yatsu ni Idakareta Hi",
+      "title_english": null,
+      "title_japanese": "彼女がヤツに抱かれたヒ",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Original",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2020-08-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 28, 2020 to ?"
+      },
+      "duration": "25 min",
+      "rating": "Rx - Hentai",
+      "score": 6.25,
+      "scored_by": 2083,
+      "rank": null,
+      "popularity": 8996,
+      "members": 5726,
+      "favorites": 32,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2014,
+          "type": "anime",
+          "name": "Nur",
+          "url": "https://myanimelist.net/anime/producer/2014/Nur"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 12,
+          "type": "anime",
+          "name": "Hentai",
+          "url": "https://myanimelist.net/anime/genre/12/Hentai"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 42223,
+      "url": "https://myanimelist.net/anime/42223/Oujo___Onna_Kishi_W_Do_Gehin_Roshutsu",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1427/108043.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1427/108043t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1427/108043l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1427/108043.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1427/108043t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1427/108043l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Oujo & Onna Kishi W Do Gehin Roshutsu"
+        },
+        {
+          "type": "Japanese",
+          "title": "王女＆女騎士Wド下品露出"
+        }
+      ],
+      "title": "Oujo & Onna Kishi W Do Gehin Roshutsu",
+      "title_english": null,
+      "title_japanese": "王女＆女騎士Wド下品露出",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Visual novel",
+      "episodes": 2,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-28T00:00:00+00:00",
+        "to": "2020-10-23T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": 23,
+            "month": 10,
+            "year": 2020
+          }
+        },
+        "string": "Aug 28, 2020 to Oct 23, 2020"
+      },
+      "duration": "19 min per ep",
+      "rating": "Rx - Hentai",
+      "score": 5.84,
+      "scored_by": 2231,
+      "rank": null,
+      "popularity": 9019,
+      "members": 5703,
+      "favorites": 23,
+      "synopsis": "A happy and beloved princess in a peaceful land, what could be more wholesome and fulfilling? Spending her royal childhood in the company of her favorite knight who takes care of her and protects her.\nHowever, growing up in such peaceful and unfortunately boring times causes her mind to wander, about carnal pleasures and lust.\n\n(Source: TMDB)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1424,
+          "type": "anime",
+          "name": "Mediabank",
+          "url": "https://myanimelist.net/anime/producer/1424/Mediabank"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1463,
+          "type": "anime",
+          "name": "Anime Antenna Iinkai",
+          "url": "https://myanimelist.net/anime/producer/1463/Anime_Antenna_Iinkai"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 12,
+          "type": "anime",
+          "name": "Hentai",
+          "url": "https://myanimelist.net/anime/genre/12/Hentai"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 42593,
+      "url": "https://myanimelist.net/anime/42593/Kesshouban__Eigakan_e_Iku",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1971/108781.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1971/108781t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1971/108781l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1971/108781.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1971/108781t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1971/108781l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kesshouban: Eigakan e Iku"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Platelets Go to the Movie Theater"
+        },
+        {
+          "type": "Japanese",
+          "title": "血小板 映画館へ行く"
+        }
+      ],
+      "title": "Kesshouban: Eigakan e Iku",
+      "title_english": null,
+      "title_japanese": "血小板 映画館へ行く",
+      "title_synonyms": [
+        "The Platelets Go to the Movie Theater"
+      ],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Sep 5, 2020"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.94,
+      "scored_by": 540,
+      "rank": 10854,
+      "popularity": 9281,
+      "members": 5277,
+      "favorites": 1,
+      "synopsis": "An anime short screened along with the Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi! (Cells at Work!! The Return of the Strongest Enemy. A Huge Uproar in the Body’s Bowels!) theatrical anime.\n\n(Source: ANN)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42284,
+      "url": "https://myanimelist.net/anime/42284/Yuan_Long",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1430/108208.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1430/108208t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1430/108208l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1430/108208.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1430/108208t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1430/108208l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/2Y9HjJiwLZ8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yuan Long"
+        },
+        {
+          "type": "Synonym",
+          "title": "First Dragon"
+        },
+        {
+          "type": "Japanese",
+          "title": "元龙"
+        },
+        {
+          "type": "English",
+          "title": "Carp Reborn"
+        }
+      ],
+      "title": "Yuan Long",
+      "title_english": "Carp Reborn",
+      "title_japanese": "元龙",
+      "title_synonyms": [
+        "First Dragon"
+      ],
+      "type": "ONA",
+      "source": "Web novel",
+      "episodes": 16,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-11T00:00:00+00:00",
+        "to": "2020-10-03T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 11,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 3,
+            "month": 10,
+            "year": 2020
+          }
+        },
+        "string": "Jul 11, 2020 to Oct 3, 2020"
+      },
+      "duration": "18 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.34,
+      "scored_by": 2062,
+      "rank": 2825,
+      "popularity": 9419,
+      "members": 5062,
+      "favorites": 36,
+      "synopsis": "Special Forces Wang Sheng traveled to the soul world and was possessed by the waste carp Yuan soul, becoming a veritable waste person in the soul world. Wang Sheng used the knowledge he had learned in the world of master spirits like Yun Yuan to pass the battle, and even found a way to evolve the waste carp Yuan soul! The sparrow becomes a phoenix, and the carp leaps to the dragon gate. Wang Sheng has embarked on a road of Jackie Chan from the sinister soul dispute!\n\n(Source: Immortal Sun Scans)",
+      "background": "Animated adaptation of Ren Yuan's (任怨) web novel of the same title.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1414,
+          "type": "anime",
+          "name": "bilibili",
+          "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1808,
+          "type": "anime",
+          "name": "CG Year",
+          "url": "https://myanimelist.net/anime/producer/1808/CG_Year"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42855,
+      "url": "https://myanimelist.net/anime/42855/Fudanshi_Shoukan__Isekai_de_Shinjuu_ni_Hameraremashita",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1451/122471.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1451/122471t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1451/122471l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1451/122471.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1451/122471t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1451/122471l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita"
+        },
+        {
+          "type": "Synonym",
+          "title": "Fudanshi Summoning: I Got Laid by a Divine Beast on an Alternate World"
+        },
+        {
+          "type": "Synonym",
+          "title": "Fudanshi Shoukan Mini Anime"
+        },
+        {
+          "type": "Japanese",
+          "title": "腐男子召喚〜異世界で神獣にハメられました〜"
+        }
+      ],
+      "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita",
+      "title_english": null,
+      "title_japanese": "腐男子召喚〜異世界で神獣にハメられました〜",
+      "title_synonyms": [
+        "Fudanshi Summoning: I Got Laid by a Divine Beast on an Alternate World",
+        "Fudanshi Shoukan Mini Anime"
+      ],
+      "type": "ONA",
+      "source": "Web manga",
+      "episodes": 4,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-10T00:00:00+00:00",
+        "to": "2020-10-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": 1,
+            "month": 10,
+            "year": 2020
+          }
+        },
+        "string": "Sep 10, 2020 to Oct 1, 2020"
+      },
+      "duration": "2 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.73,
+      "scored_by": 1319,
+      "rank": 11970,
+      "popularity": 9728,
+      "members": 4592,
+      "favorites": 8,
+      "synopsis": "Kotone is a fudanshi. One day while he was buying BL manga outside of a manga stand, a truck loses control and kills him with BL manga all over him. To his surprise, he wakes up in an Asian ancient-looking palace. A man named Nagi, that is half serpent, tells him that he is now his Miko. They need to have sex in order for Nagi to become a higher being and become a Dragon. Kotone knows everything about BL and he realizes that he will be the bottom. Kotone will use his knowledge of BL to not fall in love and not a bottom in this Isekai world.\n\n(Source: MU)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 2074,
+          "type": "anime",
+          "name": "Bit grooove promotion",
+          "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2071,
+          "type": "anime",
+          "name": "AQUA ARIS",
+          "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 28,
+          "type": "anime",
+          "name": "Boys Love",
+          "url": "https://myanimelist.net/anime/genre/28/Boys_Love"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 41916,
+      "url": "https://myanimelist.net/anime/41916/You_Yao",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1821/108124.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1821/108124t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1821/108124l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1821/108124.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1821/108124t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1821/108124l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/OgZ4MuV1tyo?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "You Yao"
+        },
+        {
+          "type": "Japanese",
+          "title": "有药"
+        },
+        {
+          "type": "English",
+          "title": "Are You OK?"
+        }
+      ],
+      "title": "You Yao",
+      "title_english": "Are You OK?",
+      "title_japanese": "有药",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Web novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-10T00:00:00+00:00",
+        "to": "2020-09-18T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 18,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Jul 10, 2020 to Sep 18, 2020"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.09,
+      "scored_by": 747,
+      "rank": 4223,
+      "popularity": 9872,
+      "members": 4393,
+      "favorites": 31,
+      "synopsis": "The current government is seeking outsiders and granting them positions according to their abilities in order to update their backwards country and create a new world! Zuo Yunqi is just an ordinary young master, but to save his father, he disguises himself as an outsider to join the government.\n\nUnfortunately, his disguise is broken by a man hired specifically to identify who's a real outsider and who isn't. In their battle of wits, the two of them end up in many comedic situations and eventually become allies. As the two of them stop a shocking conspiracy, they discover that some of the outsiders have formed their own alliance to revolt against those in power and create a new society of peace and equality. Zuo Yunqi and his friends are forced to join in and become a part of this battle...\n\n(Source: Baidu)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1806,
+          "type": "anime",
+          "name": "iQIYI",
+          "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2058,
+          "type": "anime",
+          "name": "Shengying Animation",
+          "url": "https://myanimelist.net/anime/producer/2058/Shengying_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42889,
+      "url": "https://myanimelist.net/anime/42889/Muteki-kyuuBeliever___Mirai_Harmony",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1325/110517.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1325/110517t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1325/110517l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1325/110517.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1325/110517t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1325/110517l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Muteki-kyuu*Believer / Mirai Harmony"
+        },
+        {
+          "type": "Synonym",
+          "title": "　"
+        },
+        {
+          "type": "Japanese",
+          "title": "無敵級*ビリーバー / 未来ハーモニー"
+        }
+      ],
+      "title": "Muteki-kyuu*Believer / Mirai Harmony",
+      "title_english": null,
+      "title_japanese": "無敵級*ビリーバー / 未来ハーモニー",
+      "title_synonyms": [
+        "　"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 29, 2020"
+      },
+      "duration": "8 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.44,
+      "scored_by": 1974,
+      "rank": null,
+      "popularity": 9982,
+      "members": 4254,
+      "favorites": 12,
+      "synopsis": "Animated music video for Nijigasaki High School Idol Club's first song of their first single titled Muteki-kyuu*Believer sung by Kasumi Nakasu and Nijigasaki High School Idol Club's second song of their first single titled Mirai Harmony sung by the entire Nijigasaki High School Idol Club. \n\nThe BD release combines both with additional story bits that cover roughly 1 minute and 58 seconds into a single 8 minute and 30 seconds long animated video.\n\n(Source: ANN, Anilist)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 1840,
+          "type": "anime",
+          "name": "Bandai Namco Arts",
+          "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 14,
+          "type": "anime",
+          "name": "Sunrise",
+          "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 60,
+          "type": "anime",
+          "name": "Idols (Female)",
+          "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 50462,
+      "url": "https://myanimelist.net/anime/50462/Jiyi_Guanli_Ju",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1297/119667.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1297/119667t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1297/119667l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1297/119667.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1297/119667t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1297/119667l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Jiyi Guanli Ju"
+        },
+        {
+          "type": "Japanese",
+          "title": "记忆管理局"
+        },
+        {
+          "type": "English",
+          "title": "False Memory"
+        }
+      ],
+      "title": "Jiyi Guanli Ju",
+      "title_english": "False Memory",
+      "title_japanese": "记忆管理局",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 30,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Sep 30, 2020"
+      },
+      "duration": "18 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.41,
+      "scored_by": 1093,
+      "rank": 2481,
+      "popularity": 10077,
+      "members": 4146,
+      "favorites": 23,
+      "synopsis": "In order to go back to the past, Guan Chao tries hard to find the \"burning stone\" that activates the time gun, but accidentally falls into the Memory Management Bureau. Only by conquering the BUG people in the memory layer can he return to reality. With the help of administrators such as Fangtang and Baizhong, can Guan Chao successfully complete the task? What kind of challenges are awaiting Guan Chao in each memory layer...\n\n(Source: Bilibili, translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2372,
+          "type": "anime",
+          "name": "Flint Sugar",
+          "url": "https://myanimelist.net/anime/producer/2372/Flint_Sugar"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "Mystery",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 40,
+          "type": "anime",
+          "name": "Psychological",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": []
+    }
+  ]
+}

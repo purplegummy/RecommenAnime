@@ -1,0 +1,185 @@
+{
+  "data": {
+    "mal_id": 53236,
+    "url": "https://myanimelist.net/anime/53236/Road_of_Naruto",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1731/128787.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1731/128787t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1731/128787l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1731/128787.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1731/128787t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1731/128787l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Road of Naruto"
+      },
+      {
+        "type": "Synonym",
+        "title": "Naruto 20th Anniversary PV"
+      },
+      {
+        "type": "Japanese",
+        "title": "ROAD OF NARUTO"
+      },
+      {
+        "type": "English",
+        "title": "Road of Naruto"
+      }
+    ],
+    "title": "Road of Naruto",
+    "title_english": "Road of Naruto",
+    "title_japanese": "ROAD OF NARUTO",
+    "title_synonyms": [
+      "Naruto 20th Anniversary PV"
+    ],
+    "type": "PV",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2022-10-03T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 3,
+          "month": 10,
+          "year": 2022
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 3, 2022"
+    },
+    "duration": "9 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.38,
+    "scored_by": 22621,
+    "rank": null,
+    "popularity": 4079,
+    "members": 38866,
+    "favorites": 112,
+    "synopsis": "In celebration of 20 years of Naruto, Studio Pierrot posted an anniversary PV on their YouTube channel. The PV is a compilation of newly reworked scenes from Naruto containing new animation.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Studio Pierrot",
+        "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 27,
+        "type": "anime",
+        "name": "Shounen",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Adaptation",
+        "entry": [
+          {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Naruto",
+            "url": "https://myanimelist.net/manga/11/Naruto"
+          }
+        ]
+      },
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 20,
+            "type": "anime",
+            "name": "Naruto",
+            "url": "https://myanimelist.net/anime/20/Naruto"
+          },
+          {
+            "mal_id": 1735,
+            "type": "anime",
+            "name": "Naruto: Shippuuden",
+            "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://naruto-official.com/special/20th"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=yKELA1qBAKA"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17659"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "mal_id": 63392,
+    "url": "https://myanimelist.net/anime/63392/Evangelion__Housou_30-shuunen_Kinen_Tokubetsu_Kougyou",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1518/155184.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1518/155184t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1518/155184l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1518/155184.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1518/155184t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1518/155184l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Evangelion: Housou 30-shuunen Kinen Tokubetsu Kougyou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Evangelion Shinsaku Tanpen Animation"
+      },
+      {
+        "type": "Japanese",
+        "title": "エヴァンゲリオン 放送30周年記念特別興行"
+      },
+      {
+        "type": "English",
+        "title": "Evangelion 30th Anniversary Special"
+      }
+    ],
+    "title": "Evangelion: Housou 30-shuunen Kinen Tokubetsu Kougyou",
+    "title_english": "Evangelion 30th Anniversary Special",
+    "title_japanese": "エヴァンゲリオン 放送30周年記念特別興行",
+    "title_synonyms": [
+      "Evangelion Shinsaku Tanpen Animation"
+    ],
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2026-02-21T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 2,
+          "year": 2026
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 21, 2026"
+    },
+    "duration": "13 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.76,
+    "scored_by": 1901,
+    "rank": 1208,
+    "popularity": 10854,
+    "members": 3276,
+    "favorites": 8,
+    "synopsis": "A new short animation for the Evangelion series that debuted at the \"EVANGELION:30+; 30th ANN/VERSARY OF EVANGELION\" fes. in Yokohama Arena.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 47,
+        "type": "anime",
+        "name": "Khara",
+        "url": "https://myanimelist.net/anime/producer/47/Khara"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      },
+      {
+        "mal_id": 41,
+        "type": "anime",
+        "name": "Suspense",
+        "url": "https://myanimelist.net/anime/genre/41/Suspense"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      },
+      {
+        "mal_id": 40,
+        "type": "anime",
+        "name": "Psychological",
+        "url": "https://myanimelist.net/anime/genre/40/Psychological"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Other",
+        "entry": [
+          {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Shinseiki Evangelion",
+            "url": "https://myanimelist.net/anime/30/Shinseiki_Evangelion"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": []
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://30th.evangelion.jp/fes/stage"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=t6ju8O7a89g"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19910"
+      }
+    ],
+    "streaming": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "mal_id": 50587,
+    "url": "https://myanimelist.net/anime/50587/Gridman_Universe",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1897/133657.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1897/133657t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1897/133657l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1897/133657.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1897/133657t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1897/133657l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": "https://www.youtube-nocookie.com/embed/Q1BmA_2Zj-k?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gridman Universe"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gridman×Dynazenon"
+      },
+      {
+        "type": "Japanese",
+        "title": "グリッドマン ユニバース"
+      }
+    ],
+    "title": "Gridman Universe",
+    "title_english": null,
+    "title_japanese": "グリッドマン ユニバース",
+    "title_synonyms": [
+      "Gridman×Dynazenon"
+    ],
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2023-03-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 3,
+          "year": 2023
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 24, 2023"
+    },
+    "duration": "1 hr 57 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.03,
+    "scored_by": 12018,
+    "rank": 679,
+    "popularity": 3992,
+    "members": 40482,
+    "favorites": 317,
+    "synopsis": "A year has passed since the events of SSSS.Gridman. The world is at peace and no one except for Rikka and Utsumi remembers the kaiju, Gridman, or Akane Shinjou. This includes Yuuta, who despite serving as Gridman's host, has no memory of the most important moments of his life. So when a new Kaiju appears, he leaps at the chance to prove to himself that he too can be the hero by merging with Gridman once more.\n\n(Source: ANN)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 144,
+        "type": "anime",
+        "name": "Pony Canyon",
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+      },
+      {
+        "mal_id": 453,
+        "type": "anime",
+        "name": "Tsuburaya Productions",
+        "url": "https://myanimelist.net/anime/producer/453/Tsuburaya_Productions"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 803,
+        "type": "anime",
+        "name": "Trigger",
+        "url": "https://myanimelist.net/anime/producer/803/Trigger"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Mecha",
+        "url": "https://myanimelist.net/anime/genre/18/Mecha"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Prequel",
+        "entry": [
+          {
+            "mal_id": 35847,
+            "type": "anime",
+            "name": "SSSS.Gridman",
+            "url": "https://myanimelist.net/anime/35847/SSSSGridman"
+          },
+          {
+            "mal_id": 40870,
+            "type": "anime",
+            "name": "SSSS.Dynazenon",
+            "url": "https://myanimelist.net/anime/40870/SSSSDynazenon"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [],
+      "endings": [
+        "\"uni-verse\" by Masayoshi Oishi"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://ssss-movie.net/"
+      },
+      {
+        "name": "@SSSS_PROJECT",
+        "url": "https://twitter.com/SSSS_PROJECT"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17037"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25050"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/series-283917"
+      }
+    ]
+  }
+}

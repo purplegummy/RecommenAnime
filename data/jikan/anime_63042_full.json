@@ -1,0 +1,343 @@
+{
+  "data": {
+    "mal_id": 63042,
+    "url": "https://myanimelist.net/anime/63042/Meitantei_Precure",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1706/154944.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1706/154944t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1706/154944l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1706/154944.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1706/154944t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1706/154944l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": "https://www.youtube-nocookie.com/embed/qjozo1fh7OI?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Meitantei Precure!"
+      },
+      {
+        "type": "Synonym",
+        "title": "TanPre"
+      },
+      {
+        "type": "Japanese",
+        "title": "名探偵プリキュア！"
+      },
+      {
+        "type": "English",
+        "title": "Star Detective Precure!"
+      }
+    ],
+    "title": "Meitantei Precure!",
+    "title_english": "Star Detective Precure!",
+    "title_japanese": "名探偵プリキュア！",
+    "title_synonyms": [
+      "TanPre"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": null,
+    "status": "Currently Airing",
+    "airing": true,
+    "aired": {
+      "from": "2026-02-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 2,
+          "year": 2026
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 1, 2026 to ?"
+    },
+    "duration": "24 min",
+    "rating": "G - All Ages",
+    "score": 7.54,
+    "scored_by": 569,
+    "rank": 1926,
+    "popularity": 10305,
+    "members": 3856,
+    "favorites": 22,
+    "synopsis": "Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.\n\nMeanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?\n\n(Source: Official site, translated)",
+    "background": "",
+    "season": "winter",
+    "year": 2026,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "08:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 08:30 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 55,
+        "type": "anime",
+        "name": "TV Asahi",
+        "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+      },
+      {
+        "mal_id": 1500,
+        "type": "anime",
+        "name": "ABC Animation",
+        "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+      },
+      {
+        "mal_id": 2118,
+        "type": "anime",
+        "name": "ADK Emotions",
+        "url": "https://myanimelist.net/anime/producer/2118/ADK_Emotions"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 18,
+        "type": "anime",
+        "name": "Toei Animation",
+        "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "Mystery",
+        "url": "https://myanimelist.net/anime/genre/7/Mystery"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 39,
+        "type": "anime",
+        "name": "Detective",
+        "url": "https://myanimelist.net/anime/genre/39/Detective"
+      },
+      {
+        "mal_id": 66,
+        "type": "anime",
+        "name": "Mahou Shoujo",
+        "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+      },
+      {
+        "mal_id": 78,
+        "type": "anime",
+        "name": "Time Travel",
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+      }
+    ],
+    "demographics": [],
+    "relations": [
+      {
+        "relation": "Alternative Setting",
+        "entry": [
+          {
+            "mal_id": 603,
+            "type": "anime",
+            "name": "Futari wa Precure",
+            "url": "https://myanimelist.net/anime/603/Futari_wa_Precure"
+          },
+          {
+            "mal_id": 1929,
+            "type": "anime",
+            "name": "Futari wa Precure: Max Heart",
+            "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart"
+          },
+          {
+            "mal_id": 1534,
+            "type": "anime",
+            "name": "Futari wa Precure: Splash☆Star",
+            "url": "https://myanimelist.net/anime/1534/Futari_wa_Precure__Splash☆Star"
+          },
+          {
+            "mal_id": 1932,
+            "type": "anime",
+            "name": "Yes! Precure 5",
+            "url": "https://myanimelist.net/anime/1932/Yes_Precure_5"
+          },
+          {
+            "mal_id": 3692,
+            "type": "anime",
+            "name": "Yes! Precure 5 GoGo!",
+            "url": "https://myanimelist.net/anime/3692/Yes_Precure_5_GoGo"
+          },
+          {
+            "mal_id": 5684,
+            "type": "anime",
+            "name": "Fresh Precure!",
+            "url": "https://myanimelist.net/anime/5684/Fresh_Precure"
+          },
+          {
+            "mal_id": 7645,
+            "type": "anime",
+            "name": "Heartcatch Precure!",
+            "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure"
+          },
+          {
+            "mal_id": 9893,
+            "type": "anime",
+            "name": "Suite Precure♪",
+            "url": "https://myanimelist.net/anime/9893/Suite_Precure♪"
+          },
+          {
+            "mal_id": 12191,
+            "type": "anime",
+            "name": "Smile Precure!",
+            "url": "https://myanimelist.net/anime/12191/Smile_Precure"
+          },
+          {
+            "mal_id": 16419,
+            "type": "anime",
+            "name": "Dokidoki! Precure",
+            "url": "https://myanimelist.net/anime/16419/Dokidoki_Precure"
+          },
+          {
+            "mal_id": 21407,
+            "type": "anime",
+            "name": "Happiness Charge Precure!",
+            "url": "https://myanimelist.net/anime/21407/Happiness_Charge_Precure"
+          },
+          {
+            "mal_id": 28669,
+            "type": "anime",
+            "name": "Go! Princess Precure",
+            "url": "https://myanimelist.net/anime/28669/Go_Princess_Precure"
+          },
+          {
+            "mal_id": 31884,
+            "type": "anime",
+            "name": "Mahoutsukai Precure!",
+            "url": "https://myanimelist.net/anime/31884/Mahoutsukai_Precure"
+          },
+          {
+            "mal_id": 34290,
+            "type": "anime",
+            "name": "Kirakira☆Precure A La Mode",
+            "url": "https://myanimelist.net/anime/34290/Kirakira☆Precure_A_La_Mode"
+          },
+          {
+            "mal_id": 36593,
+            "type": "anime",
+            "name": "Hug tto! Precure",
+            "url": "https://myanimelist.net/anime/36593/Hug_tto_Precure"
+          },
+          {
+            "mal_id": 38578,
+            "type": "anime",
+            "name": "Star☆Twinkle Precure",
+            "url": "https://myanimelist.net/anime/38578/Star☆Twinkle_Precure"
+          },
+          {
+            "mal_id": 40610,
+            "type": "anime",
+            "name": "Healin' Good♡Precure",
+            "url": "https://myanimelist.net/anime/40610/Healin_Good♡Precure"
+          },
+          {
+            "mal_id": 44191,
+            "type": "anime",
+            "name": "Tropical-Rouge! Precure",
+            "url": "https://myanimelist.net/anime/44191/Tropical-Rouge_Precure"
+          },
+          {
+            "mal_id": 50281,
+            "type": "anime",
+            "name": "Delicious Party♡Precure",
+            "url": "https://myanimelist.net/anime/50281/Delicious_Party♡Precure"
+          },
+          {
+            "mal_id": 53716,
+            "type": "anime",
+            "name": "Hirogaru Sky! Precure",
+            "url": "https://myanimelist.net/anime/53716/Hirogaru_Sky_Precure"
+          },
+          {
+            "mal_id": 57390,
+            "type": "anime",
+            "name": "Wonderful Precure!",
+            "url": "https://myanimelist.net/anime/57390/Wonderful_Precure"
+          },
+          {
+            "mal_id": 60407,
+            "type": "anime",
+            "name": "Kimi to Idol Precure♪",
+            "url": "https://myanimelist.net/anime/60407/Kimi_to_Idol_Precure♪"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "openings": [
+        "\"Heart ni Hint! Meitantei Precure! (ハートにヒント！名探偵プリキュア！)\" by Ami Ishii (石井あみ)"
+      ],
+      "endings": [
+        "\"Naze? Nazo?! ANSWER\" (なぜ？謎？！ANSWER)\" by Akane Kumada (熊田茜音), Yuuka Masui (増井優花)"
+      ]
+    },
+    "external": [
+      {
+        "name": "Official Site",
+        "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/"
+      },
+      {
+        "name": "@TVanime_precure",
+        "url": "https://twitter.com/TVanime_precure"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/c/precure"
+      },
+      {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19742"
+      },
+      {
+        "name": "ANN",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=38058"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Star_Detective_Precure!"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/precure_curesta/"
+      }
+    ],
+    "streaming": [
+      {
+        "name": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00369409/star-detective-precure"
+      }
+    ]
+  }
+}

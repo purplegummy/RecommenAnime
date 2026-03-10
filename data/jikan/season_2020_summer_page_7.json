@@ -1,0 +1,2834 @@
+{
+  "pagination": {
+    "last_visible_page": 12,
+    "has_next_page": true,
+    "current_page": 7,
+    "items": {
+      "count": 25,
+      "total": 278,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 42345,
+      "url": "https://myanimelist.net/anime/42345/Get_Up_Get_Live_GeraGera_Episode_0",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1064/108300.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1064/108300t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1064/108300l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1064/108300.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1064/108300t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1064/108300l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Get Up! Get Live! #GeraGera Episode 0"
+        },
+        {
+          "type": "Japanese",
+          "title": "GET UP! GET LIVE! #ゲラゲラ ０話"
+        }
+      ],
+      "title": "Get Up! Get Live! #GeraGera Episode 0",
+      "title_english": null,
+      "title_japanese": "GET UP! GET LIVE! #ゲラゲラ ０話",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Other",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 3, 2020"
+      },
+      "duration": "8 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 21784,
+      "popularity": 18349,
+      "members": 499,
+      "favorites": 0,
+      "synopsis": "Episode 0 of Get Up! Get Live! #GeraGera.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 48250,
+      "url": "https://myanimelist.net/anime/48250/Pororo_Donghwanala",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1465/114524.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1465/114524t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1465/114524l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1465/114524.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1465/114524t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1465/114524l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Pororo Donghwanala"
+        },
+        {
+          "type": "Synonym",
+          "title": "Ppololo Donghwanala"
+        },
+        {
+          "type": "Synonym",
+          "title": "Bedtime Story for Kids"
+        },
+        {
+          "type": "Japanese",
+          "title": "뽀로로 동화나라"
+        },
+        {
+          "type": "English",
+          "title": "Pororo Fairy Tale Story"
+        }
+      ],
+      "title": "Pororo Donghwanala",
+      "title_english": "Pororo Fairy Tale Story",
+      "title_japanese": "뽀로로 동화나라",
+      "title_synonyms": [
+        "Ppololo Donghwanala",
+        "Bedtime Story for Kids"
+      ],
+      "type": "TV",
+      "source": "Unknown",
+      "episodes": 10,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-24T00:00:00+00:00",
+        "to": "2020-09-22T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 24,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": 22,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Aug 24, 2020 to Sep 22, 2020"
+      },
+      "duration": "9 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 19974,
+      "popularity": 18448,
+      "members": 491,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": "summer",
+      "year": 2020,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 43739,
+      "url": "https://myanimelist.net/anime/43739/Idol_Shineitai",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1381/110067.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1381/110067t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1381/110067l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1381/110067.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1381/110067t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1381/110067l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Idol Shineitai"
+        },
+        {
+          "type": "Synonym",
+          "title": "Newly Edgy Idols feat. Hatsune Miku"
+        },
+        {
+          "type": "Synonym",
+          "title": "Kagamine Rin"
+        },
+        {
+          "type": "Synonym",
+          "title": "Megurine Luka"
+        },
+        {
+          "type": "Synonym",
+          "title": "Meiko"
+        },
+        {
+          "type": "Japanese",
+          "title": "アイドル新鋭隊"
+        },
+        {
+          "type": "English",
+          "title": "Newly Edgy Idols"
+        }
+      ],
+      "title": "Idol Shineitai",
+      "title_english": "Newly Edgy Idols",
+      "title_japanese": "アイドル新鋭隊",
+      "title_synonyms": [
+        "Newly Edgy Idols feat. Hatsune Miku",
+        "Kagamine Rin",
+        "Megurine Luka",
+        "Meiko"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 9,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Sep 9, 2020"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": 6.59,
+      "scored_by": 279,
+      "rank": null,
+      "popularity": 18448,
+      "members": 491,
+      "favorites": 0,
+      "synopsis": "Idol Shineitai is an original song available to play in \"Project SEKAI: Colorful Stage\", and is associated with the unit MORE MORE JUMP!. The song is produced, composed and written by Mitchie M and features two versions, one by MORE MORE JUMP! and a VOCALOID version that includes modified backup lyrics and features vocals by Hatsune Miku, Kagamine Rin, Megurine Luka and MEIKO.\n\n(Source:  Project SEKAI Wiki)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 53010,
+      "url": "https://myanimelist.net/anime/53010/Ekaki_Uta",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1896/127863.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1896/127863t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1896/127863l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1896/127863.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1896/127863t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1896/127863l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ekaki Uta"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Drawing Song"
+        },
+        {
+          "type": "Japanese",
+          "title": "絵描きうた"
+        }
+      ],
+      "title": "Ekaki Uta",
+      "title_english": null,
+      "title_japanese": "絵描きうた",
+      "title_synonyms": [
+        "The Drawing Song"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 1, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": 6.15,
+      "scored_by": 249,
+      "rank": null,
+      "popularity": 18575,
+      "members": 480,
+      "favorites": 0,
+      "synopsis": "A music video by Keiichi Arawi about drawing.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 44571,
+      "url": "https://myanimelist.net/anime/44571/Lie_Yang_Tiandao_I",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1296/114407.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1296/114407t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1296/114407l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1296/114407.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1296/114407t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1296/114407l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/6eBDwYhhR-I?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Lie Yang Tiandao I"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Rule of Burning Sun Ⅰ"
+        },
+        {
+          "type": "Japanese",
+          "title": "烈阳天道Ⅰ"
+        }
+      ],
+      "title": "Lie Yang Tiandao I",
+      "title_english": null,
+      "title_japanese": "烈阳天道Ⅰ",
+      "title_synonyms": [
+        "The Rule of Burning Sun Ⅰ"
+      ],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 6, 2020"
+      },
+      "duration": "1 hr 17 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 18697,
+      "popularity": 18644,
+      "members": 475,
+      "favorites": 1,
+      "synopsis": "This work is a core segment branching off from the Xiong Bing Lian series. In this feature film, Sun Wukong appears as the Victorious Fighting Buddha, a superhero living in the modern world fighting against alien civilizations. What kind of epic showdown will unfold between him, the Lieyang Civilization, and Di Leina? \n\n(Source: Tencent, translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1727,
+          "type": "anime",
+          "name": "Tencent Video",
+          "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+        },
+        {
+          "mal_id": 1768,
+          "type": "anime",
+          "name": "Sparkly Key Animation Studio",
+          "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2239,
+          "type": "anime",
+          "name": "Transcendence Picture",
+          "url": "https://myanimelist.net/anime/producer/2239/Transcendence_Picture"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 42729,
+      "url": "https://myanimelist.net/anime/42729/Xpice",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1264/109017.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1264/109017t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1264/109017l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1264/109017.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1264/109017t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1264/109017l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xpice"
+        },
+        {
+          "type": "Japanese",
+          "title": "XPICE"
+        },
+        {
+          "type": "English",
+          "title": "XPICE"
+        }
+      ],
+      "title": "Xpice",
+      "title_english": "XPICE",
+      "title_japanese": "XPICE",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 15,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 15, 2020"
+      },
+      "duration": "4 min",
+      "rating": "PG - Children",
+      "score": 6.12,
+      "scored_by": 259,
+      "rank": null,
+      "popularity": 18674,
+      "members": 474,
+      "favorites": 0,
+      "synopsis": "Kokyo, a city brimming with people from all walks of life, and the prime target of the mysterious group Zerogram. But Red Pepper and Wasabi—a duo from the superhero league XPICE—aren't going to stand idly by.\n\nRed Pepper's fiery punches deal with the baddies while Wasabi's healing touch cares for the wounded. Things seem to be going well on the surface. Deep down, however, Wasabi can't help but feel like there's more to being a hero.\n\nOne faithful day, the emergency alert blares—Red Pepper's in trouble!\n\nThough unsure of their chances, seeing a teammate in danger helps Wasabi find the courage to rise to the occasion.\n\n(Source: Official Site)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1572,
+          "type": "anime",
+          "name": "XFLAG",
+          "url": "https://myanimelist.net/anime/producer/1572/XFLAG"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1296,
+          "type": "anime",
+          "name": "Marza Animation Planet",
+          "url": "https://myanimelist.net/anime/producer/1296/Marza_Animation_Planet"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 52525,
+      "url": "https://myanimelist.net/anime/52525/Yaranakya_Ikenai_Koto_Bakari",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1220/126064.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1220/126064t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1220/126064l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1220/126064.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1220/126064t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1220/126064l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yaranakya Ikenai Koto Bakari"
+        },
+        {
+          "type": "Synonym",
+          "title": "Irodorimidori"
+        },
+        {
+          "type": "Japanese",
+          "title": "やらなきゃいけないことばかり"
+        }
+      ],
+      "title": "Yaranakya Ikenai Koto Bakari",
+      "title_english": null,
+      "title_japanese": "やらなきゃいけないことばかり",
+      "title_synonyms": [
+        "Irodorimidori"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 9,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 9, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": 5.53,
+      "scored_by": 253,
+      "rank": null,
+      "popularity": 18679,
+      "members": 474,
+      "favorites": 0,
+      "synopsis": "Official music video for the song Yaranakya Ikenai Koto Bakari by the fictional band Irodorimidori. It is the 53rd song in the Irodorimidori franchise and focuses on Shirona Tsukisuzu and Nagi Kobotoke.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 52526,
+      "url": "https://myanimelist.net/anime/52526/Day_by_Day_CRiSiS_Songs",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1397/126066.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1397/126066t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1397/126066l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1397/126066.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1397/126066t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1397/126066l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Day by Day CRiSiS Songs"
+        },
+        {
+          "type": "Synonym",
+          "title": "Irodorimidori"
+        },
+        {
+          "type": "Japanese",
+          "title": "Day by Day CRiSiS Songs"
+        }
+      ],
+      "title": "Day by Day CRiSiS Songs",
+      "title_english": null,
+      "title_japanese": "Day by Day CRiSiS Songs",
+      "title_synonyms": [
+        "Irodorimidori"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 3, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": 5.77,
+      "scored_by": 258,
+      "rank": null,
+      "popularity": 18691,
+      "members": 473,
+      "favorites": 1,
+      "synopsis": "Official music video for the song Day by Day CRiSiS Songs by the fictional band Irodorimidori. It is the 54th song in the Irodorimidori franchise and focuses on Aliciana Ogata and Naru Hakobe.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55393,
+      "url": "https://myanimelist.net/anime/55393/The_IDOLMSTER_Cinderella_Girls__Starlight_Stage_CMs",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1556/136034.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1556/136034t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1556/136034l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1556/136034.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1556/136034t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1556/136034l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "The IDOLM@STER Cinderella Girls: Starlight Stage CMs"
+        },
+        {
+          "type": "Japanese",
+          "title": "アイドルマスター シンデレラガールズ スターライトステージ CMs"
+        }
+      ],
+      "title": "The IDOLM@STER Cinderella Girls: Starlight Stage CMs",
+      "title_english": null,
+      "title_japanese": "アイドルマスター シンデレラガールズ スターライトステージ CMs",
+      "title_synonyms": [],
+      "type": "CM",
+      "source": "Game",
+      "episodes": 10,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-03T00:00:00+00:00",
+        "to": "2021-09-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": 6,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        "string": "Sep 3, 2020 to Sep 6, 2021"
+      },
+      "duration": "15 sec per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.02,
+      "scored_by": 157,
+      "rank": null,
+      "popularity": 18793,
+      "members": 464,
+      "favorites": 0,
+      "synopsis": "Assorted commercials for The IDOLM@STER Cinderella Girls: Starlight Stage mobile game.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1587,
+          "type": "anime",
+          "name": "Cygames",
+          "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1835,
+          "type": "anime",
+          "name": "CloverWorks",
+          "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        },
+        {
+          "mal_id": 1997,
+          "type": "anime",
+          "name": "Studio KAI",
+          "url": "https://myanimelist.net/anime/producer/1997/Studio_KAI"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 48538,
+      "url": "https://myanimelist.net/anime/48538/Trick_with_Treat_with_Undead",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1082/113648.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1082/113648t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1082/113648l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1082/113648.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1082/113648t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1082/113648l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Trick with Treat!! (with Undead)"
+        },
+        {
+          "type": "Japanese",
+          "title": "TRICK with TREAT!!(with UNDEAD)"
+        },
+        {
+          "type": "English",
+          "title": "Trick with Treat!! (with Undead)"
+        }
+      ],
+      "title": "Trick with Treat!! (with Undead)",
+      "title_english": "Trick with Treat!! (with Undead)",
+      "title_japanese": "TRICK with TREAT!!(with UNDEAD)",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 7, 2020"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.26,
+      "scored_by": 235,
+      "rank": null,
+      "popularity": 18841,
+      "members": 460,
+      "favorites": 1,
+      "synopsis": "A music video for one of Ensemble Star's units, 2wink, of their song Trick with Treat!! featuring Undead.",
+      "background": "The song is part of the Ensemble Stars! Unit Song CD 3 Vol.5 2wink album, which is the third single released by 2wink.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1793,
+          "type": "anime",
+          "name": "Happy Elements",
+          "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42834,
+      "url": "https://myanimelist.net/anime/42834/Miao_Qiansui_de_Chengnian_Li",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1048/109273.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1048/109273t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1048/109273l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1048/109273.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1048/109273t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1048/109273l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Miao Qiansui de Chengnian Li"
+        },
+        {
+          "type": "Synonym",
+          "title": "Miao Qian Sui de Cheng Nian Li"
+        },
+        {
+          "type": "Japanese",
+          "title": "喵千岁的成年礼"
+        }
+      ],
+      "title": "Miao Qiansui de Chengnian Li",
+      "title_english": null,
+      "title_japanese": "喵千岁的成年礼",
+      "title_synonyms": [
+        "Miao Qian Sui de Cheng Nian Li"
+      ],
+      "type": "ONA",
+      "source": "Game",
+      "episodes": 7,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-06T00:00:00+00:00",
+        "to": "2020-08-12T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": 12,
+            "month": 8,
+            "year": 2020
+          }
+        },
+        "string": "Aug 6, 2020 to Aug 12, 2020"
+      },
+      "duration": "2 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": 19090,
+      "popularity": 18891,
+      "members": 456,
+      "favorites": 0,
+      "synopsis": "Sanwei Mountain is home to an ancient civilization, where Miao Qiansui and her sister Nuluo live. Miao Qiansui is an innocent little girl, full of curiosity about the outside world. In her memory, there has always been a mysterious place called Moon Lake. But is the Moon Lake real? Can she go to Moon Lake smoothly?\n\n(Source: bilibili, translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2136,
+          "type": "anime",
+          "name": "Ten Tails Animation",
+          "url": "https://myanimelist.net/anime/producer/2136/Ten_Tails_Animation"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 42546,
+      "url": "https://myanimelist.net/anime/42546/Hulaing_Babies_Aratame_-_Staying_Babies__Chikyuu_wo_Mamore_Staying_Babies_with_Yuusha_Hayami-san",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1345/108661.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1345/108661t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1345/108661l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1345/108661.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1345/108661t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1345/108661l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san"
+        },
+        {
+          "type": "Synonym",
+          "title": "Hulaing Babies Aratame: Staying Babies Episode 4.5"
+        },
+        {
+          "type": "Synonym",
+          "title": "Hulaing Babies Aratame: Staying Babies Special"
+        },
+        {
+          "type": "Japanese",
+          "title": "フライングベイビーズ改め ステイングベイビーズ　第4.5話「地球を守れ！ステイングベイビーズ with 勇者ハヤミさん」"
+        }
+      ],
+      "title": "Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san",
+      "title_english": null,
+      "title_japanese": "フライングベイビーズ改め ステイングベイビーズ　第4.5話「地球を守れ！ステイングベイビーズ with 勇者ハヤミさん」",
+      "title_synonyms": [
+        "Hulaing Babies Aratame: Staying Babies Episode 4.5",
+        "Hulaing Babies Aratame: Staying Babies Special"
+      ],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 19, 2020"
+      },
+      "duration": "5 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.42,
+      "scored_by": 149,
+      "rank": 13203,
+      "popularity": 18976,
+      "members": 450,
+      "favorites": 0,
+      "synopsis": "Episode 4.5 of Hulaing Babies Aratame - Staying Babies.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2305,
+          "type": "anime",
+          "name": "Fukushima Gaina",
+          "url": "https://myanimelist.net/anime/producer/2305/Fukushima_Gaina"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 52528,
+      "url": "https://myanimelist.net/anime/52528/I_Just_Rock",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1110/126070.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1110/126070t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1110/126070l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1110/126070.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1110/126070t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1110/126070l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "I Just Rock"
+        },
+        {
+          "type": "Synonym",
+          "title": "Irodorimidori"
+        },
+        {
+          "type": "Synonym",
+          "title": "HaNaMiNa"
+        },
+        {
+          "type": "Japanese",
+          "title": "アイジャストロック"
+        }
+      ],
+      "title": "I Just Rock",
+      "title_english": null,
+      "title_japanese": "アイジャストロック",
+      "title_synonyms": [
+        "Irodorimidori",
+        "HaNaMiNa"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Sep 29, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": 5.58,
+      "scored_by": 241,
+      "rank": null,
+      "popularity": 19016,
+      "members": 447,
+      "favorites": 0,
+      "synopsis": "Official music video for the song I Just Rock by the fictional band HaNaMiNa. It is the 56th song in the Irodorimidori franchise.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 48531,
+      "url": "https://myanimelist.net/anime/48531/Bigbang_Reflection",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1523/113631.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1523/113631t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1523/113631l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1523/113631.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1523/113631t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1523/113631l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Bigbang Reflection!!"
+        },
+        {
+          "type": "Japanese",
+          "title": "BIGBANG REFLECTION!!"
+        },
+        {
+          "type": "English",
+          "title": "Bigbang Reflection!!"
+        }
+      ],
+      "title": "Bigbang Reflection!!",
+      "title_english": "Bigbang Reflection!!",
+      "title_japanese": "BIGBANG REFLECTION!!",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 9,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 9, 2020"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.98,
+      "scored_by": 212,
+      "rank": null,
+      "popularity": 19156,
+      "members": 438,
+      "favorites": 0,
+      "synopsis": "A music video for one of Ensemble Star's units, Trickstar, of their song Bigbang Reflection!!.",
+      "background": "The song is part of the Ensemble Stars!! idol song season1 Trickstar album.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1793,
+          "type": "anime",
+          "name": "Happy Elements",
+          "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42602,
+      "url": "https://myanimelist.net/anime/42602/Miloha_CM___Oresama_ni_Amae_Chai_na",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1255/121233.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1255/121233t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1255/121233l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1255/121233.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1255/121233t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1255/121233l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Miloha CM: Oresama ni, Amae Chai na"
+        },
+        {
+          "type": "Japanese",
+          "title": "Miloha（ミロハ）「オレ様に、甘えちゃいな。」"
+        }
+      ],
+      "title": "Miloha CM: Oresama ni, Amae Chai na",
+      "title_english": null,
+      "title_japanese": "Miloha（ミロハ）「オレ様に、甘えちゃいな。」",
+      "title_synonyms": [],
+      "type": "CM",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 2, 2020"
+      },
+      "duration": "20 sec",
+      "rating": "G - All Ages",
+      "score": 5.56,
+      "scored_by": 187,
+      "rank": null,
+      "popularity": 19326,
+      "members": 424,
+      "favorites": 1,
+      "synopsis": "A commercial for Morinaga's \"Miloha\" supplement milk drink, starring Keigo Atobe from Tennis no Ouji-sama.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 48525,
+      "url": "https://myanimelist.net/anime/48525/Last_Lament",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1105/113618.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1105/113618t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1105/113618l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1105/113618.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1105/113618t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1105/113618l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Last Lament"
+        },
+        {
+          "type": "Japanese",
+          "title": "Last Lament"
+        },
+        {
+          "type": "English",
+          "title": "Last Lament"
+        }
+      ],
+      "title": "Last Lament",
+      "title_english": "Last Lament",
+      "title_japanese": "Last Lament",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 19, 2020"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.19,
+      "scored_by": 219,
+      "rank": null,
+      "popularity": 19324,
+      "members": 424,
+      "favorites": 3,
+      "synopsis": "A music video for one of Ensemble Star's units, Valkyrie, of their song Last Lament.",
+      "background": "The song is part of the Ensemble Stars! Unit Song CD 3 Vol.4 Valkyrie album, which is the second single released by Valkyrie.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1793,
+          "type": "anime",
+          "name": "Happy Elements",
+          "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42673,
+      "url": "https://myanimelist.net/anime/42673/Rakuen_Tsuihou__Faith_Conquest",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1217/113602.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1217/113602t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1217/113602l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1217/113602.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1217/113602t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1217/113602l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Rakuen Tsuihou: Faith Conquest"
+        },
+        {
+          "type": "Japanese",
+          "title": "楽園追放 -Faith Conquest-"
+        }
+      ],
+      "title": "Rakuen Tsuihou: Faith Conquest",
+      "title_english": null,
+      "title_japanese": "楽園追放 -Faith Conquest-",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 18,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 18, 2020"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.28,
+      "scored_by": 188,
+      "rank": null,
+      "popularity": 19388,
+      "members": 417,
+      "favorites": 2,
+      "synopsis": "A music video for one of Ensemble Star's units, Eden, of their song Rakuen Tsuihou: Faith Conquest.",
+      "background": "The song is part of the ES Idol Song Season 1: Eden single, which is a new unit song featured in the Discord ◆ Internal Conquest event.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1793,
+          "type": "anime",
+          "name": "Happy Elements",
+          "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 42835,
+      "url": "https://myanimelist.net/anime/42835/Renwu_Dashi",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1726/109274.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/109274t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/109274l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1726/109274.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1726/109274t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1726/109274l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Renwu Dashi"
+        },
+        {
+          "type": "Synonym",
+          "title": "Ren Wu Da Shi"
+        },
+        {
+          "type": "Japanese",
+          "title": "任务大师"
+        },
+        {
+          "type": "English",
+          "title": "Master of Task"
+        }
+      ],
+      "title": "Renwu Dashi",
+      "title_english": "Master of Task",
+      "title_japanese": "任务大师",
+      "title_synonyms": [
+        "Ren Wu Da Shi"
+      ],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 6,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-03T00:00:00+00:00",
+        "to": "2020-09-12T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": 12,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Aug 3, 2020 to Sep 12, 2020"
+      },
+      "duration": "16 min per ep",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": 14947,
+      "popularity": 19429,
+      "members": 415,
+      "favorites": 0,
+      "synopsis": "This is an adventure story about Ah Shu and Ah Lang. Ah Shu is the executor of the mission, and Ah Lang is the intermediary of the \"Task Association,\" specifically looking for tasks for Ah Rat. While the two were constantly completing various difficult tasks, Ah Shu revealed his yearning for something indescribable – \"The Sea of ​​Stars\"; while Ah Lang was also looking for clues to the disappearance of the family during various tasks. The two learned from the mission that in addition to the present world, there is an \"upper world,\" and various signs indicate that Ah Shu's yearning and the clues Ah Lang is looking for point directly to the \"upper world,\" even \"more upper world.\"\n\nThrough their continuous adventures, they gradually learned that no matter which world, they cannot escape the fate of the tipping point of entropy.\n\n(Source: bilibili, translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2137,
+          "type": "anime",
+          "name": "1IN",
+          "url": "https://myanimelist.net/anime/producer/2137/1IN"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 52102,
+      "url": "https://myanimelist.net/anime/52102/Kako_ni_Torawareteiru",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1611/124535.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1611/124535t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1611/124535l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1611/124535.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1611/124535t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1611/124535l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kako ni Torawareteiru"
+        },
+        {
+          "type": "Japanese",
+          "title": "過去に囚われている"
+        },
+        {
+          "type": "English",
+          "title": "Trapped in the Past"
+        }
+      ],
+      "title": "Kako ni Torawareteiru",
+      "title_english": "Trapped in the Past",
+      "title_japanese": "過去に囚われている",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 28, 2020"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.6,
+      "scored_by": 201,
+      "rank": null,
+      "popularity": 19423,
+      "members": 415,
+      "favorites": 2,
+      "synopsis": "Music video of the song Kako ni Torawareteiru by TUYU.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2525,
+          "type": "anime",
+          "name": "Hurray!",
+          "url": "https://myanimelist.net/anime/producer/2525/Hurray"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 48560,
+      "url": "https://myanimelist.net/anime/48560/Play_Tag",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1467/113708.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1467/113708t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1467/113708l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1467/113708.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1467/113708t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1467/113708l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Play \"Tag\""
+        },
+        {
+          "type": "Japanese",
+          "title": "Play \"Tag\""
+        },
+        {
+          "type": "English",
+          "title": "Play \"Tag\""
+        }
+      ],
+      "title": "Play \"Tag\"",
+      "title_english": "Play \"Tag\"",
+      "title_japanese": "Play \"Tag\"",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 16,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 16, 2020"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.94,
+      "scored_by": 213,
+      "rank": null,
+      "popularity": 19435,
+      "members": 415,
+      "favorites": 0,
+      "synopsis": "A music video for one of Ensemble Star's units, 2wink, of their song Play \"Tag\".",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1793,
+          "type": "anime",
+          "name": "Happy Elements",
+          "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 51602,
+      "url": "https://myanimelist.net/anime/51602/Larva_Island_Movie",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1534/122644.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1534/122644t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1534/122644l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1534/122644.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1534/122644t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1534/122644l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Larva Island Movie"
+        },
+        {
+          "type": "Japanese",
+          "title": "라바 아일랜드 무비"
+        }
+      ],
+      "title": "Larva Island Movie",
+      "title_english": null,
+      "title_japanese": "라바 아일랜드 무비",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 23,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 23, 2020"
+      },
+      "duration": "1 hr 28 min",
+      "rating": "G - All Ages",
+      "score": 6.2,
+      "scored_by": 174,
+      "rank": 9307,
+      "popularity": 19432,
+      "members": 414,
+      "favorites": 1,
+      "synopsis": "In this movie sequel to the hit series, Chuck returns home and talks to a reporter about life on the island with zany larva pals Red and Yellow.\n\n(Source: IMDb)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1292,
+          "type": "anime",
+          "name": "TUBA",
+          "url": "https://myanimelist.net/anime/producer/1292/TUBA"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 57,
+          "type": "anime",
+          "name": "Gag Humor",
+          "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 42179,
+      "url": "https://myanimelist.net/anime/42179/Lalalacoco_II",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1354/107937.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1354/107937t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1354/107937l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1354/107937.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1354/107937t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1354/107937l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Lalalacoco II"
+        },
+        {
+          "type": "Synonym",
+          "title": "Lalalacoco Second Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "LALALACOCO II"
+        }
+      ],
+      "title": "Lalalacoco II",
+      "title_english": null,
+      "title_japanese": "LALALACOCO II",
+      "title_synonyms": [
+        "Lalalacoco Second Season"
+      ],
+      "type": "TV",
+      "source": "Other",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-07T00:00:00+00:00",
+        "to": "2020-09-22T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": 22,
+            "month": 9,
+            "year": 2020
+          }
+        },
+        "string": "Jul 7, 2020 to Sep 22, 2020"
+      },
+      "duration": "Unknown",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 18600,
+      "popularity": 19527,
+      "members": 408,
+      "favorites": 0,
+      "synopsis": "Second season of Lalalacoco.",
+      "background": "",
+      "season": "summer",
+      "year": 2020,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 126,
+          "type": "anime",
+          "name": "Studio Comet",
+          "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 48530,
+      "url": "https://myanimelist.net/anime/48530/Knockin_Fantasy",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1173/113630.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1173/113630t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1173/113630l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1173/113630.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1173/113630t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1173/113630l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Knockin' Fantasy"
+        },
+        {
+          "type": "Japanese",
+          "title": "Knockin' Fantasy"
+        },
+        {
+          "type": "English",
+          "title": "Knockin' Fantasy"
+        }
+      ],
+      "title": "Knockin' Fantasy",
+      "title_english": "Knockin' Fantasy",
+      "title_japanese": "Knockin' Fantasy",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 14,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 14, 2020"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.08,
+      "scored_by": 201,
+      "rank": null,
+      "popularity": 19559,
+      "members": 405,
+      "favorites": 0,
+      "synopsis": "A music video for one of Ensemble Star's units, Switch, of their song Knockin' Fantasy.",
+      "background": "The song is part of the Ensemble Stars! Unit Song CD 2 Vol.8 Switch album, which is the first single released by Switch.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1793,
+          "type": "anime",
+          "name": "Happy Elements",
+          "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 48541,
+      "url": "https://myanimelist.net/anime/48541/Habataki_no_Fortissimo",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1007/131641.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1007/131641t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1007/131641l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1007/131641.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1007/131641t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1007/131641l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Habataki no Fortissimo"
+        },
+        {
+          "type": "Japanese",
+          "title": "羽ばたきのフォルティシモ"
+        },
+        {
+          "type": "English",
+          "title": "Fortissimo of Fluttering Wings"
+        }
+      ],
+      "title": "Habataki no Fortissimo",
+      "title_english": "Fortissimo of Fluttering Wings",
+      "title_japanese": "羽ばたきのフォルティシモ",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-09-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 9,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Sep 7, 2020"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.91,
+      "scored_by": 193,
+      "rank": null,
+      "popularity": 19562,
+      "members": 405,
+      "favorites": 0,
+      "synopsis": "A music video for one of Ensemble Star's units, fine, of their song Habataki no Fortissimo.",
+      "background": "The song is part of the ENSEMBLE STARS! ALBUM SERIES PRESENT -fine- album, which is the first studio album released by fine.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 48558,
+      "url": "https://myanimelist.net/anime/48558/Emerald_Planet",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1475/113698.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1475/113698t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1475/113698l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1475/113698.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1475/113698t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1475/113698l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Emerald Planet"
+        },
+        {
+          "type": "Japanese",
+          "title": "エメラルドプラネット"
+        },
+        {
+          "type": "English",
+          "title": "Emerald Planet"
+        }
+      ],
+      "title": "Emerald Planet",
+      "title_english": "Emerald Planet",
+      "title_japanese": "エメラルドプラネット",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 6, 2020"
+      },
+      "duration": "2 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.14,
+      "scored_by": 205,
+      "rank": null,
+      "popularity": 19602,
+      "members": 402,
+      "favorites": 1,
+      "synopsis": "A music video for one of Ensemble Star's units, Switch, of their song Emerald Planet.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1793,
+          "type": "anime",
+          "name": "Happy Elements",
+          "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    }
+  ]
+}

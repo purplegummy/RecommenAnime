@@ -1,0 +1,2245 @@
+{
+  "pagination": {
+    "last_visible_page": 10,
+    "has_next_page": false,
+    "current_page": 10,
+    "items": {
+      "count": 20,
+      "total": 245,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 57786,
+      "url": "https://myanimelist.net/anime/57786/Sekai_no_Chizu",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1855/140833.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1855/140833t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1855/140833l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1855/140833.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1855/140833t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1855/140833l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Sekai no Chizu"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "世界の地図"
+        }
+      ],
+      "title": "Sekai no Chizu",
+      "title_english": null,
+      "title_japanese": "世界の地図",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 1, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25204,
+      "members": 137,
+      "favorites": 0,
+      "synopsis": "Music video for the song Sekai no Chizu by OAU and the Suginami Jidou Gasshoudan that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 59760,
+      "url": "https://myanimelist.net/anime/59760/Yes_and_No",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1798/145344.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1798/145344t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1798/145344l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1798/145344.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1798/145344t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1798/145344l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yes and No"
+        },
+        {
+          "type": "Japanese",
+          "title": "YES AND NO"
+        }
+      ],
+      "title": "Yes and No",
+      "title_english": null,
+      "title_japanese": "YES AND NO",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 28, 2020"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25237,
+      "members": 137,
+      "favorites": 0,
+      "synopsis": "Music video for the song Yes and No by Dreams Come True.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1684,
+          "type": "anime",
+          "name": "THINKR",
+          "url": "https://myanimelist.net/anime/producer/1684/THINKR"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2067,
+          "type": "anime",
+          "name": "Flat Studio",
+          "url": "https://myanimelist.net/anime/producer/2067/Flat_Studio"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 56464,
+      "url": "https://myanimelist.net/anime/56464/Haru",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1928/138097.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1928/138097t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1928/138097l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1928/138097.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1928/138097t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1928/138097l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Haru"
+        },
+        {
+          "type": "Japanese",
+          "title": "ハル"
+        },
+        {
+          "type": "English",
+          "title": "Spring"
+        }
+      ],
+      "title": "Haru",
+      "title_english": "Spring",
+      "title_japanese": "ハル",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-05-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 13,
+            "month": 5,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 13, 2020"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25521,
+      "members": 131,
+      "favorites": 0,
+      "synopsis": "Music video for the song Haru by Natsu to Suisei, featuring Chohee (from Dareharu).",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 36,
+          "type": "anime",
+          "name": "Slice of Life",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 57235,
+      "url": "https://myanimelist.net/anime/57235/Change_the_World_Again",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1176/139776.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1176/139776t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1176/139776l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1176/139776.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1176/139776t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1176/139776l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Change the World Again"
+        },
+        {
+          "type": "Japanese",
+          "title": "Change the World Again"
+        }
+      ],
+      "title": "Change the World Again",
+      "title_english": null,
+      "title_japanese": "Change the World Again",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-05-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 13,
+            "month": 5,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 13, 2020"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25700,
+      "members": 127,
+      "favorites": 0,
+      "synopsis": "Music video for the song Change the World Again by Tomoyuki Tanaka, featuring Hiroshi Takano and Ikuko Harada.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2861,
+          "type": "anime",
+          "name": "KWANED",
+          "url": "https://myanimelist.net/anime/producer/2861/KWANED"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55486,
+      "url": "https://myanimelist.net/anime/55486/Yoakemade",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1680/136140.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1680/136140t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1680/136140l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1680/136140.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1680/136140t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1680/136140l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yoakemade"
+        },
+        {
+          "type": "Japanese",
+          "title": "夜明けまで"
+        },
+        {
+          "type": "English",
+          "title": "Until Dawn"
+        }
+      ],
+      "title": "Yoakemade",
+      "title_english": "Until Dawn",
+      "title_japanese": "夜明けまで",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 8, 2020"
+      },
+      "duration": "5 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 25923,
+      "members": 123,
+      "favorites": 0,
+      "synopsis": "Music video for the song Yoakemade by Ryushen.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 59140,
+      "url": "https://myanimelist.net/anime/59140/Tobot_V_Season_2",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1888/143733.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1888/143733t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1888/143733l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1888/143733.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1888/143733t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1888/143733l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tobot V Season 2"
+        },
+        {
+          "type": "Japanese",
+          "title": "또봇 V 시즌 2"
+        },
+        {
+          "type": "English",
+          "title": "Tobot: Galaxy Detectives Season 2"
+        }
+      ],
+      "title": "Tobot V Season 2",
+      "title_english": "Tobot: Galaxy Detectives Season 2",
+      "title_japanese": "또봇 V 시즌 2",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 48,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-03-19T00:00:00+00:00",
+        "to": "2021-03-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 3,
+            "year": 2020
+          },
+          "to": {
+            "day": 4,
+            "month": 3,
+            "year": 2021
+          }
+        },
+        "string": "Mar 19, 2020 to Mar 4, 2021"
+      },
+      "duration": "11 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 16060,
+      "popularity": 25913,
+      "members": 123,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": "spring",
+      "year": 2020,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 48072,
+      "url": "https://myanimelist.net/anime/48072/Guai_Tao_Yu_Nao_Gua",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1849/115247.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1849/115247t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1849/115247l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1849/115247.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1849/115247t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1849/115247l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Guai Tao Yu Nao Gua"
+        },
+        {
+          "type": "Japanese",
+          "title": "乖桃与闹瓜"
+        },
+        {
+          "type": "English",
+          "title": "Kiwi & Strit"
+        }
+      ],
+      "title": "Guai Tao Yu Nao Gua",
+      "title_english": "Kiwi & Strit",
+      "title_japanese": "乖桃与闹瓜",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-06T00:00:00+00:00",
+        "to": "2020-01-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": 1,
+            "month": 1,
+            "year": 2020
+          }
+        },
+        "string": "Jun 6, 2020 to 2020"
+      },
+      "duration": "5 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 21879,
+      "popularity": 25981,
+      "members": 122,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 48012,
+      "url": "https://myanimelist.net/anime/48012/Wuzhuang_Jingling",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1923/118291.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1923/118291t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1923/118291l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1923/118291.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1923/118291t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1923/118291l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Wuzhuang Jingling"
+        },
+        {
+          "type": "Japanese",
+          "title": "武装精灵"
+        }
+      ],
+      "title": "Wuzhuang Jingling",
+      "title_english": null,
+      "title_japanese": "武装精灵",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 40,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-05-01T00:00:00+00:00",
+        "to": "2020-01-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 5,
+            "year": 2020
+          },
+          "to": {
+            "day": 1,
+            "month": 1,
+            "year": 2020
+          }
+        },
+        "string": "May 1, 2020 to 2020"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 16682,
+      "popularity": 26092,
+      "members": 120,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 59014,
+      "url": "https://myanimelist.net/anime/59014/Crong_Crong_Ujudaesodong",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1758/143469.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1758/143469t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1758/143469l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1758/143469.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1758/143469t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1758/143469l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Crong Crong Ujudaesodong"
+        },
+        {
+          "type": "Japanese",
+          "title": "크롱크롱 우주대소동"
+        },
+        {
+          "type": "English",
+          "title": "Crong Crong The Space Adventure"
+        }
+      ],
+      "title": "Crong Crong Ujudaesodong",
+      "title_english": "Crong Crong The Space Adventure",
+      "title_japanese": "크롱크롱 우주대소동",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-05-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 5,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 2020"
+      },
+      "duration": "21 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 21065,
+      "popularity": 27181,
+      "members": 104,
+      "favorites": 0,
+      "synopsis": "All of the sudden, aliens who look exactly like Crong appeared in Porong Porong Village! Crong followed those aliens who look and act just like him into the space. Pororo and Eddie decided to go to space to find Crong. Where did the aliens, who looked like Crong come from? Will Crong can return to Porong Porong village?\n\n(Source: Amazon Prime)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2954,
+          "type": "anime",
+          "name": "Studio Button",
+          "url": "https://myanimelist.net/anime/producer/2954/Studio_Button"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 51,
+          "type": "anime",
+          "name": "Anthropomorphic",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        },
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "Space",
+          "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57794,
+      "url": "https://myanimelist.net/anime/57794/Shikakui_Namida_April_22_2020",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1545/140842.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1545/140842t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1545/140842l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1545/140842.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1545/140842t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1545/140842l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shikakui Namida (April 22, 2020)"
+        },
+        {
+          "type": "Japanese",
+          "title": "しかくい涙"
+        }
+      ],
+      "title": "Shikakui Namida (April 22, 2020)",
+      "title_english": null,
+      "title_japanese": "しかくい涙",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-04-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 22,
+            "month": 4,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 22, 2020"
+      },
+      "duration": "3 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 27406,
+      "members": 101,
+      "favorites": 0,
+      "synopsis": "Music video for the song Shikakui Namida by SETA.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 47803,
+      "url": "https://myanimelist.net/anime/47803/Xin_Qi_Bao_Long_Zhan_Che_2__Ji_Jia_Zhan_Long",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1799/129291.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1799/129291t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1799/129291l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1799/129291.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1799/129291t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1799/129291l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xin Qi Bao Long Zhan Che 2: Ji Jia Zhan Long"
+        },
+        {
+          "type": "Japanese",
+          "title": "心奇爆龙战车2之机甲战龙"
+        }
+      ],
+      "title": "Xin Qi Bao Long Zhan Che 2: Ji Jia Zhan Long",
+      "title_english": null,
+      "title_japanese": "心奇爆龙战车2之机甲战龙",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 32,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 27,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 27, 2020 to ?"
+      },
+      "duration": "13 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 17029,
+      "popularity": 27884,
+      "members": 95,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57776,
+      "url": "https://myanimelist.net/anime/57776/Makana_Aloha__Kokoro_kara_no_Okurimono",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1982/140811.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1982/140811t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1982/140811l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1982/140811.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1982/140811t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1982/140811l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Makana Aloha: Kokoro kara no Okurimono"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "マカナアロハ ～心からのおくりもの～"
+        }
+      ],
+      "title": "Makana Aloha: Kokoro kara no Okurimono",
+      "title_english": null,
+      "title_japanese": "マカナアロハ ～心からのおくりもの～",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 1, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 28311,
+      "members": 90,
+      "favorites": 0,
+      "synopsis": "Music video for the song Makana Aloha: Kokoro kara no Okurimono by ChiyoTia that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 47832,
+      "url": "https://myanimelist.net/anime/47832/Xiao_Liangmao_2__Mofa_Liangmao",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1231/129319.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1231/129319t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1231/129319l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1231/129319.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1231/129319t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1231/129319l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Xiao Liangmao 2: Mofa Liangmao"
+        },
+        {
+          "type": "Japanese",
+          "title": "小凉帽2之魔法凉帽"
+        }
+      ],
+      "title": "Xiao Liangmao 2: Mofa Liangmao",
+      "title_english": null,
+      "title_japanese": "小凉帽2之魔法凉帽",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-05-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 5,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 1, 2020 to ?"
+      },
+      "duration": "13 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 16835,
+      "popularity": 28480,
+      "members": 89,
+      "favorites": 0,
+      "synopsis": null,
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57408,
+      "url": "https://myanimelist.net/anime/57408/Hanabi_2020",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1130/140105.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1130/140105t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1130/140105l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1130/140105.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1130/140105t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1130/140105l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hanabi (2020)"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "花日"
+        }
+      ],
+      "title": "Hanabi (2020)",
+      "title_english": null,
+      "title_japanese": "花日",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 1, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 28423,
+      "members": 89,
+      "favorites": 0,
+      "synopsis": "Music video for the song Hanabi by RED RICE (from Shounan no Kaze), that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57831,
+      "url": "https://myanimelist.net/anime/57831/Yoake_wo_Kuchizusametara",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1829/140900.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1829/140900t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1829/140900l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1829/140900.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1829/140900t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1829/140900l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Yoake wo Kuchizusametara"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "夜明けをくちずさめたら"
+        }
+      ],
+      "title": "Yoake wo Kuchizusametara",
+      "title_english": null,
+      "title_japanese": "夜明けをくちずさめたら",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 1, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 28436,
+      "members": 89,
+      "favorites": 0,
+      "synopsis": "Music video for the song Yoake wo Kuchizusametara by Mone Kamishiraishi that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 2882,
+          "type": "anime",
+          "name": "THREE IS A MAGIC NUMBER",
+          "url": "https://myanimelist.net/anime/producer/2882/THREE_IS_A_MAGIC_NUMBER"
+        }
+      ],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 57793,
+      "url": "https://myanimelist.net/anime/57793/Shikakui_Namida",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1599/140841.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1599/140841t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1599/140841l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1599/140841.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1599/140841t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1599/140841l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Shikakui Namida"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "しかくい涙"
+        }
+      ],
+      "title": "Shikakui Namida",
+      "title_english": null,
+      "title_japanese": "しかくい涙",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 4,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2, 2020"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 28906,
+      "members": 84,
+      "favorites": 0,
+      "synopsis": "Music video for the song Shikakui Namida by SETA that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 59599,
+      "url": "https://myanimelist.net/anime/59599/Kensaku_to_Enjin_no_Goshigoshi_Tearai",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1347/152539.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1347/152539t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1347/152539l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1347/152539.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1347/152539t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1347/152539l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kensaku to Enjin no Goshigoshi Tearai"
+        },
+        {
+          "type": "Japanese",
+          "title": "けんさくとえんじんのゴシゴシ手あらい"
+        },
+        {
+          "type": "English",
+          "title": "Wash Your Hands with Kensaku & Enjin"
+        }
+      ],
+      "title": "Kensaku to Enjin no Goshigoshi Tearai",
+      "title_english": "Wash Your Hands with Kensaku & Enjin",
+      "title_japanese": "けんさくとえんじんのゴシゴシ手あらい",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 24,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 24, 2020"
+      },
+      "duration": "53 sec",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 18262,
+      "popularity": 29434,
+      "members": 71,
+      "favorites": 0,
+      "synopsis": "Kensaku and Enjin will introduce how to wash your hands to music♪\nLet's sing together with a fun rhythm.\n\n(Source: Kensaku to Enjin Official YouTube Channel; translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 795,
+          "type": "anime",
+          "name": "Yahoo! Japan",
+          "url": "https://myanimelist.net/anime/producer/795/Yahoo_Japan"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "Educational",
+          "url": "https://myanimelist.net/anime/genre/56/Educational"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 59599,
+      "url": "https://myanimelist.net/anime/59599/Kensaku_to_Enjin_no_Goshigoshi_Tearai",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1347/152539.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1347/152539t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1347/152539l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1347/152539.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1347/152539t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1347/152539l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Kensaku to Enjin no Goshigoshi Tearai"
+        },
+        {
+          "type": "Japanese",
+          "title": "けんさくとえんじんのゴシゴシ手あらい"
+        },
+        {
+          "type": "English",
+          "title": "Wash Your Hands with Kensaku & Enjin"
+        }
+      ],
+      "title": "Kensaku to Enjin no Goshigoshi Tearai",
+      "title_english": "Wash Your Hands with Kensaku & Enjin",
+      "title_japanese": "けんさくとえんじんのゴシゴシ手あらい",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 24,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 24, 2020"
+      },
+      "duration": "53 sec",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 18262,
+      "popularity": 29434,
+      "members": 71,
+      "favorites": 0,
+      "synopsis": "Kensaku and Enjin will introduce how to wash your hands to music♪\nLet's sing together with a fun rhythm.\n\n(Source: Kensaku to Enjin Official YouTube Channel; translated)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 795,
+          "type": "anime",
+          "name": "Yahoo! Japan",
+          "url": "https://myanimelist.net/anime/producer/795/Yahoo_Japan"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 56,
+          "type": "anime",
+          "name": "Educational",
+          "url": "https://myanimelist.net/anime/genre/56/Educational"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 56867,
+      "url": "https://myanimelist.net/anime/56867/Unknown_World_Map",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1404/138981.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1404/138981t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1404/138981l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1404/138981.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1404/138981t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1404/138981l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Unknown World Map"
+        },
+        {
+          "type": "Japanese",
+          "title": "アンノウン・ワールドマップ"
+        }
+      ],
+      "title": "Unknown World Map",
+      "title_english": null,
+      "title_japanese": "アンノウン・ワールドマップ",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-06-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 6,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 19, 2020"
+      },
+      "duration": "4 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29567,
+      "members": 62,
+      "favorites": 0,
+      "synopsis": "360° music video for the Yakushimaru Etsuko song Unknown World Map used as the ending theme for High Score Girl II.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 63422,
+      "url": "https://myanimelist.net/anime/63422/Jewelry",
+      "images": {
+        "jpg": {
+          "image_url": "https://myanimelist.net/images/anime/1459/155290.jpg",
+          "small_image_url": "https://myanimelist.net/images/anime/1459/155290t.jpg",
+          "large_image_url": "https://myanimelist.net/images/anime/1459/155290l.jpg"
+        },
+        "webp": {
+          "image_url": "https://myanimelist.net/images/anime/1459/155290.webp",
+          "small_image_url": "https://myanimelist.net/images/anime/1459/155290t.webp",
+          "large_image_url": "https://myanimelist.net/images/anime/1459/155290l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Jewelry"
+        },
+        {
+          "type": "Japanese",
+          "title": "Jewelry"
+        }
+      ],
+      "title": "Jewelry",
+      "title_english": null,
+      "title_japanese": "Jewelry",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-05-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 23,
+            "month": 5,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 23, 2020"
+      },
+      "duration": "4 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 29644,
+      "members": 54,
+      "favorites": 0,
+      "synopsis": "Music video for the song Jewelry by Sano ibuki.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    }
+  ]
+}
