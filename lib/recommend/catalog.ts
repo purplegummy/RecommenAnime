@@ -77,7 +77,7 @@ function chooseImage(entry: JikanAnime) {
   );
 }
 
-const SEQUEL_SUFFIX = /(?:\s+(?:2nd|3rd|\d+(?:st|nd|rd|th))\s+season|\s+season\s+\d+|\s+part\s+\d+|\s+cour\s+\d+|\s+(?:II|III|IV|V|VI|VII|VIII|IX|X)(?:\s|$)|\s+\d+$)/i;
+const SEQUEL_SUFFIX = /(?:\s+(?:2nd|3rd|\d+(?:st|nd|rd|th))\s+[Ss][Ee][Aa][Ss][Oo][Nn]|\s+[Ss][Ee][Aa][Ss][Oo][Nn]\s+\d+|\s+[Pp][Aa][Rr][Tt]\s+\d+|\s+[Cc][Oo][Uu][Rr]\s+\d+|\s+(?:II|III|IV|V|VI|VII|VIII|IX|X)(?:\s|$)|\s+\d+$)/;
 
 function isSequelLikeTitle(title: string | null) {
   if (!title) return false;
