@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# RecommenAnime
 
-## Getting Started
+**Graph-neural-network-powered anime recommendations.** Pick a few anime you like and RecommenAnime finds similar titles using embeddings learned by a heterogeneous GNN.
 
-First, run the development server:
+🔗 **Live demo:** [recommen-anime.vercel.app](https://recommen-anime.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<!-- TODO: add a screenshot or GIF of the app, e.g. ![RecommenAnime demo](public/demo.gif) -->
+
+---
+
+## Features
+
+- **Seed-based recommendations**: choose one or more anime as seeds and get ranked recommendations instantly
+- **Dynamic filtering**: narrow results without re-running the whole pipeline
+- **Seed reordering and feedback**: adjust your seeds and see recommendations update in real time
+- **Franchise deduplication**: sequels and spin-offs of the same series don't flood the results
+- **Cold-start fallbacks**: sensible results even when a title has weak embedding signal
+- **Responsive UI**: in-flight requests are cancelled when inputs change, so the UI never shows stale results
+
+## How it works
+
+```
+ Offline (Python)                          Online (Next.js on Vercel)
+┌───────────────────────────┐            ┌──────────────────────────────────────┐
+│ Anime / user interaction  │            │  React client                        │
+│ data → heterogeneous graph│            │   │  seeds + filters                 │
+│           │               │            │   ▼                                  │
+│ PyTorch Geometric GNN     │            │  Typed API route                     │
+│           │               │            │   │  validation + pagination         │
+│ 64-dim anime embeddings ──┼── export ─▶│  Recommendation service              │
+└───────────────────────────┘            │   • cached catalog + embeddings      │
+                                         │   • cosine similarity ranking        │
+                                         │   • filtering + franchise dedup      │
+                                         │   • cold-start fallback              │
+                                         └──────────────────────────────────────┘
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Training (offline):** A heterogeneous graph neural network built with PyTorch Geometric learns a 64-dimensional embedding for each anime.
+2. **Serving (online):** The embeddings and catalog are loaded and cached server-side. A request's seed titles are combined and compared against the catalog by cosine similarity, then filtered, deduplicated by franchise, and paginated.
+3. **Client:** The React frontend manages recommendation state asynchronously, cancelling outdated requests as the user changes seeds or filters.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<!-- TODO: add catalog size and typical response time, e.g. "Serves recommendations over N titles in ~X ms" -->
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech stack
 
-## Learn More
+| Layer | Tools |
+| --- | --- |
+| Frontend | Next.js, React, TypeScript |
+| Backend | Next.js API routes (TypeScript) |
+| ML | Python, PyTorch Geometric |
+| Deployment | Vercel |
 
-To learn more about Next.js, take a look at the following resources:
+## Project structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+app/          Next.js pages and API routes
+components/   React UI components
+lib/          Recommendation logic and shared types
+data/         Precomputed embeddings and anime catalog
+public/       Static assets
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<!-- TODO: if the GNN training code lives in another repo, link it here. Otherwise, add it under a training/ folder. -->
 
-## Deploy on Vercel
+## Running locally
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+git clone https://github.com/purplegummy/RecommenAnime.git
+cd RecommenAnime
+npm install
+npm run dev
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Then open [http://localhost:3000](http://localhost:3000).
+
+## Author
+
+Built by [Prasit Dhungyel](https://github.com/purplegummy) · [LinkedIn](https://www.linkedin.com/in/prasit-dhungyel-1856a3271/)
